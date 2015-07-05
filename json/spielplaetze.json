@@ -1,0 +1,2466 @@
+[
+  {
+    "name": "Spielplatz Paunsdorfer Straße",
+    "url": "spielplatz-paunsdorfer-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Ost"
+  },
+  {
+    "name": "Spielplatz Abtnaundorfer Park",
+    "url": "spielplatz-abtnaundorfer-park",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönefeld-Abtnaundorf"
+  },
+  {
+    "name": "Spielplatz Akeleiweg",
+    "url": "spielplatz-akeleiweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz Albrecht-Dürer-Platz",
+    "url": "spielplatz-albrecht-duerer-platz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Südvorstadt"
+  },
+  {
+    "name": "Spielplatz Alexis-Schumann-Platz",
+    "url": "spielplatz-alexis-schumann-platz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Südvorstadt"
+  },
+  {
+    "name": "Spielplatz Alfred-Frank-Platz",
+    "url": "spielplatz-alfred-frank-platz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Alte Gleistrasse",
+    "url": "spielplatz-alte-gleistrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Plagwitz"
+  },
+  {
+    "name": "Spielplatz Alte Salzstraße – Am Kindergarten",
+    "url": "spielplatz-alte-salzstrasse-am-kindergarten",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lausen-Grünau"
+  },
+  {
+    "name": "Spielplatz Alte Salzstraße – Ballplatz",
+    "url": "spielplatz-alte-salzstrasse-ballplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Spielplatz Alte Salzstraße – Kletterplatz",
+    "url": "spielplatz-alte-salzstrasse-kletterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Spielplatz Alte Salzstraße",
+    "url": "spielplatz-alte-salzstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Ost"
+  },
+  {
+    "name": "Spielplatz Alte Theklaer Straße",
+    "url": "spielplatz-alte-theklaer-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Plaußig-Portitz"
+  },
+  {
+    "name": "Spielplatz Althener Anger",
+    "url": "spielplatz-althener-anger",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Althen-Kleinpösna"
+  },
+  {
+    "name": "Spielplatz Am alten Forsthaus",
+    "url": "spielplatz-am-alten-forsthaus",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Wahren"
+  },
+  {
+    "name": "Spielplatz Am Amtsgericht",
+    "url": "spielplatz-am-amtsgericht",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Südvorstadt"
+  },
+  {
+    "name": "Spielplatz Am Angerteich",
+    "url": "spielplatz-am-angerteich",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Liebertwolkwitz"
+  },
+  {
+    "name": "Spielplatz Am Auensee",
+    "url": "spielplatz-am-auensee",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Wahren"
+  },
+  {
+    "name": "Spielplatz Am Brunnen",
+    "url": "spielplatz-am-brunnen",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lützschena-Stahmeln"
+  },
+  {
+    "name": "Spielplatz Am Cospudener See",
+    "url": "spielplatz-am-cospudener-see",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Großzschocher"
+  },
+  {
+    "name": "Spielplatz Am Dorfteich",
+    "url": "spielplatz-am-dorfteich",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Althen-Kleinpösna"
+  },
+  {
+    "name": "Spielplatz Am Felsental",
+    "url": "spielplatz-am-felsental",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Knautkleeberg-Knauthain"
+  },
+  {
+    "name": "Spielplatz Am Fockeberg",
+    "url": "spielplatz-am-fockeberg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Südvorstadt"
+  },
+  {
+    "name": "Spielplatz Am Gänseanger",
+    "url": "spielplatz-am-gaenseanger",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Liebertwolkwitz"
+  },
+  {
+    "name": "Spielplatz Am Garagenhof",
+    "url": "spielplatz-am-garagenhof",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönefeld-Ost"
+  },
+  {
+    "name": "Spielplatz Am Haferring",
+    "url": "spielplatz-am-haferring",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Wiederitzsch"
+  },
+  {
+    "name": "Spielplatz Am Kindergarten",
+    "url": "spielplatz-am-kindergarten",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Nord"
+  },
+  {
+    "name": "Spielplatz Am kleinen Feld",
+    "url": "spielplatz-am-kleinen-feld",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Nord"
+  },
+  {
+    "name": "Spielplatz Am Klucksgraben",
+    "url": "spielplatz-am-klucksgraben",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Knautkleeberg-Knauthain"
+  },
+  {
+    "name": "Spielplatz Am Moosbeerweg",
+    "url": "spielplatz-am-moosbeerweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Knautkleeberg-Knauthain"
+  },
+  {
+    "name": "Spielplatz Am Mückenschlößchen",
+    "url": "spielplatz-am-mueckenschloesschen",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Nordwest"
+  },
+  {
+    "name": "Spielplatz Am Obstgarten",
+    "url": "spielplatz-am-obstgarten",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Kleinzschocher"
+  },
+  {
+    "name": "Spielplatz Am Ochsenweg",
+    "url": "spielplatz-am-ochsenweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Burghausen-Rückmarsdorf"
+  },
+  {
+    "name": "Spielplatz Am Pilzanger",
+    "url": "spielplatz-am-pilzanger",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Knautkleeberg-Knauthain"
+  },
+  {
+    "name": "Spielplatz Am Polenweg",
+    "url": "spielplatz-am-polenweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Probstheida"
+  },
+  {
+    "name": "Spielplatz Am Pösgraben",
+    "url": "spielplatz-am-poesgraben",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Althen-Kleinpösna"
+  },
+  {
+    "name": "Spielplatz Am Rehbacher Anger",
+    "url": "spielplatz-am-rehbacher-anger",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Hartmannsdorf-Knautnaundorf"
+  },
+  {
+    "name": "Spielplatz Am Robert-Schumann-Gymnasium",
+    "url": "spielplatz-am-robert-schumann-gymnasium",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Spielplatz Am Schwarzdornweg",
+    "url": "spielplatz-am-schwarzdornweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Knautkleeberg-Knauthain"
+  },
+  {
+    "name": "Spielplatz Am Tschechenbogen",
+    "url": "spielplatz-am-tschechenbogen",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Probstheida"
+  },
+  {
+    "name": "Spielplatz Am Übergang",
+    "url": "spielplatz-am-uebergang",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Ost"
+  },
+  {
+    "name": "Spielplatz Am Wasserschloß",
+    "url": "spielplatz-am-wasserschloss",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Leutzsch"
+  },
+  {
+    "name": "Spielplatz Ampéreweg",
+    "url": "spielplatz-ampereweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Spielplatz An den Gleisen",
+    "url": "spielplatz-an-den-gleisen",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Spielplatz An den Linden",
+    "url": "spielplatz-an-den-linden",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Burghausen-Rückmarsdorf"
+  },
+  {
+    "name": "Spielplatz An der AOK",
+    "url": "spielplatz-an-der-aok",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schleußig"
+  },
+  {
+    "name": "Spielplatz An der Badeanlage",
+    "url": "spielplatz-an-der-badeanlage",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Liebertwolkwitz"
+  },
+  {
+    "name": "Spielplatz An der Fröbel-Schule",
+    "url": "spielplatz-an-der-froebel-schule",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Spielplatz An der Grundschule",
+    "url": "spielplatz-an-der-grundschule",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz An der Helmholtzschule",
+    "url": "spielplatz-an-der-helmholtzschule",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lindenau"
+  },
+  {
+    "name": "Spielplatz An der Kirche",
+    "url": "spielplatz-an-der-kirche",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Holzhausen"
+  },
+  {
+    "name": "Spielplatz An der Märchenwiese ",
+    "url": "spielplatz-an-der-maerchenwiese",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Marienbrunn"
+  },
+  {
+    "name": "Spielplatz An der Parkallee – Holzplatz",
+    "url": "spielplatz-an-der-parkallee-holzplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Ost"
+  },
+  {
+    "name": "Spielplatz An der Parkallee – Tischtennisplatz",
+    "url": "spielplatz-an-der-parkallee-tischtennisplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Ost"
+  },
+  {
+    "name": "Spielplatz An der Schule",
+    "url": "spielplatz-an-der-schule",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lindenthal"
+  },
+  {
+    "name": "Spielplatz An der Wendeschleife",
+    "url": "spielplatz-an-der-wendeschleife",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Marienbrunn"
+  },
+  {
+    "name": "Spielplatz Andromedaweg",
+    "url": "spielplatz-andromedaweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Nord"
+  },
+  {
+    "name": "Spielplatz Apostelstraße",
+    "url": "spielplatz-apostelstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Spielplatz Arnoldplatz - Ballplatz",
+    "url": "spielplatz-arnoldplatz-ballplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz Arnoldplatz - Kletterplatz",
+    "url": "spielplatz-arnoldplatz-kletterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz Arthur-Nagel-Straße",
+    "url": "spielplatz-arthur-nagel-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Großzschocher"
+  },
+  {
+    "name": "Spielplatz Arthur-Polenz-Straße",
+    "url": "spielplatz-arthur-polenz-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Holzhausen"
+  },
+  {
+    "name": "Spielplatz Auerbachplatz",
+    "url": "spielplatz-auerbachplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Gohlis-Süd"
+  },
+  {
+    "name": "Spielplatz August-Bebel-Platz",
+    "url": "spielplatz-august-bebel-platz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz August-Scheibe-Straße",
+    "url": "spielplatz-august-scheibe-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Liebertwolkwitz"
+  },
+  {
+    "name": "Spielplatz Azaleenweg",
+    "url": "spielplatz-azaleenweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Südost"
+  },
+  {
+    "name": "Spielplatz Baalsdorfer Anger",
+    "url": "spielplatz-baalsdorfer-anger",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Baalsdorf"
+  },
+  {
+    "name": "Spielplatz Balduinplatz",
+    "url": "spielplatz-balduinplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Baalsdorf"
+  },
+  {
+    "name": "Spielplatz Balzacstraße",
+    "url": "spielplatz-balzacstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Nord"
+  },
+  {
+    "name": "Spielplatz Bausestraße",
+    "url": "spielplatz-bausestrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Neulindenau"
+  },
+  {
+    "name": "Spielplatz Bernhardiplatz",
+    "url": "spielplatz-bernhardiplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Spielplatz Bielagarten",
+    "url": "spielplatz-bielagarten",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Böhlitz-Ehrenberg"
+  },
+  {
+    "name": "Spielplatz Bienitzstraße",
+    "url": "spielplatz-bienitzstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Burghausen-Rückmarsdorf"
+  },
+  {
+    "name": "Spielplatz Bismarckstraße",
+    "url": "spielplatz-bismarckstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Großzschocher"
+  },
+  {
+    "name": "Spielplatz Brackestraße",
+    "url": "spielplatz-brackestrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lausen-Grünau"
+  },
+  {
+    "name": "Spielplatz Brückenplatz",
+    "url": "spielplatz-brueckenplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lindenau"
+  },
+  {
+    "name": "Spielplatz Bürgerpark Sternsiedlung",
+    "url": "spielplatz-buergerpark-sternsiedlung",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Möckern"
+  },
+  {
+    "name": "Spielplatz Connewitzer Spitze",
+    "url": "spielplatz-connewitzer-spitze",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Spielplatz Das KinderReich - Agra",
+    "url": "spielplatz-das-kinderreich-agra",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Dölitz-Dösen"
+  },
+  {
+    "name": "Spielplatz Deiwitzweg – Kletterplatz",
+    "url": "spielplatz-deiwitzweg-kletterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lausen-Grünau"
+  },
+  {
+    "name": "Spielplatz Deiwitzweg – Sandplatz",
+    "url": "spielplatz-deiwitzweg-sandplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lausen-Grünau"
+  },
+  {
+    "name": "Spielplatz Demmeringstraße",
+    "url": "spielplatz-demmeringstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Neulindenau"
+  },
+  {
+    "name": "Spielplatz Die Nonne",
+    "url": "spielplatz-die-nonne",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schleußig"
+  },
+  {
+    "name": "Spielplatz Döllingstraße",
+    "url": "spielplatz-doellingstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Spielplatz Don Quichotte",
+    "url": "spielplatz-don-quichotte",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönau"
+  },
+  {
+    "name": "Spielplatz Dorfanger Hohenheida",
+    "url": "spielplatz-dorfanger-hohenheida",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Seehausen"
+  },
+  {
+    "name": "Spielplatz Dorotheenring",
+    "url": "spielplatz-dorotheenring",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Liebertwolkwitz"
+  },
+  {
+    "name": "Spielplatz Drei Bären im Arthur-Bretschneider-Park",
+    "url": "spielplatz-drei-baeren-im-arthur-bretschneider-park",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Spielplatz Dunkler Wald",
+    "url": "spielplatz-dunkler-wald",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Volkmarsdorf"
+  },
+  {
+    "name": "Spielplatz Edengarten",
+    "url": "spielplatz-edengarten",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Liebertwolkwitz"
+  },
+  {
+    "name": "Spielplatz Eisenschmidtplatz",
+    "url": "spielplatz-eisenschmidtplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Holzhausen"
+  },
+  {
+    "name": "Spielplatz Elefantenplatz im Arthur-Bretschneider-Park",
+    "url": "spielplatz-elefantenplatz-im-arthur-bretschneider-park",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Spielplatz Elsapark",
+    "url": "spielplatz-elsapark",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Spielplatz Emil-Kluge-Park",
+    "url": "spielplatz-emil-kluge-park",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Liebertwolkwitz"
+  },
+  {
+    "name": "Spielplatz Emmauskirchplatz",
+    "url": "spielplatz-emmauskirchplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Sellerhausen-Stünz"
+  },
+  {
+    "name": "Spielplatz Emmausstraße",
+    "url": "spielplatz-emmausstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Sellerhausen-Stünz"
+  },
+  {
+    "name": "Spielplatz Engelsdorfer Park - Am Rodelhügel",
+    "url": "spielplatz-engelsdorfer-park-am-rodelhuegel",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz Engelsdorfer Park - Ballplatz",
+    "url": "spielplatz-engelsdorfer-park-ballplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz Engelsdorfer Park - Tischtennisplatz",
+    "url": "spielplatz-engelsdorfer-park-tischtennisplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz Enzianweg",
+    "url": "spielplatz-enzianweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Wiederitzsch"
+  },
+  {
+    "name": "Spielplatz Erikenstraße",
+    "url": "spielplatz-erikenstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Spielplatz Floßplatz",
+    "url": "spielplatz-flossplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Spielplatz Forstplatz im Stötteritzer Wäldchen",
+    "url": "spielplatz-forstplatz-im-stoetteritzer-waeldchen",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Spielplatz Freiligrathplatz",
+    "url": "spielplatz-freiligrathplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Gohlis-Mitte"
+  },
+  {
+    "name": "Spielplatz Freundschaftspark",
+    "url": "spielplatz-freundschaftspark",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Probstheida"
+  },
+  {
+    "name": "Spielplatz Freundschaftspark- Rodelhügel",
+    "url": "spielplatz-freundschaftspark-rodelhuegel",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Probstheida"
+  },
+  {
+    "name": "Spielplatz Friedrichshafner Straße",
+    "url": "spielplatz-friedrichshafner-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Mockau-Nord"
+  },
+  {
+    "name": "Spielplatz Friesenstraße",
+    "url": "spielplatz-friesenstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Leutzsch"
+  },
+  {
+    "name": "Spielplatz Fritz-Siemon-Straße",
+    "url": "spielplatz-fritz-siemon-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönefeld-Ost"
+  },
+  {
+    "name": "Spielplatz Fußballfeld im Friedenspark",
+    "url": "spielplatz-fussballfeld-im-friedenspark",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Spielplatz Gartengrund",
+    "url": "spielplatz-gartengrund",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Böhlitz-Ehrenberg"
+  },
+  {
+    "name": "Spielplatz Gellertplatz",
+    "url": "spielplatz-gellertplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Spielplatz Georg-Herwegh-Straße",
+    "url": "spielplatz-georg-herwegh-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Wiederitzsch"
+  },
+  {
+    "name": "Spielplatz Georgplatz",
+    "url": "spielplatz-georgplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Spielplatz Gersterstraße",
+    "url": "spielplatz-gersterstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Dölitz-Dösen"
+  },
+  {
+    "name": "Spielplatz Gießerplatz",
+    "url": "spielplatz-giesserplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Plagwitz"
+  },
+  {
+    "name": "Spielplatz Goetheplatz",
+    "url": "spielplatz-goetheplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Böhlitz-Ehrenberg"
+  },
+  {
+    "name": "Spielplatz Goldene Hufe - Kletterplatz",
+    "url": "spielplatz-goldene-hufe-kletterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Heiterblick"
+  },
+  {
+    "name": "Spielplatz Goldene Hufe - Seilplatz",
+    "url": "spielplatz-goldene-hufe-seilplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Heiterblick"
+  },
+  {
+    "name": "Spielplatz Grassistraße",
+    "url": "spielplatz-grassistrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Spielplatz Gregoryplatz",
+    "url": "spielplatz-gregoryplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Spielplatz Großmannplatz",
+    "url": "spielplatz-grossmannplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Spielplatz Grünauer Allee",
+    "url": "spielplatz-gruenauer-allee",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Ost"
+  },
+  {
+    "name": "Spielplatz Grüner Bogen - Heiterer Blick",
+    "url": "spielplatz-gruener-bogen-heiterer-blick",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Spielplatz Grüner Bogen – Jugendtreff",
+    "url": "spielplatz-gruener-bogen-jugendtreff",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Spielplatz Gustav-Schmoller-Straße",
+    "url": "spielplatz-gustav-schmoller-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Wahren"
+  },
+  {
+    "name": "Spielplatz Gustav-Schwabe-Platz",
+    "url": "spielplatz-gustav-schwabe-platz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Spielplatz Gutspark Großzschocher",
+    "url": "spielplatz-gutspark-grosszschocher",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Großzschocher"
+  },
+  {
+    "name": "Spielplatz Gutsweg",
+    "url": "spielplatz-gutsweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Seehausen"
+  },
+  {
+    "name": "Spielplatz Hanns-Eisler-Straße",
+    "url": "spielplatz-hanns-eisler-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Anger-Crottendorf"
+  },
+  {
+    "name": "Spielplatz Heidelberger Straße",
+    "url": "spielplatz-heidelberger-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Spielplatz Heimteichstraße",
+    "url": "spielplatz-heimteichstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Leutzsch"
+  },
+  {
+    "name": "Spielplatz Heinrich-Budde-Platz",
+    "url": "spielplatz-heinrich-budde-platz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Gohlis-Mitte"
+  },
+  {
+    "name": "Spielplatz Heinrich-Schütz-Platz",
+    "url": "spielplatz-heinrich-schuetz-platz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Südvorstadt"
+  },
+  {
+    "name": "Spielplatz Henricistraße",
+    "url": "spielplatz-henricistrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Spielplatz Henriettenpark",
+    "url": "spielplatz-henriettenpark",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lindenau"
+  },
+  {
+    "name": "Spielplatz Herderplatz",
+    "url": "spielplatz-herderplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Spielplatz Herrenallee",
+    "url": "spielplatz-herrenallee",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Nordwest"
+  },
+  {
+    "name": "Spielplatz Hildebrandplatz",
+    "url": "spielplatz-hildebrandplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Spielplatz Hirtenweg",
+    "url": "spielplatz-hirtenweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Marienbrunn"
+  },
+  {
+    "name": "Spielplatz Hohmannplatz",
+    "url": "spielplatz-hohmannplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Spielplatz Hotherplatz – Erlasiedlung",
+    "url": "spielplatz-hotherplatz-erlasiedlung",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Thekla"
+  },
+  {
+    "name": "Spielplatz Huttenplatz",
+    "url": "spielplatz-huttenplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Großzschocher"
+  },
+  {
+    "name": "Spielplatz Johannapark",
+    "url": "spielplatz-johannapark",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-West"
+  },
+  {
+    "name": "Spielplatz Johannes-Weyrauch-Platz",
+    "url": "spielplatz-johannes-weyrauch-platz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Böhlitz-Ehrenberg"
+  },
+  {
+    "name": "Spielplatz Jugendclub – Rückseite",
+    "url": "spielplatz-jugendclub-rueckseite",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Sellerhausen-Stünz"
+  },
+  {
+    "name": "Spielplatz Jugendclub – Vorderseite",
+    "url": "spielplatz-jugendclub-vorderseite",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Sellerhausen-Stünz"
+  },
+  {
+    "name": "Spielplatz Jugendkuhle",
+    "url": "spielplatz-jugendkuhle",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönau"
+  },
+  {
+    "name": "Spielplatz Kanonenteich",
+    "url": "spielplatz-kanonenteich",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Spielplatz Karl-Heine-Platz",
+    "url": "spielplatz-karl-heine-platz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lindenau"
+  },
+  {
+    "name": "Spielplatz Kirchplatz Möckern",
+    "url": "spielplatz-kirchplatz-moeckern",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Möckern"
+  },
+  {
+    "name": "Spielplatz Klasingstraße",
+    "url": "spielplatz-klasingstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Spielplatz Kleine Promenade",
+    "url": "spielplatz-kleine-promenade",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz Kletterplatz im Friedenspark",
+    "url": "spielplatz-kletterplatz-im-friedenspark",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Spielplatz Knautnaundorfer Anger",
+    "url": "spielplatz-knautnaundorfer-anger",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Spielplatz Körnerplatz",
+    "url": "spielplatz-koernerplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Spielplatz Krakauer Straße",
+    "url": "spielplatz-krakauer-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "West"
+  },
+  {
+    "name": "Spielplatz Krönerstraße“",
+    "url": "spielplatz-kroenerstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Anger-Crottendorf"
+  },
+  {
+    "name": "Spielplatz Labyrinth",
+    "url": "spielplatz-labyrinth",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum"
+  },
+  {
+    "name": "Spielplatz Landschaftspark Wiederitzsch - Kletterplatz",
+    "url": "spielplatz-landschaftspark-wiederitzsch-kletterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Wiederitzsch"
+  },
+  {
+    "name": "Spielplatz Landschaftspark Wiederitzsch - Sandspielplatz",
+    "url": "spielplatz-landschaftspark-wiederitzsch-sandspielplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Wiederitzsch"
+  },
+  {
+    "name": "Spielplatz Lene-Voigt-Park - Rutschplatz",
+    "url": "spielplatz-lene-voigt-park-rutschplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Lene-Voigt-Park - Tischtennisplatz",
+    "url": "spielplatz-lene-voigt-park-tischtennisplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Lene-Voigt-Park - Wasserspiel",
+    "url": "spielplatz-lene-voigt-park-wasserspiel",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Lene-Voigt-Park – Ballplatz",
+    "url": "spielplatz-lene-voigt-park-ballplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Lene-Voigt-Park – Beachvolleyballplatz",
+    "url": "spielplatz-lene-voigt-park-beachvolleyballplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Lene-Voigt-Park – Kletterplatz",
+    "url": "spielplatz-lene-voigt-park-kletterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Lene-Voigt-Park – Märchenplatz",
+    "url": "spielplatz-lene-voigt-park-maerchenplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Lessingplatz",
+    "url": "spielplatz-lessingplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Böhlitz-Ehrenberg"
+  },
+  {
+    "name": "Spielplatz Lewienstraße",
+    "url": "spielplatz-lewienstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lindenthal"
+  },
+  {
+    "name": "Spielplatz Liselotte-Herrmann-Park",
+    "url": "spielplatz-liselotte-herrmann-park",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Anger-Crottendorf"
+  },
+  {
+    "name": "Spielplatz Liselotte-Herrmann-Straße",
+    "url": "spielplatz-liselotte-herrmann-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Volkmarsdorf"
+  },
+  {
+    "name": "Spielplatz Louise-Otto-Peters-Platz",
+    "url": "spielplatz-louise-otto-peters-platz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Nordwest"
+  },
+  {
+    "name": "Spielplatz Ludwig-Beck-Straße",
+    "url": "spielplatz-ludwig-beck-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Gohlis-Mitte"
+  },
+  {
+    "name": "Spielplatz Malachitstraße",
+    "url": "spielplatz-malachitstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz Mariannenpark - Holzspielplatz",
+    "url": "spielplatz-mariannenpark-holzspielplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönefeld-Abtnaundorf"
+  },
+  {
+    "name": "Spielplatz Mariannenpark - Jugendplatz",
+    "url": "spielplatz-mariannenpark-jugendplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönefeld-Abtnaundorf"
+  },
+  {
+    "name": "Spielplatz Marienkirchplatz",
+    "url": "spielplatz-marienkirchplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Spielplatz Marienweg",
+    "url": "spielplatz-marienweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Nordwest"
+  },
+  {
+    "name": "Spielplatz Martinsplatz",
+    "url": "spielplatz-martinsplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Kleinzschocher"
+  },
+  {
+    "name": "Spielplatz Max-Reger-Allee",
+    "url": "spielplatz-max-reger-allee",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Spielplatz Max-Reger-Straße",
+    "url": "spielplatz-max-reger-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz Naturbad Nordost - Holzspielplatz",
+    "url": "spielplatz-naturbad-nordost-holzspielplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Thekla"
+  },
+  {
+    "name": "Spielplatz Naturbad Nordost - Volleyballplatz",
+    "url": "spielplatz-naturbad-nordost-volleyballplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Thekla"
+  },
+  {
+    "name": "Spielplatz Naturbad Südwest",
+    "url": "spielplatz-naturbad-suedwest",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Großzschocher"
+  },
+  {
+    "name": "Spielplatz Neue Leipziger Straße",
+    "url": "spielplatz-neue-leipziger-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Nord"
+  },
+  {
+    "name": "Spielplatz Neue Ufer",
+    "url": "spielplatz-neue-ufer",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Spielplatz Neustädter Markt - Ostseite",
+    "url": "spielplatz-neustaedter-markt-ostseite",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Spielplatz Neustädter Markt",
+    "url": "spielplatz-neustaedter-markt",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Spielplatz Oeserstraße",
+    "url": "spielplatz-oeserstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schleußig"
+  },
+  {
+    "name": "Spielplatz Offenburger Straße",
+    "url": "spielplatz-offenburger-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Spielplatz Opalstraße",
+    "url": "spielplatz-opalstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz Oswaldplatz",
+    "url": "spielplatz-oswaldplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Palmengarten",
+    "url": "spielplatz-palmengarten",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lindenau"
+  },
+  {
+    "name": "Spielplatz Park Breitenfeld",
+    "url": "spielplatz-park-breitenfeld",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lindenthal"
+  },
+  {
+    "name": "Spielplatz Park Dösen",
+    "url": "spielplatz-park-doesen",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Meusdorf"
+  },
+  {
+    "name": "Spielplatz Park Miltitz",
+    "url": "spielplatz-park-miltitz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Miltitz"
+  },
+  {
+    "name": "Spielplatz Parkstadt 2000 – Drachen",
+    "url": "spielplatz-parkstadt-2000-drachen",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Plaußig-Portitz"
+  },
+  {
+    "name": "Spielplatz Parkstadt 2000",
+    "url": "spielplatz-parkstadt-2000",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Plaußig-Portitz"
+  },
+  {
+    "name": "Spielplatz Plastikgarten",
+    "url": "spielplatz-plastikgarten",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-West"
+  },
+  {
+    "name": "Spielplatz Platz des 20. Juli 1944",
+    "url": "spielplatz-platz-des-20-juli-1944",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Gohlis-Mitte"
+  },
+  {
+    "name": "Spielplatz Quartierspark Grünauer Welle",
+    "url": "spielplatz-quartierspark-gruenauer-welle",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Spielplatz Queckstraße",
+    "url": "spielplatz-queckstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Spielplatz Ramdohrscher Park",
+    "url": "spielplatz-ramdohrscher-park",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Anger-Crottendorf"
+  },
+  {
+    "name": "Spielplatz Rembrandtplatz",
+    "url": "spielplatz-rembrandtplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Spielplatz Rennbahnweg",
+    "url": "spielplatz-rennbahnweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Spielplatz Reudnitzer Park - Skaterplatz ",
+    "url": "spielplatz-reudnitzer-park-skaterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Reudnitzer Park – Kletterplatz",
+    "url": "spielplatz-reudnitzer-park-kletterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Reudnitzer Terrassen",
+    "url": "spielplatz-reudnitzer-terrassen",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Richterplatz",
+    "url": "spielplatz-richterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Nord"
+  },
+  {
+    "name": "Spielplatz Robert-Koch-Platz",
+    "url": "spielplatz-robert-koch-platz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Nordwest"
+  },
+  {
+    "name": "Spielplatz Rodelhügel im Friedenspark",
+    "url": "spielplatz-rodelhuegel-im-friedenspark",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Spielplatz Rotheplatz",
+    "url": "spielplatz-rotheplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönefeld-Abtnaundorf"
+  },
+  {
+    "name": "Spielplatz Salbeiweg",
+    "url": "spielplatz-salbeiweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Wiederitzsch"
+  },
+  {
+    "name": "Spielplatz Sandgrube Portitz",
+    "url": "spielplatz-sandgrube-portitz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Plaußig-Portitz"
+  },
+  {
+    "name": "Spielplatz Schenkendorfplatz",
+    "url": "spielplatz-schenkendorfplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Südvorstadt"
+  },
+  {
+    "name": "Spielplatz Schillerhain",
+    "url": "spielplatz-schillerhain",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Gohlis-Süd"
+  },
+  {
+    "name": "Spielplatz Schillerplatz",
+    "url": "spielplatz-schillerplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Wahren"
+  },
+  {
+    "name": "Spielplatz Schmuckplatz",
+    "url": "spielplatz-schmuckplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Wiederitzsch"
+  },
+  {
+    "name": "Spielplatz Schönauer Park",
+    "url": "spielplatz-schoenauer-park",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönau"
+  },
+  {
+    "name": "Spielplatz Schönauer Welle – Kletterplatz“",
+    "url": "spielplatz-schoenauer-welle-kletterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönau"
+  },
+  {
+    "name": "Spielplatz Schönauer Welle – Sandspielplatz“",
+    "url": "spielplatz-schoenauer-welle-sandspielplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönau"
+  },
+  {
+    "name": "Spielplatz Schönauer Welle – Schaukelplatz“",
+    "url": "spielplatz-schoenauer-welle-schaukelplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönau"
+  },
+  {
+    "name": "Spielplatz Schönauer Welle – Sportwiese",
+    "url": "spielplatz-schoenauer-welle-sportwiese",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönau"
+  },
+  {
+    "name": "Spielplatz Schönauer Welle – Tischtennisplatz“",
+    "url": "spielplatz-schoenauer-welle-tischtennisplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönau"
+  },
+  {
+    "name": "Spielplatz Schulze-Delitzsch-Straße",
+    "url": "spielplatz-schulze-delitzsch-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Spielplatz Schwartzeplatz",
+    "url": "spielplatz-schwartzeplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Kleinzschocher"
+  },
+  {
+    "name": "Spielplatz Selliner Straße",
+    "url": "spielplatz-selliner-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lausen-Grünau"
+  },
+  {
+    "name": "Spielplatz Siedlereck",
+    "url": "spielplatz-siedlereck",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Liebertwolkwitz"
+  },
+  {
+    "name": "Spielplatz Siedlung Meusdorf",
+    "url": "spielplatz-siedlung-meusdorf",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Meusdorf"
+  },
+  {
+    "name": "Spielplatz Simonsplatz",
+    "url": "spielplatz-simonsplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Skaterpark",
+    "url": "spielplatz-skaterpark",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Ost"
+  },
+  {
+    "name": "Spielplatz Sommerfelder Weg",
+    "url": "spielplatz-sommerfelder-weg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Spielplatz Sonnenpark",
+    "url": "spielplatz-sonnenpark",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Probstheida"
+  },
+  {
+    "name": "Spielplatz Spielhügel Am Neptunweg",
+    "url": "spielplatz-spielhuegel-am-neptunweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Nord"
+  },
+  {
+    "name": "Spielplatz Stadtplatz",
+    "url": "spielplatz-stadtplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Volkmarsdorf"
+  },
+  {
+    "name": "Spielplatz Stadtteilpark Plagwitz",
+    "url": "spielplatz-stadtteilpark-plagwitz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Plagwitz"
+  },
+  {
+    "name": "Spielplatz Stadtteilpark Rabet - Ball- und Skaterplatz",
+    "url": "spielplatz-stadtteilpark-rabet-ball-und-skaterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Spielplatz Stadtteilpark Rabet - Holzspielplatz",
+    "url": "spielplatz-stadtteilpark-rabet-holzspielplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Spielplatz Stadtteilpark Rabet - Piratenplatz Bounty",
+    "url": "spielplatz-stadtteilpark-rabet-piratenplatz-bounty",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Spielplatz Stadtteilpark Rabet - Schaukelplatz",
+    "url": "spielplatz-stadtteilpark-rabet-schaukelplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Spielplatz Stahmelner Anger",
+    "url": "spielplatz-stahmelner-anger",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lützschena-Stahmeln"
+  },
+  {
+    "name": "Spielplatz Stahmelner Straße",
+    "url": "spielplatz-stahmelner-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lützschena-Stahmeln"
+  },
+  {
+    "name": "Spielplatz Steinplatz",
+    "url": "spielplatz-steinplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Südvorstadt"
+  },
+  {
+    "name": "Spielplatz Stephaniplatz",
+    "url": "spielplatz-stephaniplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Spielplatz Stötteritzer Wäldchen – Kleiner Schneck",
+    "url": "spielplatz-stoetteritzer-waeldchen-kleiner-schneck",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Spielplatz Stötteritzer Wäldchen – Kletterplatz",
+    "url": "spielplatz-stoetteritzer-waeldchen-kletterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Spielplatz Stötteritzer Wäldchen – Rodelhügel",
+    "url": "spielplatz-stoetteritzer-waeldchen-rodelhuegel",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Spielplatz Stötteritzer Wäldchen – Tischtennisplatz",
+    "url": "spielplatz-stoetteritzer-waeldchen-tischtennisplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Spielplatz Stötteritzer Wäldchen – Waldspielplatz",
+    "url": "spielplatz-stoetteritzer-waeldchen-waldspielplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Spielplatz Streetballplatz im Friedenspark",
+    "url": "spielplatz-streetballplatz-im-friedenspark",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Spielplatz Stuttgarter Allee",
+    "url": "spielplatz-stuttgarter-allee",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Spielplatz Sylter Straße",
+    "url": "spielplatz-sylter-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Gohlis-Nord"
+  },
+  {
+    "name": "Spielplatz Teichstraße",
+    "url": "spielplatz-teichstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Spielplatz Theobald-Beer-Straße",
+    "url": "spielplatz-theobald-beer-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Wiederitzsch"
+  },
+  {
+    "name": "Spielplatz Thiemstraße",
+    "url": "spielplatz-thiemstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Spielplatz Thonberger Park",
+    "url": "spielplatz-thonberger-park",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Spielplatz Tischtennisplatz im Friedenspark",
+    "url": "spielplatz-tischtennisplatz-im-friedenspark",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Spielplatz Titaniaweg",
+    "url": "spielplatz-titaniaweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Nord"
+  },
+  {
+    "name": "Spielplatz Topasstraße",
+    "url": "spielplatz-topasstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz Topasstraße/Höhe Gaswerksweg",
+    "url": "spielplatz-topasstrassehoehe-gaswerksweg",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz Uranuspark",
+    "url": "spielplatz-uranuspark",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Nord"
+  },
+  {
+    "name": "Spielplatz Verdistraße",
+    "url": "spielplatz-verdistrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Spielplatz Volkmarsdorfer Markt",
+    "url": "spielplatz-volkmarsdorfer-markt",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Volkmarsdorf"
+  },
+  {
+    "name": "Spielplatz Volksgarten",
+    "url": "spielplatz-volksgarten",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönefeld-Ost"
+  },
+  {
+    "name": "Spielplatz Volkshain Stünz",
+    "url": "spielplatz-volkshain-stuenz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Anger-Crottendorf"
+  },
+  {
+    "name": "Spielplatz Volkspark Kleinzschocher – Ballspielplatz",
+    "url": "spielplatz-volkspark-kleinzschocher-ballspielplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Kleinzschocher"
+  },
+  {
+    "name": "Spielplatz Volkspark Kleinzschocher – Holzspielplatz",
+    "url": "spielplatz-volkspark-kleinzschocher-holzspielplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Kleinzschocher"
+  },
+  {
+    "name": "Spielplatz Volleyball- und Fitnessplatz im Friedenspark",
+    "url": "spielplatz-volleyball-und-fitnessplatz-im-friedenspark",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Spielplatz Vorderes Rosental",
+    "url": "spielplatz-vorderes-rosental",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Zentrum-Nordwest"
+  },
+  {
+    "name": "Spielplatz Waldluft",
+    "url": "spielplatz-waldluft",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Leutzsch"
+  },
+  {
+    "name": "Spielplatz Walter-Markov-Ring",
+    "url": "spielplatz-walter-markov-ring",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Holzhausen"
+  },
+  {
+    "name": "Spielplatz Weidlichstraße",
+    "url": "spielplatz-weidlichstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Sellerhausen-Stünz"
+  },
+  {
+    "name": "Spielplatz Weidmannstraße",
+    "url": "spielplatz-weidmannstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Spielplatz Weißeplatz",
+    "url": "spielplatz-weisseplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Spielplatz WG Mockau",
+    "url": "spielplatz-wg-mockau",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Mockau-Nord"
+  },
+  {
+    "name": "Spielplatz WG Möckern",
+    "url": "spielplatz-wg-moeckern",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Möckern"
+  },
+  {
+    "name": "Spielplatz WG Paunsdorf",
+    "url": "spielplatz-wg-paunsdorf",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Spielplatz WG Schönefeld",
+    "url": "spielplatz-wg-schoenefeld",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Schönefeld-Ost"
+  },
+  {
+    "name": "Spielplatz WG Sellerhausen",
+    "url": "spielplatz-wg-sellerhausen",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Sellerhausen-Stünz"
+  },
+  {
+    "name": "Spielplatz WG Thekla",
+    "url": "spielplatz-wg-thekla",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Thekla"
+  },
+  {
+    "name": "Spielplatz Wiedebachplatz",
+    "url": "spielplatz-wiedebachplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Spielplatz Wiesengrund",
+    "url": "spielplatz-wiesengrund",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Liebertwolkwitz"
+  },
+  {
+    "name": "Spielplatz Wilder Mann",
+    "url": "spielplatz-wilder-mann",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Leutzsch"
+  },
+  {
+    "name": "Spielplatz Wildpark - Linienkreuz",
+    "url": "spielplatz-wildpark-linienkreuz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Spielplatz Wildpark - Teehaus",
+    "url": "spielplatz-wildpark-teehaus",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Spielplatz Wildpark – Märchenspielplatz",
+    "url": "spielplatz-wildpark-maerchenspielplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Spielplatz Wildpark – Waldsportplatz",
+    "url": "spielplatz-wildpark-waldsportplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Spielplatz Willi-Bredel-Straße",
+    "url": "spielplatz-willi-bredel-strasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Spielplatz Wohnpark Seehausen",
+    "url": "spielplatz-wohnpark-seehausen",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Seehausen"
+  },
+  {
+    "name": "Spielplatz Zeisigplatz",
+    "url": "spielplatz-zeisigplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Wahren"
+  },
+  {
+    "name": "Spielplatz Zschochersche Allee",
+    "url": "spielplatz-zschochersche-allee",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lausen-Grünau"
+  },
+  {
+    "name": "Spielplatz Zum Rodelhügel",
+    "url": "spielplatz-zum-rodelhuegel",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Nord"
+  },
+  {
+    "name": "Spielplatz Zur Sägemühle",
+    "url": "spielplatz-zur-saegemuehle",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Böhlitz-Ehrenberg"
+  },
+  {
+    "name": "Spielplatz Zusestraße",
+    "url": "spielplatz-zusestrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Böhlitz-Ehrenberg"
+  },
+  {
+    "name": "Spielplatz Am Bildersaal",
+    "url": "spielplatz-am-bildersaal",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Nordwest"
+  },
+  {
+    "name": "Spielplatz An der Moritzbastei",
+    "url": "spielplatz-an-der-moritzbastei",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Mitte"
+  },
+  {
+    "name": "Spielplatz Garskestraße",
+    "url": "spielplatz-garskestrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "West"
+  },
+  {
+    "name": "Spielplatz Leopoldstraße",
+    "url": "spielplatz-leopoldstrasse",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Süd"
+  },
+  {
+    "name": "Spielplatz Plagwitzer Bahnhof",
+    "url": "spielplatz-plagwitzer-bahnhof",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Spielplatz An der Schäferei im Erholungspark Lößnig-Dölitz",
+    "url": "spielplatz-an-der-schaeferei-im-erholungspark-loessnig-doelitz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Spielplatz Fröbelplatz im Erholungspark Lößnig-Dölitz",
+    "url": "spielplatz-froebelplatz-im-erholungspark-loessnig-doelitz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Spielplatz Kletterplatz im Erholungspark Lößnig-Dölitz",
+    "url": "spielplatz-kletterplatz-im-erholungspark-loessnig-doelitz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Spielplatz Kugelplatz im Erholungspark Lößnig-Dölitz",
+    "url": "spielplatz-kugelplatz-im-erholungspark-loessnig-doelitz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Spielplatz Rollerbahn im Erholungspark Lößnig-Dölitz",
+    "url": "spielplatz-rollerbahn-im-erholungspark-loessnig-doelitz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Spielplatz Tischtennisplatz im Erholungspark Lößnig-Dölitz",
+    "url": "spielplatz-tischtennisplatz-im-erholungspark-loessnig-doelitz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Spielplatz Karlsruher Straße - Alte Salzstraße – Kletterplatz",
+    "url": "spielplatz-karlsruher-strasse-alte-salzstrasse-kletterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Spielplatz Karlsruher Straße - Alte Salzstraße – Kleiner Kletterplatz",
+    "url": "spielplatz-karlsruher-strasse-alte-salzstrasse-kleiner-kletterplatz",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Spielplatz Kletterplatz im Arthur-Bretschneider-Park",
+    "url": "spielplatz-kletterplatz-im-arthur-bretschneider-park",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "ortsteil": "Eutritzsch"
+  }
+]

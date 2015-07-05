@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Sporthalle An der Kotsche",
+    "url": "sporthalle-an-der-kotsche",
+    "strasse": "An der Kotsche 39",
+    "plz": "04207",
+    "ort": "Leipzig",
+    "ortsteil": "West"
+  },
+  {
+    "name": "Sporthalle An der Radrennbahn",
+    "url": "sporthalle-an-der-radrennbahn",
+    "strasse": "Windorfer Straße 61",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Sporthalle ARENA Leipzig",
+    "url": "sporthalle-arena-leipzig",
+    "strasse": "Friedrich-Ebert-Straße 97",
+    "plz": "04105",
+    "ort": "Leipzig",
+    "ortsteil": "Mitte"
+  },
+  {
+    "name": "Sporthalle Biedermannstraße",
+    "url": "sporthalle-biedermannstrasse",
+    "strasse": "Hammerstraße 11",
+    "plz": "04129",
+    "ort": "Leipzig",
+    "ortsteil": "Süd"
+  },
+  {
+    "name": "Sporthalle Breitschuhstraße",
+    "url": "sporthalle-breitschuhstrasse",
+    "strasse": "Breitschuhstraße 17",
+    "plz": "04249",
+    "ort": "Leipzig",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Sporthalle Brüderstraße",
+    "url": "sporthalle-bruederstrasse",
+    "strasse": "Brüderstraße 15",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Mitte"
+  },
+  {
+    "name": "Sporthalle Dieskaustraße 355",
+    "url": "sporthalle-dieskaustrasse-355",
+    "strasse": "Dieskaustraße 355",
+    "plz": "04249",
+    "ort": "Leipzig",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Sporthalle Friesenstraße",
+    "url": "sporthalle-friesenstrasse",
+    "strasse": "Friesenstraße 6",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Alt-West"
+  },
+  {
+    "name": "Sporthalle GutsMuthsstraße",
+    "url": "sporthalle-gutsmuthsstrasse",
+    "strasse": "GutsMuthsstraße 16",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Alt-West"
+  },
+  {
+    "name": "Sporthalle Heinrichstraße",
+    "url": "sporthalle-heinrichstrasse",
+    "strasse": "Heinrichstraße 33",
+    "plz": "04317",
+    "ort": "Leipzig",
+    "ortsteil": "Südost"
+  },
+  {
+    "name": "Sporthalle Holzhausen",
+    "url": "sporthalle-holzhausen",
+    "strasse": "Emil-Altner-Weg 50",
+    "plz": "04288",
+    "ort": "Leipzig",
+    "ortsteil": "Südost"
+  },
+  {
+    "name": "Sporthalle Lange Reihe",
+    "url": "sporthalle-lange-reihe",
+    "strasse": "Lange Reihe 54",
+    "plz": "04299",
+    "ort": "Leipzig",
+    "ortsteil": "Südost"
+  },
+  {
+    "name": "Sporthalle Lauchstädter Straße",
+    "url": "sporthalle-lauchstaedter-strasse",
+    "strasse": "Lauchstädter Straße 6-8",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Sporthalle Lene Voigt",
+    "url": "sporthalle-lene-voigt",
+    "strasse": "Höltystraße 51",
+    "plz": "04289",
+    "ort": "Leipzig",
+    "ortsteil": "Südost"
+  },
+  {
+    "name": "Sporthalle Leplaystraße 11",
+    "url": "sporthalle-leplaystrasse-11",
+    "strasse": "Leplaystraße 11",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Mitte"
+  },
+  {
+    "name": "Sporthalle Leplaystraße 13",
+    "url": "sporthalle-leplaystrasse-13",
+    "strasse": "Leplaystraße 13",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Mitte"
+  },
+  {
+    "name": "Sporthalle Mannheimer Straße",
+    "url": "sporthalle-mannheimer-strasse",
+    "strasse": "Mannheimer Straße 117",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "West"
+  },
+  {
+    "name": "Sporthalle Mölkau",
+    "url": "sporthalle-moelkau",
+    "strasse": "Karl-Friedrich-Straße 21",
+    "plz": "04316",
+    "ort": "Leipzig",
+    "ortsteil": "Mölkau"
+  },
+  {
+    "name": "Sporthalle Rabet",
+    "url": "sporthalle-rabet",
+    "strasse": "Konradstraße 30",
+    "plz": "04315",
+    "ort": "Leipzig",
+    "ortsteil": "Ost"
+  },
+  {
+    "name": "Sporthalle Raschwitzer Straße",
+    "url": "sporthalle-raschwitzer-strasse",
+    "strasse": "Raschwitzer Straße 16",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Süd"
+  },
+  {
+    "name": "Sporthalle Riesaer Straße",
+    "url": "sporthalle-riesaer-strasse",
+    "strasse": "Riesaer Straße 48",
+    "plz": "04328",
+    "ort": "Leipzig",
+    "ortsteil": "Ost"
+  },
+  {
+    "name": "Sporthalle Thiemstraße",
+    "url": "sporthalle-thiemstrasse",
+    "strasse": "Vaclav-Neumann-Straße 50",
+    "plz": "04299",
+    "ort": "Leipzig",
+    "ortsteil": "Südost"
+  },
+  {
+    "name": "Sporthalle Torgauer Straße",
+    "url": "sporthalle-torgauer-strasse",
+    "strasse": "Torgauer Straße 15",
+    "plz": "04315",
+    "ort": "Leipzig",
+    "ortsteil": "Ost"
+  },
+  {
+    "name": "Sporthalle Wittenberger Straße",
+    "url": "sporthalle-wittenberger-strasse",
+    "strasse": "Wittenberger Straße 30",
+    "plz": "04129",
+    "ort": "Leipzig",
+    "ortsteil": "Nord"
+  },
+  {
+    "name": "Sporthallen der Sportwissenschaftlichen Fakultät der Universität Leipzig",
+    "url": "sporthallen-der-sportwissenschaftlichen-fakultaet-der-universitaet-leipzig",
+    "strasse": "Jahnallee 59",
+    "plz": "04109",
+    "ort": "Leipzig",
+    "ortsteil": "Mitte"
+  }
+]

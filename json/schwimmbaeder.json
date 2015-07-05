@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Grünauer Welle",
+    "url": "gruenauer-welle",
+    "strasse": "Stuttgarter Allee 7",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "West"
+  },
+  {
+    "name": "Sachsen-Therme",
+    "url": "sachsen-therme",
+    "strasse": "Schongauerstraße 19",
+    "plz": "04329",
+    "ort": "Leipzig",
+    "ortsteil": "Ost"
+  },
+  {
+    "name": "Schwimmhalle Mitte",
+    "url": "schwimmhalle-mitte",
+    "strasse": "Kirschbergstraße 84",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Nord"
+  },
+  {
+    "name": "Schwimmhalle Nord",
+    "url": "schwimmhalle-nord",
+    "strasse": "Kleiststraße 54",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Schwimmhalle Nordost",
+    "url": "schwimmhalle-nordost",
+    "strasse": "Schönefelder Allee 26",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Nordost"
+  },
+  {
+    "name": "Schwimmhalle Süd",
+    "url": "schwimmhalle-sued",
+    "strasse": "Tarostraße 10",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Mitte"
+  },
+  {
+    "name": "Schwimmhalle Südost",
+    "url": "schwimmhalle-suedost",
+    "strasse": "Kolmstraße 35",
+    "plz": "04299",
+    "ort": "Leipzig",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Schwimmhalle West",
+    "url": "schwimmhalle-west",
+    "strasse": "Hans-Driesch-Straße 52a",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Alt-West"
+  },
+  {
+    "name": "Sportbad an der Elster",
+    "url": "sportbad-an-der-elster",
+    "strasse": "Antonienstraße 8",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Plagwitz"
+  },
+  {
+    "name": "Kinderfreibecken Robbe",
+    "url": "kinderfreibecken-robbe",
+    "strasse": "Kleiststraße 54 an der Schwimmhalle Nord",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Mitte"
+  },
+  {
+    "name": "Ökobad Lindenthal",
+    "url": "oekobad-lindenthal",
+    "strasse": "Am Freibad 3",
+    "plz": "04158",
+    "ort": "Leipzig",
+    "ortsteil": "Nordwest"
+  },
+  {
+    "name": "Schreberbad",
+    "url": "schreberbad",
+    "strasse": "Schreberstraße 15",
+    "plz": "04109",
+    "ort": "Leipzig",
+    "ortsteil": "Mitte"
+  },
+  {
+    "name": "Sommerbad Kleinzschocher",
+    "url": "sommerbad-kleinzschocher",
+    "strasse": "Küchenholzallee 75",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Sommerbad Schönefeld",
+    "url": "sommerbad-schoenefeld",
+    "strasse": "Vollbedingstraße 39",
+    "plz": "04357",
+    "ort": "Leipzig",
+    "ortsteil": "Nordost"
+  },
+  {
+    "name": "Sommerbad Südost",
+    "url": "sommerbad-suedost",
+    "strasse": "Oststraße 173",
+    "plz": "04299",
+    "ort": "Leipzig",
+    "ortsteil": "Südost"
+  }
+]

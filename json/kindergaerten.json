@@ -1,0 +1,2562 @@
+[
+  {
+    "name": "Abenteuerland Kombinierte Tageseinrichtung",
+    "url": "abenteuerland-kombinierte-tageseinrichtung",
+    "strasse": "Heilemannstraße 19",
+    "plz": "04277",
+    "ort": "Leipzig",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Am Gutenbergplatz Kombinierte Kindertageseinrichtung",
+    "url": "am-gutenbergplatz-kombinierte-kindertageseinrichtung",
+    "strasse": "Am Gutenbergplatz 4a",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Mitte"
+  },
+  {
+    "name": "Am Kulkwitzer See Integrationseinrichtung",
+    "url": "am-kulkwitzer-see-integrationseinrichtung",
+    "strasse": "Zingster Straße 2c",
+    "plz": "04207",
+    "ort": "Leipzig",
+    "ortsteil": "Lausen-Grünau"
+  },
+  {
+    "name": "Am Schlösschen Kombinierte Tageseinrichtung",
+    "url": "am-schloesschen-kombinierte-tageseinrichtung",
+    "strasse": "Poetenweg 22",
+    "plz": "04155",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Süd"
+  },
+  {
+    "name": "Bärchenland Integrationseinrichtung",
+    "url": "baerchenland-integrationseinrichtung",
+    "strasse": "Pistorisstraße 10",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Schleußig"
+  },
+  {
+    "name": "Bei den Schlümpfen Integrationseinrichtung",
+    "url": "bei-den-schluempfen-integrationseinrichtung",
+    "strasse": "Zittauer Straße 2a",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Schönefeld-Abtnaundorf"
+  },
+  {
+    "name": "Benjamin Blümchen Integrationseinrichtung",
+    "url": "benjamin-bluemchen-integrationseinrichtung",
+    "strasse": "Stötteritzer Straße 1",
+    "plz": "04317",
+    "ort": "Leipzig",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Blauer Elefant Integrationseinrichtung",
+    "url": "blauer-elefant-integrationseinrichtung",
+    "strasse": "Tarostraße 17/19",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Bummi Integrationseinrichtung",
+    "url": "bummi-integrationseinrichtung",
+    "strasse": "Yorckstraße 43B",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Möckern"
+  },
+  {
+    "name": "Buntspecht Integrationseinrichtung",
+    "url": "buntspecht-integrationseinrichtung",
+    "strasse": "Kunzestraße 6",
+    "plz": "04249",
+    "ort": "Leipzig",
+    "ortsteil": "Großzschocher"
+  },
+  {
+    "name": "Das Samenkorn Kombinierte Tageseinrichtung",
+    "url": "das-samenkorn-kombinierte-tageseinrichtung",
+    "strasse": "Demmeringstraße 18",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Die Kinderwichtel Kombinierte Tageseinrichtung",
+    "url": "die-kinderwichtel-kombinierte-tageseinrichtung",
+    "strasse": "Bremer Straße 17",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Nord"
+  },
+  {
+    "name": "Die Wasserfrösche Integrationseinrichtung",
+    "url": "die-wasserfroesche-integrationseinrichtung",
+    "strasse": "An der Querbreite 4",
+    "plz": "04129",
+    "ort": "Leipzig",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Dölitzer Wassermühle Integrationseinrichtung",
+    "url": "doelitzer-wassermuehle-integrationseinrichtung",
+    "strasse": "Vollhardtstraße 16",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Dölitz-Dösen"
+  },
+  {
+    "name": "Dschungel Integrationseinrichtung",
+    "url": "dschungel-integrationseinrichtung",
+    "strasse": "Gundermannstraße 16",
+    "plz": "04329",
+    "ort": "Leipzig",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Elifant Kombinierte Tageseinrichtung",
+    "url": "elifant-kombinierte-tageseinrichtung",
+    "strasse": "Prinz-Eugen-Straße 13b",
+    "plz": "04277",
+    "ort": "Leipzig",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Entdeckerland Kombinierte Tageseinrichtung",
+    "url": "entdeckerland-kombinierte-tageseinrichtung",
+    "strasse": "Hannoversche Straße 50",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Nord"
+  },
+  {
+    "name": "Entdeckerland Kombinierte Tageseinrichtung",
+    "url": "entdeckerland-kombinierte-tageseinrichtung-1",
+    "strasse": "Kändlerstraße 11",
+    "plz": "04207",
+    "ort": "Leipzig",
+    "ortsteil": "Lausen-Grünau"
+  },
+  {
+    "name": "Flohkiste Kombinierte Tageseinrichtung",
+    "url": "flohkiste-kombinierte-tageseinrichtung",
+    "strasse": "Engelsdorfer Straße 279",
+    "plz": "04319",
+    "ort": "Leipzig",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Fröbelchen Integrationseinrichtung",
+    "url": "froebelchen-integrationseinrichtung",
+    "strasse": "Friedrichshafner Straße 147 A/B",
+    "plz": "04357",
+    "ort": "Leipzig",
+    "ortsteil": "Mockau-Nord"
+  },
+  {
+    "name": "Frühblüher Integrationseinrichtung",
+    "url": "fruehblueher-integrationseinrichtung",
+    "strasse": "Bornaische Straße 186c",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Dölitz-Dösen"
+  },
+  {
+    "name": "Fuchsbau Kombinierte Tageseinrichtung",
+    "url": "fuchsbau-kombinierte-tageseinrichtung",
+    "strasse": "Russenstraße 135",
+    "plz": "04288",
+    "ort": "Leipzig",
+    "ortsteil": "Holzhausen"
+  },
+  {
+    "name": "Gerne Groß Integrationseinrichtung",
+    "url": "gerne-gross-integrationseinrichtung",
+    "strasse": "Arthur-Nagel-Straße 1",
+    "plz": "04249",
+    "ort": "Leipzig",
+    "ortsteil": "Großzschocher"
+  },
+  {
+    "name": "Gohliser Buntstifte Kindergarten",
+    "url": "gohliser-buntstifte-kindergarten",
+    "strasse": "Kleiststraße 12",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Mitte"
+  },
+  {
+    "name": "Gohliser Mühle Kombinierte Tageseinrichtung",
+    "url": "gohliser-muehle-kombinierte-tageseinrichtung",
+    "strasse": "Platnerstraße 11",
+    "plz": "04155",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Süd"
+  },
+  {
+    "name": "Goldsternchen Kombinierte Tageseinrichtung",
+    "url": "goldsternchen-kombinierte-tageseinrichtung",
+    "strasse": "Goldsternstraße 21",
+    "plz": "04329",
+    "ort": "Leipzig",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Grünschnabel Integrationseinrichtung",
+    "url": "gruenschnabel-integrationseinrichtung",
+    "strasse": "Oststraße 185",
+    "plz": "04299",
+    "ort": "Leipzig",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Hand in Hand Integrationseinrichtung",
+    "url": "hand-in-hand-integrationseinrichtung",
+    "strasse": "Linnéstraße 12",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Haus Kinderland Integrationseinrichtung",
+    "url": "haus-kinderland-integrationseinrichtung",
+    "strasse": "Neptunweg 29a",
+    "plz": "04205",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Nord"
+  },
+  {
+    "name": "Haus Sonnenblume Kombinierte Tageseinrichtung",
+    "url": "haus-sonnenblume-kombinierte-tageseinrichtung",
+    "strasse": "Krönerstraße 43 /45",
+    "plz": "04318",
+    "ort": "Leipzig",
+    "ortsteil": "Anger-Crottendorf"
+  },
+  {
+    "name": "Henriette Goldschmidt Kombinierte Tageseinrichtung",
+    "url": "henriette-goldschmidt-kombinierte-tageseinrichtung",
+    "strasse": "Spittastraße 7",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Holunderzwerge Kombinierte Tageseinrichtung",
+    "url": "holunderzwerge-kombinierte-tageseinrichtung",
+    "strasse": "Holunderweg 36/38",
+    "plz": "04249",
+    "ort": "Leipzig",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Holunderzwerge Kombinierte Tageseinrichtung",
+    "url": "holunderzwerge-kombinierte-tageseinrichtung-1",
+    "strasse": "Hubmaierweg 38",
+    "plz": "04249",
+    "ort": "Leipzig",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Hummelnest Kinderkrippe",
+    "url": "hummelnest-kinderkrippe",
+    "strasse": "Sophie-Scholl-Straße 6",
+    "plz": "04316",
+    "ort": "Leipzig",
+    "ortsteil": "Mölkau"
+  },
+  {
+    "name": "Igelnest Integrationseinrichtung",
+    "url": "igelnest-integrationseinrichtung",
+    "strasse": "Weißdornstraße 2",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Ost"
+  },
+  {
+    "name": "Im Regenbogenland Kombinierte Tageseinrichtung",
+    "url": "im-regenbogenland-kombinierte-tageseinrichtung",
+    "strasse": "Reichelstraße 3/5",
+    "plz": "04109",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-West"
+  },
+  {
+    "name": "Käferhaus Kombinierte Tageseinrichtung",
+    "url": "kaeferhaus-kombinierte-tageseinrichtung",
+    "strasse": "Gleisstraße 1",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Plagwitz"
+  },
+  {
+    "name": "Kinderarche Kombinierte Tageseinrichtung",
+    "url": "kinderarche-kombinierte-tageseinrichtung",
+    "strasse": "Goldsternstraße 21a",
+    "plz": "04329",
+    "ort": "Leipzig",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Kinderhaus am Agrapark Kombinierte Tageseinrichtung",
+    "url": "kinderhaus-am-agrapark-kombinierte-tageseinrichtung",
+    "strasse": "Bornaische Straße 184",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Dölitz-Dösen"
+  },
+  {
+    "name": "Kinderhaus am Park Kombinierte Tageseinrichtung",
+    "url": "kinderhaus-am-park-kombinierte-tageseinrichtung",
+    "strasse": "Ferdinand-Rhode-Straße 17 A",
+    "plz": "04107",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Kinderhaus Groß und Klein Integrationseinrichtung",
+    "url": "kinderhaus-gross-und-klein-integrationseinrichtung",
+    "strasse": "Neue Leipziger Straße 39",
+    "plz": "04205",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Nord"
+  },
+  {
+    "name": "Kleine Entdecker Kombinierte Tageseinrichtung",
+    "url": "kleine-entdecker-kombinierte-tageseinrichtung",
+    "strasse": "Wiesenstraße 18",
+    "plz": "04329",
+    "ort": "Leipzig",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Kleine Füchse Kombinierte Tageseinrichtung",
+    "url": "kleine-fuechse-kombinierte-tageseinrichtung",
+    "strasse": "Frohburger Straße 33",
+    "plz": "04277",
+    "ort": "Leipzig",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Kleine Waldgeister Integrationseinrichtung",
+    "url": "kleine-waldgeister-integrationseinrichtung",
+    "strasse": "Waldkerbelstraße 2",
+    "plz": "04329",
+    "ort": "Leipzig",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Kleiner Muck Integrationseinrichtung",
+    "url": "kleiner-muck-integrationseinrichtung",
+    "strasse": "Tarostraße 9",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Knirpsenland am Königstein Integrationseinrichtung",
+    "url": "knirpsenland-am-koenigstein-integrationseinrichtung",
+    "strasse": "Königsteinstraße 72 A",
+    "plz": "04207",
+    "ort": "Leipzig",
+    "ortsteil": "Lausen-Grünau"
+  },
+  {
+    "name": "Knirpsenland Integrationseinrichtung",
+    "url": "knirpsenland-integrationseinrichtung",
+    "strasse": "Südblick 5",
+    "plz": "04329",
+    "ort": "Leipzig",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Knirpsenstadt Integrationseinrichtung",
+    "url": "knirpsenstadt-integrationseinrichtung",
+    "strasse": "Hermann-Liebmann-Straße 99",
+    "plz": "04315",
+    "ort": "Leipzig",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Leipziger Löwenkids (privat) Integrationseinrichtung",
+    "url": "leipziger-loewenkids-privat-integrationseinrichtung",
+    "strasse": "Schwägrichenstraße 9",
+    "plz": "04107",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Lützschenaer Sternchen Kombinierte Tageseinrichtung",
+    "url": "luetzschenaer-sternchen-kombinierte-tageseinrichtung",
+    "strasse": "Freirodaer Weg 2",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Lützschena-Stahmeln"
+  },
+  {
+    "name": "Märchenland Integrationseinrichtung",
+    "url": "maerchenland-integrationseinrichtung",
+    "strasse": "Gerhard-Ellrodt-Straße 17 a",
+    "plz": "04249",
+    "ort": "Leipzig",
+    "ortsteil": "Großzschocher"
+  },
+  {
+    "name": "Märchenwiese Integrationseinrichtung",
+    "url": "maerchenwiese-integrationseinrichtung",
+    "strasse": "An der Märchenwiese 3",
+    "plz": "04277",
+    "ort": "Leipzig",
+    "ortsteil": "Marienbrunn"
+  },
+  {
+    "name": "Mäusekiste Kombinierte Tageseinrichtung",
+    "url": "maeusekiste-kombinierte-tageseinrichtung",
+    "strasse": "Louis-Fürnberg-Straße 21",
+    "plz": "04318",
+    "ort": "Leipzig",
+    "ortsteil": "Sellerhausen-Stünz"
+  },
+  {
+    "name": "Max und Moritz Integrationseinrichtung",
+    "url": "max-und-moritz-integrationseinrichtung",
+    "strasse": "Gersterstraße 9",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "miniUNIversum Integrationseinrichtung",
+    "url": "miniuniversum-integrationseinrichtung",
+    "strasse": "Liebigstraße 22b",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Mischka Integrationseinrichtung",
+    "url": "mischka-integrationseinrichtung",
+    "strasse": "Diderotstraße 13",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Möckern"
+  },
+  {
+    "name": "Mockauer Spatzen Kombinierte Tageseinrichtung",
+    "url": "mockauer-spatzen-kombinierte-tageseinrichtung",
+    "strasse": "Samuel-Lampel-Straße 2 A/B",
+    "plz": "04357",
+    "ort": "Leipzig",
+    "ortsteil": "Mockau-Nord"
+  },
+  {
+    "name": "Modschegiebchen Integrationseinrichtung",
+    "url": "modschegiebchen-integrationseinrichtung",
+    "strasse": "Bernburger Straße 22",
+    "plz": "04129",
+    "ort": "Leipzig",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Musikus Kombinierte Tageseinrichtung",
+    "url": "musikus-kombinierte-tageseinrichtung",
+    "strasse": "Salomonstraße 10",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Ost"
+  },
+  {
+    "name": "Naseweis Integrationseinrichtung",
+    "url": "naseweis-integrationseinrichtung",
+    "strasse": "Jörgen-Schmidtchen-Weg 4",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Nord"
+  },
+  {
+    "name": "Naturkita Sonnenschein Integrationseinrichtung",
+    "url": "naturkita-sonnenschein-integrationseinrichtung",
+    "strasse": "Diezmannstraße 87a",
+    "plz": "04207",
+    "ort": "Leipzig",
+    "ortsteil": "Kleinzschocher"
+  },
+  {
+    "name": "Pfiffikus Integrationseinrichtung",
+    "url": "pfiffikus-integrationseinrichtung",
+    "strasse": "Grünauer Allee 18",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Ost"
+  },
+  {
+    "name": "Pünktchen Integrationseinrichtung",
+    "url": "puenktchen-integrationseinrichtung",
+    "strasse": "Hans-Otto-Straße 2a",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Pünktchen Integrationseinrichtung",
+    "url": "puenktchen-integrationseinrichtung-1",
+    "strasse": "Hans-Otto-Straße 2b",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Pusteblume Kombinierte Tageseinrichtung",
+    "url": "pusteblume-kombinierte-tageseinrichtung",
+    "strasse": "Dahlienstraße 75",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Ost"
+  },
+  {
+    "name": "Rappelkiste Integrationseinrichtung",
+    "url": "rappelkiste-integrationseinrichtung",
+    "strasse": "Zweinaundorfer Straße 167",
+    "plz": "04316",
+    "ort": "Leipzig",
+    "ortsteil": "Mölkau"
+  },
+  {
+    "name": "Rasselbande Kombinierte Tageseinrichtung",
+    "url": "rasselbande-kombinierte-tageseinrichtung",
+    "strasse": "Ringstraße 213",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Raxli-Faxli Integrationseinrichtung",
+    "url": "raxli-faxli-integrationseinrichtung",
+    "strasse": "Königsteinstraße 70 B",
+    "plz": "04207",
+    "ort": "Leipzig",
+    "ortsteil": "Lausen-Grünau"
+  },
+  {
+    "name": "Regenbogenland Integrationseinrichtung",
+    "url": "regenbogenland-integrationseinrichtung",
+    "strasse": "Konradstraße 70-72",
+    "plz": "04315",
+    "ort": "Leipzig",
+    "ortsteil": "Volkmarsdorf"
+  },
+  {
+    "name": "Riesen- und Zwergenland Kindergarten",
+    "url": "riesen-und-zwergenland-kindergarten",
+    "strasse": "Hannoversche Straße 52",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Nord"
+  },
+  {
+    "name": "Sonnenhof Integrationseinrichtung",
+    "url": "sonnenhof-integrationseinrichtung",
+    "strasse": "Schenkendorfstraße 30",
+    "plz": "04275",
+    "ort": "Leipzig",
+    "ortsteil": "Südvorstadt"
+  },
+  {
+    "name": "Sonnenhügel Kombinierte Tageseinrichtung",
+    "url": "sonnenhuegel-kombinierte-tageseinrichtung",
+    "strasse": "Am Hohlweg 2",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Lützschena-Stahmeln"
+  },
+  {
+    "name": "Sonnenhügel Kombinierte Tageseinrichtung",
+    "url": "sonnenhuegel-kombinierte-tageseinrichtung-1",
+    "strasse": "Lindenallee 3a",
+    "plz": "04158",
+    "ort": "Leipzig",
+    "ortsteil": "Lindenthal"
+  },
+  {
+    "name": "Sonnenkäfer Kombinierte Tageseinrichtung",
+    "url": "sonnenkaefer-kombinierte-tageseinrichtung",
+    "strasse": "Brandiser Straße 20",
+    "plz": "04316",
+    "ort": "Leipzig",
+    "ortsteil": "Baalsdorf"
+  },
+  {
+    "name": "Sonnenstrahl Integrationseinrichtung",
+    "url": "sonnenstrahl-integrationseinrichtung",
+    "strasse": "Louis-Fürnberg-Straße 19",
+    "plz": "04318",
+    "ort": "Leipzig",
+    "ortsteil": "Sellerhausen-Stünz"
+  },
+  {
+    "name": "Sonnenwinkel Integrationseinrichtung",
+    "url": "sonnenwinkel-integrationseinrichtung",
+    "strasse": "Hohe Straße 21 B",
+    "plz": "04107",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Spatzennest Integrationseinrichtung",
+    "url": "spatzennest-integrationseinrichtung",
+    "strasse": "Neue Leipziger Straße 37a",
+    "plz": "04205",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Nord"
+  },
+  {
+    "name": "Spatzennest Integrationseinrichtung",
+    "url": "spatzennest-integrationseinrichtung-1",
+    "strasse": "Poserstraße 55",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Schönefeld-Ost"
+  },
+  {
+    "name": "Spatzennest Kombinierte Tageseinrichtung",
+    "url": "spatzennest-kombinierte-tageseinrichtung",
+    "strasse": "An der Teichmühle 2",
+    "plz": "04178",
+    "ort": "Leipzig",
+    "ortsteil": "Burghausen-Rückmarsdorf"
+  },
+  {
+    "name": "Spielhaus an der Linde Integrationseinrichtung",
+    "url": "spielhaus-an-der-linde-integrationseinrichtung",
+    "strasse": "Roßmarktstraße 6",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Spielhaus Thekla Integrationseinrichtung",
+    "url": "spielhaus-thekla-integrationseinrichtung",
+    "strasse": "Stollberger Straße 8",
+    "plz": "04349",
+    "ort": "Leipzig",
+    "ortsteil": "Thekla"
+  },
+  {
+    "name": "Spielhaus Integrationseinrichtung",
+    "url": "spielhaus-integrationseinrichtung",
+    "strasse": "Zeumerstraße 5",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Schönefeld-Abtnaundorf"
+  },
+  {
+    "name": "Spielhaus Kombinierte Tageseinrichtung",
+    "url": "spielhaus-kombinierte-tageseinrichtung",
+    "strasse": "Seipelweg 16b",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Schönefeld-Ost"
+  },
+  {
+    "name": "Sternschnuppe Integrationseinrichtung",
+    "url": "sternschnuppe-integrationseinrichtung",
+    "strasse": "Jupiterstraße 37",
+    "plz": "04205",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Nord"
+  },
+  {
+    "name": "Stötteritzer Pfiffikusse Integrationseinrichtung",
+    "url": "stoetteritzer-pfiffikusse-integrationseinrichtung",
+    "strasse": "Schönbachstraße 63",
+    "plz": "04399",
+    "ort": "Leipzig",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Strolchenland Kombinierte Tageseinrichtung",
+    "url": "strolchenland-kombinierte-tageseinrichtung",
+    "strasse": "Dorfstraße 41",
+    "plz": "04319",
+    "ort": "Leipzig",
+    "ortsteil": "Althen-Kleinpösna"
+  },
+  {
+    "name": "Tausendfüßler Kombinierte Tageseinrichtung",
+    "url": "tausendfuessler-kombinierte-tageseinrichtung",
+    "strasse": "Holsteinstraße 62 / 64",
+    "plz": "04317",
+    "ort": "Leipzig",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Treffpunkt Linde Kombinierte Tageseinrichtung",
+    "url": "treffpunkt-linde-kombinierte-tageseinrichtung",
+    "strasse": "Walter-Heinze-Straße 22-24",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Plagwitz"
+  },
+  {
+    "name": "UniKids Leipzig Integrative Kindertageseinrichtung",
+    "url": "unikids-leipzig-integrative-kindertageseinrichtung",
+    "strasse": "Paul-List-Straße 11",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Mitte"
+  },
+  {
+    "name": "Unter dem Regenbogen Kombinierte Tageseinrichtung",
+    "url": "unter-dem-regenbogen-kombinierte-tageseinrichtung",
+    "strasse": "Löhrstraße 9",
+    "plz": "04105",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Nord"
+  },
+  {
+    "name": "Villa am Auensee Kombinierte Tageseinrichtung",
+    "url": "villa-am-auensee-kombinierte-tageseinrichtung",
+    "strasse": "Friedrich-Bosse-Straße 87a",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Wahren"
+  },
+  {
+    "name": "Villa Kunterbunt Hort",
+    "url": "villa-kunterbunt-hort",
+    "strasse": "Seehausener Allee 15",
+    "plz": "04356",
+    "ort": "Leipzig",
+    "ortsteil": "Seehausen"
+  },
+  {
+    "name": "Waldwichtel Integrationseinrichtung",
+    "url": "waldwichtel-integrationseinrichtung",
+    "strasse": "Prager Straße 224",
+    "plz": "04289",
+    "ort": "Leipzig",
+    "ortsteil": "Probstheida"
+  },
+  {
+    "name": "Wiederitzscher Knirpsenwelt Kombinierte Tageseinrichtung",
+    "url": "wiederitzscher-knirpsenwelt-kombinierte-tageseinrichtung",
+    "strasse": "Zur Schule 10a",
+    "plz": "04158",
+    "ort": "Leipzig",
+    "ortsteil": "Wiederitzsch"
+  },
+  {
+    "name": "Wiederitzscher Spielkiste Kombinierte Tageseinrichtung",
+    "url": "wiederitzscher-spielkiste-kombinierte-tageseinrichtung",
+    "strasse": "Bremer Weg 17",
+    "plz": "04158",
+    "ort": "Leipzig",
+    "ortsteil": "Wiederitzsch"
+  },
+  {
+    "name": "Wolkser Kinderland Integrationseinrichtung",
+    "url": "wolkser-kinderland-integrationseinrichtung",
+    "strasse": "Güldengossaer Straße 6-8",
+    "plz": "04288",
+    "ort": "Leipzig",
+    "ortsteil": "Liebertwolkwitz"
+  },
+  {
+    "name": "Zum Elsternest Integrationseinrichtung",
+    "url": "zum-elsternest-integrationseinrichtung",
+    "strasse": "Karl-Heine-Straße 34",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Lindenau"
+  },
+  {
+    "name": "Zwergenland Kombinierte Tageseinrichtung",
+    "url": "zwergenland-kombinierte-tageseinrichtung",
+    "strasse": "Döllingstraße 21",
+    "plz": "04328",
+    "ort": "Leipzig",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Zwergenland Kombinierte Tageseinrichtung",
+    "url": "zwergenland-kombinierte-tageseinrichtung-1",
+    "strasse": "Waldrebenweg 9",
+    "plz": "04319",
+    "ort": "Leipzig",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Ahlfeldstraße Kombinierte Tageseinrichtung",
+    "url": "ahlfeldstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Ahlfeldstraße 2",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Alte Salzstraße Hort",
+    "url": "alte-salzstrasse-hort",
+    "strasse": "Alte Salzstraße 65",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Ost"
+  },
+  {
+    "name": "Alte Salzstraße Hort",
+    "url": "alte-salzstrasse-hort-1",
+    "strasse": "Alte Salzstraße 67",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Ost"
+  },
+  {
+    "name": "Alte Straße Integrationseinrichtung",
+    "url": "alte-strasse-integrationseinrichtung",
+    "strasse": "Alte Straße 2",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Plagwitz"
+  },
+  {
+    "name": "Alte Theklaer Straße Integrationseinrichtung",
+    "url": "alte-theklaer-strasse-integrationseinrichtung",
+    "strasse": "Alte Theklaer Straße 13A",
+    "plz": "04349",
+    "ort": "Leipzig",
+    "ortsteil": "Plaußig-Portitz"
+  },
+  {
+    "name": "Altenburger Straße Kombinierte Tageseinrichtung",
+    "url": "altenburger-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Altenburger Straße 3",
+    "plz": "04275",
+    "ort": "Leipzig",
+    "ortsteil": "Südvorstadt"
+  },
+  {
+    "name": "Althener Anger Kombinierte Tageseinrichtung",
+    "url": "althener-anger-kombinierte-tageseinrichtung",
+    "strasse": "Althener Anger 16",
+    "plz": "04319",
+    "ort": "Leipzig",
+    "ortsteil": "Althen-Kleinpösna"
+  },
+  {
+    "name": "Am Kirschberg Integrationseinrichtung",
+    "url": "am-kirschberg-integrationseinrichtung",
+    "strasse": "Am Kirschberg 37",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Am Kirschberg Integrationseinrichtung",
+    "url": "am-kirschberg-integrationseinrichtung-1",
+    "strasse": "Am Kirschberg 39",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Am langen Felde Kombinierte Tageseinrichtung",
+    "url": "am-langen-felde-kombinierte-tageseinrichtung",
+    "strasse": "Am langen Felde 8",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Leutzsch"
+  },
+  {
+    "name": "Am langen Felde Kombinierte Tageseinrichtung",
+    "url": "am-langen-felde-kombinierte-tageseinrichtung-1",
+    "strasse": "Am langen Felde 29",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Leutzsch"
+  },
+  {
+    "name": "An der Hauptstraße Kombinierte Tageseinrichtung",
+    "url": "an-der-hauptstrasse-kombinierte-tageseinrichtung",
+    "strasse": "An der Hauptstraße 40a",
+    "plz": "04356",
+    "ort": "Leipzig",
+    "ortsteil": "Seehausen"
+  },
+  {
+    "name": "An der Lehde Integrationseinrichtung",
+    "url": "an-der-lehde-integrationseinrichtung",
+    "strasse": "An der Lehde 12",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Leutzsch"
+  },
+  {
+    "name": "An der Lehde Kombinierte Tageseinrichtung",
+    "url": "an-der-lehde-kombinierte-tageseinrichtung",
+    "strasse": "An der Lehde 14",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Leutzsch"
+  },
+  {
+    "name": "An der Schule Kombinierte Tageseinrichtung",
+    "url": "an-der-schule-kombinierte-tageseinrichtung",
+    "strasse": "An der Schule 1",
+    "plz": "04158",
+    "ort": "Leipzig",
+    "ortsteil": "Lindenthal"
+  },
+  {
+    "name": "Auenstraße Kombinierte Tageseinrichtung",
+    "url": "auenstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Auenstraße 10-12",
+    "plz": "04178",
+    "ort": "Leipzig",
+    "ortsteil": "Böhlitz-Ehrenberg"
+  },
+  {
+    "name": "Außenstelle Dahlienstraße 75A Kombinierte Tageseinrichtung",
+    "url": "aussenstelle-dahlienstrasse-75a-kombinierte-tageseinrichtung",
+    "strasse": "Friedrich-Ludwig-Jahn-Straße 5",
+    "plz": "04205",
+    "ort": "Leipzig",
+    "ortsteil": "Miltitz"
+  },
+  {
+    "name": "Außenstelle der ITE Lobstädter Str. 14 Kombinierte Tageseinrichtung",
+    "url": "aussenstelle-der-ite-lobstaedter-str-14-kombinierte-tageseinrichtung",
+    "strasse": "Reichelstraße 3",
+    "plz": "04109",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-West"
+  },
+  {
+    "name": "Bästleinstraße Integrative Kindertageseinrichtung",
+    "url": "baestleinstrasse-integrative-kindertageseinrichtung",
+    "strasse": "Bästleinstraße 4",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Nordost"
+  },
+  {
+    "name": "Bauernhofkindergarten Integrationseinrichtung",
+    "url": "bauernhofkindergarten-integrationseinrichtung",
+    "strasse": "Kelbestraße 3",
+    "plz": "04316",
+    "ort": "Leipzig",
+    "ortsteil": "Mölkau"
+  },
+  {
+    "name": "Bertolt-Brecht-Straße Integrationseinrichtung",
+    "url": "bertolt-brecht-strasse-integrationseinrichtung",
+    "strasse": "Bertolt-Brecht-Straße 11",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Schönefeld-Ost"
+  },
+  {
+    "name": "Betreuungsangebot Förderzentrum für Erziehungshilfe, Schulteil A",
+    "url": "betreuungsangebot-foerderzentrum-fuer-erziehungshilfe-schulteil-a",
+    "strasse": "Garskestraße 21",
+    "plz": "04205",
+    "ort": "Leipzig",
+    "ortsteil": "West"
+  },
+  {
+    "name": "Betreuungsangebot Förderzentrum für Erziehungshilfe, Schulteil B",
+    "url": "betreuungsangebot-foerderzentrum-fuer-erziehungshilfe-schulteil-b",
+    "strasse": "Garskestraße 19",
+    "plz": "04205",
+    "ort": "Leipzig",
+    "ortsteil": "West"
+  },
+  {
+    "name": "Betreuungsangebot Schule zur Lernförderung Adolph Diesterweg",
+    "url": "betreuungsangebot-schule-zur-lernfoerderung-adolph-diesterweg",
+    "strasse": "Portitzer Straße 1",
+    "plz": "04318",
+    "ort": "Leipzig",
+    "ortsteil": "Ost"
+  },
+  {
+    "name": "Betreuungsangebot Schule zur Lernförderung Ernst Zinna",
+    "url": "betreuungsangebot-schule-zur-lernfoerderung-ernst-zinna",
+    "strasse": "Wincklerstraße 3/5",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Süd"
+  },
+  {
+    "name": "Betreuungsangebot Schule zur Lernförderung Fritz Gietzelt",
+    "url": "betreuungsangebot-schule-zur-lernfoerderung-fritz-gietzelt",
+    "strasse": "Kantatenweg 40",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Betreuungsangebot Schule zur Lernförderung Johann-Heinrich-Pestalozzi",
+    "url": "betreuungsangebot-schule-zur-lernfoerderung-johann-heinrich-pestalozzi",
+    "strasse": "Hannoversche Straße 2",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Nord"
+  },
+  {
+    "name": "Betreuungsangebot Schule zur Lernförderung Grünau",
+    "url": "betreuungsangebot-schule-zur-lernfoerderung-gruenau",
+    "strasse": "Andromedaweg 25",
+    "plz": "04205",
+    "ort": "Leipzig",
+    "ortsteil": "West"
+  },
+  {
+    "name": "Betriebskindertageseinrichtung Kombinierte Tageseinrichtung",
+    "url": "betriebskindertageseinrichtung-kombinierte-tageseinrichtung",
+    "strasse": "Delitzscher Straße 141",
+    "plz": "04129",
+    "ort": "Leipzig",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Biedermannstraße Integrationseinrichtung",
+    "url": "biedermannstrasse-integrationseinrichtung",
+    "strasse": "Biedermannstraße 23",
+    "plz": "04277",
+    "ort": "Leipzig",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Birkenstraße Kombinierte Tageseinrichtung",
+    "url": "birkenstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Birkenstraße 18",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Lindenau"
+  },
+  {
+    "name": "Bisamstraße Integrationseinrichtung",
+    "url": "bisamstrasse-integrationseinrichtung",
+    "strasse": "Bisamstraße 17",
+    "plz": "04329",
+    "ort": "Leipzig",
+    "ortsteil": "Heiterblick"
+  },
+  {
+    "name": "Bornaische Straße Kombinierte Tageseinrichtung",
+    "url": "bornaische-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Bornaische Straße 138",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Dölitz-Dösen"
+  },
+  {
+    "name": "Bothestraße Integrationseinrichtung",
+    "url": "bothestrasse-integrationseinrichtung",
+    "strasse": "Bothestraße 17/19",
+    "plz": "04155",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Süd"
+  },
+  {
+    "name": "Breisgaustraße Kombinierte Tageseinrichtung",
+    "url": "breisgaustrasse-kombinierte-tageseinrichtung",
+    "strasse": "Breisgaustraße 21",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "BuchKindergarten Kombinierte Tageseinrichtung",
+    "url": "buchkindergarten-kombinierte-tageseinrichtung",
+    "strasse": "Josephstraße 11",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Lindenau"
+  },
+  {
+    "name": "Caritas-Kindertagesstätte St. Gertrud",
+    "url": "caritas-kindertagesstaette-st-gertrud",
+    "strasse": "Althener Straße 18",
+    "plz": "04319",
+    "ort": "Leipzig",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Coppistraße Kombinierte Tageseinrichtung",
+    "url": "coppistrasse-kombinierte-tageseinrichtung",
+    "strasse": "Coppistraße 19",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Mitte"
+  },
+  {
+    "name": "Crealino Kombinierte Tageseinrichtung",
+    "url": "crealino-kombinierte-tageseinrichtung",
+    "strasse": "Jaspisstraße 52",
+    "plz": "04319",
+    "ort": "Leipzig",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Demmeringstraße Kombinierte Tageseinrichtung",
+    "url": "demmeringstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Demmeringstraße 35",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Dr. Bärchen Integrationseinrichtung",
+    "url": "dr-baerchen-integrationseinrichtung",
+    "strasse": "Friedrichshafner Straße 21",
+    "plz": "04357",
+    "ort": "Leipzig",
+    "ortsteil": "Mockau-Süd"
+  },
+  {
+    "name": "Eichlerstraße Kombinierte Tageseinrichtung",
+    "url": "eichlerstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Eichlerstraße 10",
+    "plz": "04317",
+    "ort": "Leipzig",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "EinSteinchen Integrationseinrichtung",
+    "url": "einsteinchen-integrationseinrichtung",
+    "strasse": "Brüderstraße 14/16",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Eisenacher Straße Kombinierte Tageseinrichtung",
+    "url": "eisenacher-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Eisenacher Straße 38",
+    "plz": "04155",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Süd"
+  },
+  {
+    "name": "Eisenbahnstraße Integrationseinrichtung",
+    "url": "eisenbahnstrasse-integrationseinrichtung",
+    "strasse": "Eisenbahnstraße 52 A/B",
+    "plz": "04315",
+    "ort": "Leipzig",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Elsbethstraße Integrationseinrichtung",
+    "url": "elsbethstrasse-integrationseinrichtung",
+    "strasse": "Elsbethstraße 38",
+    "plz": "04155",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Süd"
+  },
+  {
+    "name": "Engelsdorfer Straße Integrationseinrichtung",
+    "url": "engelsdorfer-strasse-integrationseinrichtung",
+    "strasse": "Engelsdorfer Straße 130",
+    "plz": "04316",
+    "ort": "Leipzig",
+    "ortsteil": "Mölkau"
+  },
+  {
+    "name": "Erhardstraße Kombinierte Tageseinrichtung",
+    "url": "erhardstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Erhardstraße 6",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Schleußig"
+  },
+  {
+    "name": "Erich-Zeigner-Allee Kindergarten",
+    "url": "erich-zeigner-allee-kindergarten",
+    "strasse": "Erich-Zeigner-Allee 77",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Plagwitz"
+  },
+  {
+    "name": "Erich-Zeigner-Allee Kombinierte Tageseinrichtung",
+    "url": "erich-zeigner-allee-kombinierte-tageseinrichtung",
+    "strasse": "Erich-Zeigner-Allee 77a",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Plagwitz"
+  },
+  {
+    "name": "Ernst-Keil-Straße 17, Integrative Kindertageseinrichtung",
+    "url": "kindergaertnerei-integrationseinrichtung",
+    "strasse": "Ernst-Keil-Straße 17",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Alt-West"
+  },
+  {
+    "name": "Ferdinand-Rhode-Straße Integrationseinrichtung",
+    "url": "ferdinand-rhode-strasse-integrationseinrichtung",
+    "strasse": "Ferdinand-Rhode-Straße 17a/ B",
+    "plz": "04107",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Fleißnerstraße 2; Kombinierte Kindertageseinrichtung",
+    "url": "fleissnerstrasse-2-kombinierte-kindertageseinrichtung",
+    "strasse": "Fleißnerstraße 2",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Nord"
+  },
+  {
+    "name": "forum thomanum Hort",
+    "url": "forum-thomanum-hort",
+    "strasse": "Jörgen-Schmidtchen-Weg 8",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Nord"
+  },
+  {
+    "name": "forum thomanum Kombinierte Tageseinrichtung",
+    "url": "forum-thomanum-kombinierte-tageseinrichtung",
+    "strasse": "Sebastian-Bach-Straße 1a",
+    "plz": "04109",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-West"
+  },
+  {
+    "name": "Friedrich-Bosse-Straße Kombinierte Tageseinrichtung",
+    "url": "friedrich-bosse-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Friedrich-Bosse-Straße 19",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Möckern"
+  },
+  {
+    "name": "Friedrich-Fröbel-Schule Hort",
+    "url": "friedrich-froebel-schule-hort",
+    "strasse": "Mannheimer Straße 128c",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Friedrichshafner Straße Integrationseinrichtung",
+    "url": "friedrichshafner-strasse-integrationseinrichtung",
+    "strasse": "Friedrichshafner Straße 25",
+    "plz": "04357",
+    "ort": "Leipzig",
+    "ortsteil": "Mockau-Süd"
+  },
+  {
+    "name": "Gabelsbergerstraße Kombinierte Tageseinrichtung",
+    "url": "gabelsbergerstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Gabelsbergerstraße 28",
+    "plz": "04317",
+    "ort": "Leipzig",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Garskestraße Integrationseinrichtung",
+    "url": "garskestrasse-integrationseinrichtung",
+    "strasse": "Garskestraße 17",
+    "plz": "04205",
+    "ort": "Leipzig",
+    "ortsteil": "Schönau"
+  },
+  {
+    "name": "Georg-Große-Straße Kombinierte Tageseinrichtung",
+    "url": "georg-grosse-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Georg-Große-Straße 1a",
+    "plz": "04319",
+    "ort": "Leipzig",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Grünauer Allee Kombinierte Tageseinrichtung",
+    "url": "gruenauer-allee-kombinierte-tageseinrichtung",
+    "strasse": "Grünauer Allee 18a",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Ost"
+  },
+  {
+    "name": "Grüne Gasse Hort",
+    "url": "gruene-gasse-hort",
+    "strasse": "Grüne Gasse 21b",
+    "plz": "04318",
+    "ort": "Leipzig",
+    "ortsteil": "Anger-Crottendorf"
+  },
+  {
+    "name": "Gustav-Freytag-Straße Kinderkrippe",
+    "url": "gustav-freytag-strasse-kinderkrippe",
+    "strasse": "Gustav-Freytag-Straße 33 a",
+    "plz": "04277",
+    "ort": "Leipzig",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Hans-Beimler-Straße Kombinierte Tageseinrichtung",
+    "url": "hans-beimler-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Hans-Beimler-Straße 3",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Möckern"
+  },
+  {
+    "name": "Hans-Beimler-Straße Kombinierte Tageseinrichtung",
+    "url": "hans-beimler-strasse-kombinierte-tageseinrichtung-1",
+    "strasse": "Hans-Beimler-Straße 17",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Möckern"
+  },
+  {
+    "name": "Hans-Marchwitza-Straße Integrationseinrichtung",
+    "url": "hans-marchwitza-strasse-integrationseinrichtung",
+    "strasse": "Hans-Marchwitza-Straße 10",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Hans-Oster-Straße Kombinierte Tageseinrichtung",
+    "url": "hans-oster-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Hans-Oster-Straße 16",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Mitte"
+  },
+  {
+    "name": "Haydnstraße Kombinierte Tageseinrichtung",
+    "url": "haydnstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Haydnstraße 20",
+    "plz": "04107",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Heinrich-Heine-Straße Hort",
+    "url": "heinrich-heine-strasse-hort",
+    "strasse": "Heinrich-Heine-Straße 64",
+    "plz": "04178",
+    "ort": "Leipzig",
+    "ortsteil": "Böhlitz-Ehrenberg"
+  },
+  {
+    "name": "Herloßsohnstraße Integrationseinrichtung",
+    "url": "herlosssohnstrasse-integrationseinrichtung",
+    "strasse": "Herloßsohnstraße 20",
+    "plz": "04155",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Süd"
+  },
+  {
+    "name": "Hildegardstraße Integrationseinrichtung",
+    "url": "hildegardstrasse-integrationseinrichtung",
+    "strasse": "Hildegardstraße 56",
+    "plz": "04315",
+    "ort": "Leipzig",
+    "ortsteil": "Ost"
+  },
+  {
+    "name": "Holzhäuser Straße Integrationseinrichtung",
+    "url": "holzhaeuser-strasse-integrationseinrichtung",
+    "strasse": "Holzhäuser Straße 15",
+    "plz": "04299",
+    "ort": "Leipzig",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Hort an der 100. Schule",
+    "url": "hort-an-der-100-schule",
+    "strasse": "Miltitzer Allee 1",
+    "plz": "04207",
+    "ort": "Leipzig",
+    "ortsteil": "Lausen-Grünau"
+  },
+  {
+    "name": "Hort an der 120. Schule",
+    "url": "hort-an-der-120-schule",
+    "strasse": "Martin-Herrmann-Straße 1",
+    "plz": "04249",
+    "ort": "Leipzig",
+    "ortsteil": "Großzschocher"
+  },
+  {
+    "name": "Hort an der 157. Schule",
+    "url": "hort-an-der-157-schule",
+    "strasse": "Hans-Driesch-Straße 41",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Leutzsch"
+  },
+  {
+    "name": "Hort an der 172. Schule",
+    "url": "hort-an-der-172-schule",
+    "strasse": "Prießnitzstraße 19",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Hort an der 24. Schule",
+    "url": "hort-an-der-24-schule",
+    "strasse": "Döllingstraße 25",
+    "plz": "04328",
+    "ort": "Leipzig",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Hort an der 3. Schule",
+    "url": "hort-an-der-3-schule",
+    "strasse": "Scharnhorststraße 24",
+    "plz": "04275",
+    "ort": "Leipzig",
+    "ortsteil": "Südvorstadt"
+  },
+  {
+    "name": "Hort an der 31. Schule",
+    "url": "hort-an-der-31-schule",
+    "strasse": "Franzosenallee 21",
+    "plz": "04289",
+    "ort": "Leipzig",
+    "ortsteil": "Probstheida"
+  },
+  {
+    "name": "Hort an der 33. Schule",
+    "url": "hort-an-der-33-schule",
+    "strasse": "Anhalter Straße 1",
+    "plz": "04129",
+    "ort": "Leipzig",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Hort an der 39. Schule",
+    "url": "hort-an-der-39-schule",
+    "strasse": "Gustav-Kühn-Straße 1",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Möckern"
+  },
+  {
+    "name": "Hort an der 46. Schule",
+    "url": "hort-an-der-46-schule",
+    "strasse": "Saalfelder Straße 29",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Alt-West"
+  },
+  {
+    "name": "Hort an der 60. Schule",
+    "url": "hort-an-der-60-schule",
+    "strasse": "Schönbergstraße 2/4",
+    "plz": "04249",
+    "ort": "Leipzig",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Hort an der 66. Schule",
+    "url": "hort-an-der-66-schule",
+    "strasse": "Rosenowstraße 56",
+    "plz": "04357",
+    "ort": "Leipzig",
+    "ortsteil": "Mockau-Nord"
+  },
+  {
+    "name": "Hort an der 74. Schule",
+    "url": "hort-an-der-74-schule",
+    "strasse": "Friedrich-Dittes-Straße 23",
+    "plz": "04318",
+    "ort": "Leipzig",
+    "ortsteil": "Anger-Crottendorf"
+  },
+  {
+    "name": "Hort an der 77. Schule",
+    "url": "hort-an-der-77-schule",
+    "strasse": "Riebeckstraße 50",
+    "plz": "04317",
+    "ort": "Leipzig",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Hort an der 78. Schule",
+    "url": "hort-an-der-78-schule",
+    "strasse": "Binzer Straße 14",
+    "plz": "04207",
+    "ort": "Leipzig",
+    "ortsteil": "Lausen-Grünau"
+  },
+  {
+    "name": "Hort an der 8. Schule",
+    "url": "hort-an-der-8-schule",
+    "strasse": "Wincklerstraße 3/5",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Dölitz-Dösen"
+  },
+  {
+    "name": "Hort an der 85. Schule",
+    "url": "hort-an-der-85-schule",
+    "strasse": "Stuttgarter Allee 3",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Mitte"
+  },
+  {
+    "name": "Hort an der 9. Schule",
+    "url": "hort-an-der-9-schule",
+    "strasse": "Gersterstraße 74",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Dölitz-Dösen"
+  },
+  {
+    "name": "Hort an der 91. Schule",
+    "url": "hort-an-der-91-schule",
+    "strasse": "Uranusstraße 1",
+    "plz": "04205",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Nord"
+  },
+  {
+    "name": "Hort an der Adam-Friedrich-Oeser Schule",
+    "url": "hort-an-der-adam-friedrich-oeser-schule",
+    "strasse": "Geibelstraße 74",
+    "plz": "04129",
+    "ort": "Leipzig",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Hort an der Anna-Magdalena-Bach Grundschule",
+    "url": "hort-an-der-anna-magdalena-bach-grundschule",
+    "strasse": "Manetstraße 8",
+    "plz": "04109",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-West"
+  },
+  {
+    "name": "Hort an der Astrid-Lindgren-Schule",
+    "url": "hort-an-der-astrid-lindgren-schule",
+    "strasse": "Volksgartenstraße 16",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Schönefeld-Ost"
+  },
+  {
+    "name": "Hort an der August-Bebel-Schule",
+    "url": "hort-an-der-august-bebel-schule",
+    "strasse": "Husemannstraße 2",
+    "plz": "04315",
+    "ort": "Leipzig",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Hort an der Brüder-Grimm-Schule",
+    "url": "hort-an-der-brueder-grimm-schule",
+    "strasse": "Goldsternstraße 23",
+    "plz": "04329",
+    "ort": "Leipzig",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Hort an der Carl-von-Linné-Schule",
+    "url": "hort-an-der-carl-von-linne-schule",
+    "strasse": "Delitzscher Straße 110",
+    "plz": "04129",
+    "ort": "Leipzig",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Hort an der Christoph-Arnold-Schule",
+    "url": "hort-an-der-christoph-arnold-schule",
+    "strasse": "Gaswerksweg 1",
+    "plz": "04319",
+    "ort": "Leipzig",
+    "ortsteil": "Engelsdorf"
+  },
+  {
+    "name": "Hort an der Clara-Wieck-Schule",
+    "url": "hort-an-der-clara-wieck-schule",
+    "strasse": "Stöckelstraße 45",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Schönefeld-Abtnaundorf"
+  },
+  {
+    "name": "Hort an der Erich-Kästner-Schule",
+    "url": "hort-an-der-erich-kaestner-schule",
+    "strasse": "Erfurter Straße 9",
+    "plz": "04155",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Süd"
+  },
+  {
+    "name": "Hort an der Erich-Zeigner-Schule",
+    "url": "hort-an-der-erich-zeigner-schule",
+    "strasse": "Erich-Zeigner-Allee 24",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Plagwitz"
+  },
+  {
+    "name": "Hort an der Ernst-Pinkert-Schule",
+    "url": "hort-an-der-ernst-pinkert-schule",
+    "strasse": "Martinstraße 7",
+    "plz": "04318",
+    "ort": "Leipzig",
+    "ortsteil": "Anger-Crottendorf"
+  },
+  {
+    "name": "Hort an der Franz-Mehring-Schule",
+    "url": "hort-an-der-franz-mehring-schule",
+    "strasse": "Gletschersteinstraße 9",
+    "plz": "04299",
+    "ort": "Leipzig",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Hort an der Geschwister-Scholl-Schule",
+    "url": "hort-an-der-geschwister-scholl-schule",
+    "strasse": "Elsbethstraße 1",
+    "plz": "04155",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Süd"
+  },
+  {
+    "name": "Hort an der Grundschule Holzhausen",
+    "url": "hort-an-der-grundschule-holzhausen",
+    "strasse": "Stötteritzer Landstraße 21",
+    "plz": "04288",
+    "ort": "Leipzig",
+    "ortsteil": "Holzhausen"
+  },
+  {
+    "name": "Hort an der Grundschule Liebertwolkwitz",
+    "url": "hort-an-der-grundschule-liebertwolkwitz",
+    "strasse": "Am Angerteich 2",
+    "plz": "04288",
+    "ort": "Leipzig",
+    "ortsteil": "Liebertwolkwitz"
+  },
+  {
+    "name": "Hort an der H.-Mann-Schule",
+    "url": "hort-an-der-h-mann-schule",
+    "strasse": "Schwarzenbergweg 4",
+    "plz": "04289",
+    "ort": "Leipzig",
+    "ortsteil": "Meusdorf"
+  },
+  {
+    "name": "Hort an der Hans-Christian-Andersen-Schule",
+    "url": "hort-an-der-hans-christian-andersen-schule",
+    "strasse": "Louis-Fürnberg-Straße 2",
+    "plz": "04318",
+    "ort": "Leipzig",
+    "ortsteil": "Sellerhausen-Stünz"
+  },
+  {
+    "name": "Hort an der Hans-Kroch-Schule",
+    "url": "hort-an-der-hans-kroch-schule",
+    "strasse": "Jörgen-Schmidtchen-Weg 8",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Nord"
+  },
+  {
+    "name": "Hort an der Joachim-Ringelnatz-Schule",
+    "url": "hort-an-der-joachim-ringelnatz-schule",
+    "strasse": "Grünauer Allee 35",
+    "plz": "04209",
+    "ort": "Leipzig",
+    "ortsteil": "Grünau-Ost"
+  },
+  {
+    "name": "Hort an der Karl-Liebknecht-Schule",
+    "url": "hort-an-der-karl-liebknecht-schule",
+    "strasse": "Heinrich-Mann-Straße 1",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Nord"
+  },
+  {
+    "name": "Hort an der Lessingschule",
+    "url": "hort-an-der-lessingschule",
+    "strasse": "Lessingstraße 27",
+    "plz": "04109",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-West"
+  },
+  {
+    "name": "Hort an der Marienbrunner Schule",
+    "url": "hort-an-der-marienbrunner-schule",
+    "strasse": "An der Märchenwiese 49",
+    "plz": "04277",
+    "ort": "Leipzig",
+    "ortsteil": "Marienbrunn"
+  },
+  {
+    "name": "Hort an der Pablo-Neruda-Schule",
+    "url": "hort-an-der-pablo-neruda-schule",
+    "strasse": "Tarostraße 6",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Hort an der Paul-Robeson-Schule",
+    "url": "hort-an-der-paul-robeson-schule",
+    "strasse": "Jungmannstraße 5",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Wahren"
+  },
+  {
+    "name": "Hort an der Schule 5",
+    "url": "hort-an-der-schule-5",
+    "strasse": "Eitingonstraße 5",
+    "plz": "04105",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Nordwest"
+  },
+  {
+    "name": "Hort an der Schule am Adler",
+    "url": "hort-an-der-schule-am-adler",
+    "strasse": "Antonienstraße 24",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Plagwitz"
+  },
+  {
+    "name": "Hort an der Schule am Auwald",
+    "url": "hort-an-der-schule-am-auwald",
+    "strasse": "Rödelstraße 6",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Schleußig"
+  },
+  {
+    "name": "Hort an der Schule am Floßplatz",
+    "url": "hort-an-der-schule-am-flossplatz",
+    "strasse": "Hohe Straße 45",
+    "plz": "04107",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Hort an der Schule am Rabet",
+    "url": "hort-an-der-schule-am-rabet",
+    "strasse": "Eisenbahnstraße 50",
+    "plz": "04315",
+    "ort": "Leipzig",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Hort an der Schule Portitz",
+    "url": "hort-an-der-schule-portitz",
+    "strasse": "Göbschelwitzer Weg 1",
+    "plz": "04349",
+    "ort": "Leipzig",
+    "ortsteil": "Plaußig-Portitz"
+  },
+  {
+    "name": "Hort an der Theodor-Körner-Schule",
+    "url": "hort-an-der-theodor-koerner-schule",
+    "strasse": "Schlehenweg 32",
+    "plz": "04329",
+    "ort": "Leipzig",
+    "ortsteil": "Paunsdorf"
+  },
+  {
+    "name": "Hort an der W.-Wander Schule",
+    "url": "hort-an-der-w-wander-schule",
+    "strasse": "Schulze-Delitzsch-Straße 23",
+    "plz": "04315",
+    "ort": "Leipzig",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Hort an der Wilhelm-Busch-Schule",
+    "url": "hort-an-der-wilhelm-busch-schule",
+    "strasse": "Heinrichstraße 43/45",
+    "plz": "04317",
+    "ort": "Leipzig",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Hort an der Wilhelm-Hauff-Schule",
+    "url": "hort-an-der-wilhelm-hauff-schule",
+    "strasse": "Diderotstraße 37",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Möckern"
+  },
+  {
+    "name": "Hort Berthastraße",
+    "url": "hort-berthastrasse",
+    "strasse": "Berthastraße 15",
+    "plz": "04357",
+    "ort": "Leipzig",
+    "ortsteil": "Mockau-Süd"
+  },
+  {
+    "name": "Hort der Freien Aktiven Schule",
+    "url": "hort-der-freien-aktiven-schule",
+    "strasse": "Eisenacher Straße 40",
+    "plz": "04155",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Süd"
+  },
+  {
+    "name": "Hort der Grundschule Clara Schumann",
+    "url": "hort-der-grundschule-clara-schumann",
+    "strasse": "Inselstraße 18",
+    "plz": "04203",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Ost"
+  },
+  {
+    "name": "Hort der Karl-Schubert-Schule Leipzig",
+    "url": "hort-der-karl-schubert-schule-leipzig",
+    "strasse": "Raschwitzer Straße 4",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Hort der Nachbarschaftsschule",
+    "url": "hort-der-nachbarschaftsschule",
+    "strasse": "Odermannstraße 4/6",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Hort der Schule Connewitz",
+    "url": "hort-der-schule-connewitz",
+    "strasse": "Zwenkauer Straße 35",
+    "plz": "04277",
+    "ort": "Leipzig",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Inselstraße 7; Kombinierte Kindertageseinrichtung",
+    "url": "inselstrasse-7-kombinierte-kindertageseinrichtung",
+    "strasse": "Inselstraße 7",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Ost"
+  },
+  {
+    "name": "Integrative Kindertageseinrichtung Unikat Linnéstraße 8",
+    "url": "integrative-kindertageseinrichtung-unikat-linnestrasse-8",
+    "strasse": "Linnéstraße 8",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Mitte"
+  },
+  {
+    "name": "Integrative Kindertageseinrichtung Bothestraße 30",
+    "url": "integrative-kindertageseinrichtung-bothestrasse-30",
+    "strasse": "Bothestraße 30",
+    "plz": "04105",
+    "ort": "Leipzig",
+    "ortsteil": "Nord"
+  },
+  {
+    "name": "Integrative Kindertageseinrichtung Gohliser Straße 5",
+    "url": "integrative-kindertageseinrichtung-gohliser-strasse-5",
+    "strasse": "Gohliser Straße 5",
+    "plz": "04105",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Nord"
+  },
+  {
+    "name": "Integrative Kindertageseinrichtung Marcusgasse",
+    "url": "integrative-kindertageseinrichtung-marcusgasse",
+    "strasse": "Marcusgasse 7",
+    "plz": "04315",
+    "ort": "Leipzig",
+    "ortsteil": "Ost"
+  },
+  {
+    "name": "Integrative Kindertageseinrichtung Oberdorfstraße 30",
+    "url": "integrative-kindertageseinrichtung-oberdorfstrasse-30",
+    "strasse": "Oberdorfstraße 30",
+    "plz": "04299",
+    "ort": "Leipzig",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Jadassohnstraße Kombinierte Tageseinrichtung",
+    "url": "jadassohnstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Jadassohnstraße 2",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Alt-West"
+  },
+  {
+    "name": "Jörgen-Schmidtchen-Weg Integrationseinrichtung",
+    "url": "joergen-schmidtchen-weg-integrationseinrichtung",
+    "strasse": "Jörgen-Schmidtchen-Weg 6",
+    "plz": "04157",
+    "ort": "Leipzig",
+    "ortsteil": "Gohlis-Nord"
+  },
+  {
+    "name": "Kantatenweg Integrationseinrichtung",
+    "url": "kantatenweg-integrationseinrichtung",
+    "strasse": "Kantatenweg 41A",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Kleinzschocher"
+  },
+  {
+    "name": "Kantatenweg Integrationseinrichtung",
+    "url": "kantatenweg-integrationseinrichtung-1",
+    "strasse": "Kantatenweg 41B",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Kleinzschocher"
+  },
+  {
+    "name": "Kantor-Andrä-Straße Integrationseinrichtung",
+    "url": "kantor-andrae-strasse-integrationseinrichtung",
+    "strasse": "Kantor-Andrä-Straße 16",
+    "plz": "04178",
+    "ort": "Leipzig",
+    "ortsteil": "Böhlitz-Ehrenberg"
+  },
+  {
+    "name": "Karl-Mannsfeld-Straße Kombinierte Tageseinrichtung",
+    "url": "karl-mannsfeld-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Karl-Mannsfeld-Straße 7/8",
+    "plz": "04158",
+    "ort": "Leipzig",
+    "ortsteil": "Lindenthal"
+  },
+  {
+    "name": "Kindergarten Knautnaundorfer Straße",
+    "url": "kindergarten-knautnaundorfer-strasse",
+    "strasse": "Knautnaundorfer Straße 4f",
+    "plz": "04249",
+    "ort": "Leipzig",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Kinderhaus Sonnenmond (privat) Kombinierte Tageseinrichtung",
+    "url": "kinderhaus-sonnenmond-privat-kombinierte-tageseinrichtung",
+    "strasse": "Ziolkowskistraße 25",
+    "plz": "04357",
+    "ort": "Leipzig",
+    "ortsteil": "Mockau-Nord"
+  },
+  {
+    "name": "Kindertageseinrichtung Karl-Heine-Straße 95",
+    "url": "kindertageseinrichtung-karl-heine-strasse-95",
+    "strasse": "Karl-Heine-Straße 95",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Kindertagesstätte Christopherus",
+    "url": "kindertagesstaette-christopherus",
+    "strasse": "An der Tabaksmühle 30",
+    "plz": "04277",
+    "ort": "Leipzig",
+    "ortsteil": "Marienbrunn"
+  },
+  {
+    "name": "Kita und Hort der freien Grundschule Regenbogen Kombinierte Tageseinrichtung",
+    "url": "kita-und-hort-der-freien-grundschule-regenbogen-kombinierte-tageseinrichtung",
+    "strasse": "Raschwitzer Straße 15",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Koehlerstraße Integrationseinrichtung",
+    "url": "koehlerstrasse-integrationseinrichtung",
+    "strasse": "Koehlerstraße 7",
+    "plz": "04315",
+    "ort": "Leipzig",
+    "ortsteil": "Neustadt-Neuschönefeld"
+  },
+  {
+    "name": "Kohlgartenweg Kombinierte Tageseinrichtung",
+    "url": "kohlgartenweg-kombinierte-tageseinrichtung",
+    "strasse": "Kohlgartenweg 3",
+    "plz": "04318",
+    "ort": "Leipzig",
+    "ortsteil": "Anger-Crottendorf"
+  },
+  {
+    "name": "Kombinierte Kindertageseinrichtung Goyastraße",
+    "url": "kombinierte-kindertageseinrichtung-goyastrasse",
+    "strasse": "Goyastraße 8",
+    "plz": "04105",
+    "ort": "Leipzig",
+    "ortsteil": "Mitte"
+  },
+  {
+    "name": "Komplexeinrichtung Kregelstraße 41a",
+    "url": "komplexeinrichtung-kregelstrasse-41a",
+    "strasse": "Kregelstraße 41a",
+    "plz": "04317",
+    "ort": "Leipzig",
+    "ortsteil": "Südost"
+  },
+  {
+    "name": "Konfuzius-Kindergarten Kombinierte Tageseinrichtung",
+    "url": "konfuzius-kindergarten-kombinierte-tageseinrichtung",
+    "strasse": "Lößniger Straße 6",
+    "plz": "04275",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Könneritzstraße Kombinierte Tageseinrichtung",
+    "url": "koenneritzstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Könneritzstraße 47",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Schleußig"
+  },
+  {
+    "name": "Kunzestraße Integrationseinrichtung",
+    "url": "kunzestrasse-integrationseinrichtung",
+    "strasse": "Kunzestraße 4",
+    "plz": "04249",
+    "ort": "Leipzig",
+    "ortsteil": "Großzschocher"
+  },
+  {
+    "name": "Kurt-Tucholsky-Straße Integrationseinrichtung",
+    "url": "kurt-tucholsky-strasse-integrationseinrichtung",
+    "strasse": "Kurt-Tucholsky-Straße 12",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Lange Straße Kombinierte Tageseinrichtung",
+    "url": "lange-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Lange Straße 23",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Ost"
+  },
+  {
+    "name": "Leipziger Straße Hort",
+    "url": "leipziger-strasse-hort",
+    "strasse": "Leipziger Straße 200",
+    "plz": "04178",
+    "ort": "Leipzig",
+    "ortsteil": "Böhlitz-Ehrenberg"
+  },
+  {
+    "name": "Leipziger Straße Kombinierte Tageseinrichtung",
+    "url": "leipziger-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Leipziger Straße 21",
+    "plz": "04178",
+    "ort": "Leipzig",
+    "ortsteil": "Böhlitz-Ehrenberg"
+  },
+  {
+    "name": "Leonhard-Frank-Straße Kombinierte Tageseinrichtung",
+    "url": "leonhard-frank-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Leonhard-Frank-Straße 24B",
+    "plz": "04318",
+    "ort": "Leipzig",
+    "ortsteil": "Sellerhausen-Stünz"
+  },
+  {
+    "name": "Lerchenrain Kombinierte Tageseinrichtung",
+    "url": "lerchenrain-kombinierte-tageseinrichtung",
+    "strasse": "Lerchenrain 14/16",
+    "plz": "04277",
+    "ort": "Leipzig",
+    "ortsteil": "Marienbrunn"
+  },
+  {
+    "name": "Lichtenbergweg Kombinierte Tageseinrichtung",
+    "url": "lichtenbergweg-kombinierte-tageseinrichtung",
+    "strasse": "Lichtenbergweg 3",
+    "plz": "04299",
+    "ort": "Leipzig",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Lindenstraße Integrationseinrichtung",
+    "url": "lindenstrasse-integrationseinrichtung",
+    "strasse": "Lindenstraße 54",
+    "plz": "04158",
+    "ort": "Leipzig",
+    "ortsteil": "Wiederitzsch"
+  },
+  {
+    "name": "Lobstädter Straße Integrationseinrichtung",
+    "url": "lobstaedter-strasse-integrationseinrichtung",
+    "strasse": "Lobstädter Straße 14a",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Marschnerstraße Kombinierte Tageseinrichtung",
+    "url": "marschnerstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Marschnerstraße 21",
+    "plz": "04109",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-West"
+  },
+  {
+    "name": "Mattheuerbogen Kombinierte Tageseinrichtung",
+    "url": "mattheuerbogen-kombinierte-tageseinrichtung",
+    "strasse": "Mattheuerbogen 4",
+    "plz": "04289",
+    "ort": "Leipzig",
+    "ortsteil": "Probstheida"
+  },
+  {
+    "name": "Meininger Ring Integrationseinrichtung",
+    "url": "meininger-ring-integrationseinrichtung",
+    "strasse": "Meininger Ring 41",
+    "plz": "04205",
+    "ort": "Leipzig",
+    "ortsteil": "Schönau"
+  },
+  {
+    "name": "Meusdorfer Straße Integrationseinrichtung",
+    "url": "meusdorfer-strasse-integrationseinrichtung",
+    "strasse": "Meusdorfer Straße 47b",
+    "plz": "04277",
+    "ort": "Leipzig",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Minimax-Vorschule Kombinierte Tageseinrichtung",
+    "url": "minimax-vorschule-kombinierte-tageseinrichtung",
+    "strasse": "Bästleinstraße 18",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Schönefeld-Ost"
+  },
+  {
+    "name": "Mosenthinstraße Integrationseinrichtung",
+    "url": "mosenthinstrasse-integrationseinrichtung",
+    "strasse": "Mosenthinstraße 1",
+    "plz": "04129",
+    "ort": "Leipzig",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Mothesstraße Integrationseinrichtung",
+    "url": "mothesstrasse-integrationseinrichtung",
+    "strasse": "Mothesstraße 2",
+    "plz": "04129",
+    "ort": "Leipzig",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Multikulturelle Kinderstube der Augsburger Gesellschaft für Lehmbau, Bildung und Arbeit in Leipzig e.V.",
+    "url": "multikulturelle-kinderstube-der-augsburger-gesellschaft-fuer-lehmbau-bildung-und-arbeit-in-leipzig",
+    "strasse": "Endersstraße 32",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Lindenau"
+  },
+  {
+    "name": "Naunhofer Straße Kombinierte Tageseinrichtung",
+    "url": "naunhofer-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Naunhofer Straße 31",
+    "plz": "04299",
+    "ort": "Leipzig",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Nordstraße Kombinierte Tageseinrichtung",
+    "url": "nordstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Nordstraße 43 A/B",
+    "plz": "04105",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Nord"
+  },
+  {
+    "name": "Nordweg Integrationseinrichtung",
+    "url": "nordweg-integrationseinrichtung",
+    "strasse": "Nordweg 9",
+    "plz": "04158",
+    "ort": "Leipzig",
+    "ortsteil": "Wiederitzsch"
+  },
+  {
+    "name": "Odermannstraße Integrationseinrichtung",
+    "url": "odermannstrasse-integrationseinrichtung",
+    "strasse": "Odermannstraße 4",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Oststraße Integrationseinrichtung",
+    "url": "oststrasse-integrationseinrichtung",
+    "strasse": "Oststraße 128",
+    "plz": "04317",
+    "ort": "Leipzig",
+    "ortsteil": "Stötteritz"
+  },
+  {
+    "name": "Palmstraße Kombinierte Tageseinrichtung",
+    "url": "palmstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Palmstraße 4",
+    "plz": "04317",
+    "ort": "Leipzig",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Panitzstraße Kindergarten",
+    "url": "panitzstrasse-kindergarten",
+    "strasse": "Panitzstraße 2",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Prisma Integrationseinrichtung",
+    "url": "prisma-integrationseinrichtung",
+    "strasse": "Demmeringstraße 125",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Alt-West"
+  },
+  {
+    "name": "Puschstraße Hort",
+    "url": "puschstrasse-hort",
+    "strasse": "Puschstraße 9",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Mitte"
+  },
+  {
+    "name": "Raschwitzer Straße Integrationseinrichtung",
+    "url": "raschwitzer-strasse-integrationseinrichtung",
+    "strasse": "Raschwitzer Straße 4",
+    "plz": "04279",
+    "ort": "Leipzig",
+    "ortsteil": "Lößnig"
+  },
+  {
+    "name": "Rathenaustraße Kombinierte Tageseinrichtung",
+    "url": "rathenaustrasse-kombinierte-tageseinrichtung",
+    "strasse": "Rathenaustraße 21",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Leutzsch"
+  },
+  {
+    "name": "Richard-Lehmann-Straße Integrationseinrichtung",
+    "url": "richard-lehmann-strasse-integrationseinrichtung",
+    "strasse": "Richard-Lehmann-Straße 28-30",
+    "plz": "04275",
+    "ort": "Leipzig",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Richterstraße 14; Integrative Kindertageseinrichtung",
+    "url": "richterstrasse-14-integrative-kindertageseinrichtung",
+    "strasse": "Richterstraße 14",
+    "plz": "04155",
+    "ort": "Leipzig",
+    "ortsteil": "Nord"
+  },
+  {
+    "name": "Rietschelstraße Integrationseinrichtung",
+    "url": "rietschelstrasse-integrationseinrichtung",
+    "strasse": "Rietschelstraße 12",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Rudolph-Sack-Straße Kombinierte Tageseinrichtung",
+    "url": "rudolph-sack-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Rudolph-Sack-Straße 12",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Plagwitz"
+  },
+  {
+    "name": "Salomonstraße 10; Kombinierte Tageseinrichtung",
+    "url": "inselstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Salomonstraße 10",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Ost"
+  },
+  {
+    "name": "Schenkendorfstraße Integrationseinrichtung",
+    "url": "schenkendorfstrasse-integrationseinrichtung",
+    "strasse": "Schenkendorfstraße 10",
+    "plz": "04275",
+    "ort": "Leipzig",
+    "ortsteil": "Südvorstadt"
+  },
+  {
+    "name": "Schletterstraße Hort",
+    "url": "schletterstrasse-hort",
+    "strasse": "Schletterstraße 7",
+    "plz": "04107",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Süd"
+  },
+  {
+    "name": "Schönauer Ring Integrationseinrichtung",
+    "url": "schoenauer-ring-integrationseinrichtung",
+    "strasse": "Schönauer Ring 23a",
+    "plz": "04205",
+    "ort": "Leipzig",
+    "ortsteil": "Schönau"
+  },
+  {
+    "name": "Schönauer Ring Integrationseinrichtung",
+    "url": "schoenauer-ring-integrationseinrichtung-1",
+    "strasse": "Schönauer Ring 23b",
+    "plz": "04205",
+    "ort": "Leipzig",
+    "ortsteil": "Schönau"
+  },
+  {
+    "name": "Schönefelder Allee Kombinierte Tageseinrichtung",
+    "url": "schoenefelder-allee-kombinierte-tageseinrichtung",
+    "strasse": "Schönefelder Allee 23",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Schönefeld-Abtnaundorf"
+  },
+  {
+    "name": "Schröderstraße Kombinierte Tageseinrichtung",
+    "url": "schroederstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Schröderstraße 1",
+    "plz": "04178",
+    "ort": "Leipzig",
+    "ortsteil": "Burghausen-Rückmarsdorf"
+  },
+  {
+    "name": "Schulzeweg Kombinierte Tageseinrichtung",
+    "url": "schulzeweg-kombinierte-tageseinrichtung",
+    "strasse": "Schulzeweg 11",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Schönefeld-Ost"
+  },
+  {
+    "name": "Schützstraße Integrationseinrichtung",
+    "url": "schuetzstrasse-integrationseinrichtung",
+    "strasse": "Schützstraße 2",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Leutzsch"
+  },
+  {
+    "name": "Seidelstraße Kombinierte Tageseinrichtung",
+    "url": "seidelstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Seidelstraße 1-3",
+    "plz": "04289",
+    "ort": "Leipzig",
+    "ortsteil": "Probstheida"
+  },
+  {
+    "name": "Seitengasse Integrationseinrichtung",
+    "url": "seitengasse-integrationseinrichtung",
+    "strasse": "Seitengasse 2",
+    "plz": "04129",
+    "ort": "Leipzig",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Seumestraße Integrationseinrichtung",
+    "url": "seumestrasse-integrationseinrichtung",
+    "strasse": "Seumestraße 99",
+    "plz": "04249",
+    "ort": "Leipzig",
+    "ortsteil": "Südwest"
+  },
+  {
+    "name": "Spinnereistraße Kombinierte Tageseinrichtung",
+    "url": "spinnereistrasse-kombinierte-tageseinrichtung",
+    "strasse": "Spinnereistraße 10",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Alt-West"
+  },
+  {
+    "name": "Spinnereistraße Kombinierte Tageseinrichtung",
+    "url": "spinnereistrasse-kombinierte-tageseinrichtung-1",
+    "strasse": "Spinnereistraße 8",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Alt-West"
+  },
+  {
+    "name": "Stahmelner Straße 28; Integrative Kindertageseinrichtung",
+    "url": "stahmelner-strasse-28-integrative-kindertageseinrichtung",
+    "strasse": "Stahmelner Straße 28",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Nordwest"
+  },
+  {
+    "name": "Sternwartenstraße Integrationseinrichtung",
+    "url": "sternwartenstrasse-integrationseinrichtung",
+    "strasse": "Sternwartenstraße 30 A/B",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Tarostraße Integrationseinrichtung",
+    "url": "tarostrasse-integrationseinrichtung",
+    "strasse": "Tarostraße 7",
+    "plz": "04103",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Südost"
+  },
+  {
+    "name": "Täubchenweg Kombinierte Tageseinrichtung",
+    "url": "taeubchenweg-kombinierte-tageseinrichtung",
+    "strasse": "Täubchenweg 30",
+    "plz": "04317",
+    "ort": "Leipzig",
+    "ortsteil": "Reudnitz-Thonberg"
+  },
+  {
+    "name": "Theodor-Neubauer-Straße Integrationseinrichtung",
+    "url": "theodor-neubauer-strasse-integrationseinrichtung",
+    "strasse": "Theodor-Neubauer-Straße 18",
+    "plz": "04318",
+    "ort": "Leipzig",
+    "ortsteil": "Anger-Crottendorf"
+  },
+  {
+    "name": "Thietmarstraße Integrationseinrichtung",
+    "url": "thietmarstrasse-integrationseinrichtung",
+    "strasse": "Thietmarstraße 13",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Alt-West"
+  },
+  {
+    "name": "Thünenstraße Kombinierte Tageseinrichtung",
+    "url": "thuenenstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Thünenstraße 2",
+    "plz": "04129",
+    "ort": "Leipzig",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "Torgauer Straße Hort",
+    "url": "torgauer-strasse-hort",
+    "strasse": "Torgauer Straße 114",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Sellerhausen-Stünz"
+  },
+  {
+    "name": "Tschaikowskistraße Kombinierte Tageseinrichtung",
+    "url": "tschaikowskistrasse-kombinierte-tageseinrichtung",
+    "strasse": "Tschaikowskistraße 28",
+    "plz": "04105",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-Nordwest"
+  },
+  {
+    "name": "Waldkindergarten Kindergarten",
+    "url": "waldkindergarten-kindergarten",
+    "strasse": "Rietschelstraße 52",
+    "plz": "04177",
+    "ort": "Leipzig",
+    "ortsteil": "Altlindenau"
+  },
+  {
+    "name": "Waldkindergarten Kindergarten",
+    "url": "waldkindergarten-kindergarten-1",
+    "strasse": "Kantatenweg 20",
+    "plz": "04229",
+    "ort": "Leipzig",
+    "ortsteil": "Kleinzschocher"
+  },
+  {
+    "name": "Wilhelm-Sammet-Straße Kombinierte Tageseinrichtung",
+    "url": "wilhelm-sammet-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Wilhelm-Sammet-Straße 4",
+    "plz": "04129",
+    "ort": "Leipzig",
+    "ortsteil": "Eutritzsch"
+  },
+  {
+    "name": "William-Zipperer-Straße Kombinierte Tageseinrichtung",
+    "url": "william-zipperer-strasse-kombinierte-tageseinrichtung",
+    "strasse": "William-Zipperer-Straße 149",
+    "plz": "04179",
+    "ort": "Leipzig",
+    "ortsteil": "Leutzsch"
+  },
+  {
+    "name": "Willmar-Schwabe-Straße Kombinierte Tageseinrichtung",
+    "url": "willmar-schwabe-strasse-kombinierte-tageseinrichtung",
+    "strasse": "Willmar-Schwabe-Straße 4",
+    "plz": "04109",
+    "ort": "Leipzig",
+    "ortsteil": "Zentrum-West"
+  },
+  {
+    "name": "Windscheidstraße Kombinierte Tageseinrichtung",
+    "url": "windscheidstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Windscheidstraße 32",
+    "plz": "04277",
+    "ort": "Leipzig",
+    "ortsteil": "Connewitz"
+  },
+  {
+    "name": "Wurzner Straße Integrationseinrichtung",
+    "url": "wurzner-strasse-integrationseinrichtung",
+    "strasse": "Wurzner Straße 122",
+    "plz": "04315",
+    "ort": "Leipzig",
+    "ortsteil": "Volkmarsdorf"
+  },
+  {
+    "name": "Yorckstraße Kombinierte Tageseinrichtung",
+    "url": "yorckstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Yorckstraße 43a",
+    "plz": "04159",
+    "ort": "Leipzig",
+    "ortsteil": "Möckern"
+  },
+  {
+    "name": "Zeumerstraße Kombinierte Tageseinrichtung",
+    "url": "zeumerstrasse-kombinierte-tageseinrichtung",
+    "strasse": "Zeumerstraße 1",
+    "plz": "04347",
+    "ort": "Leipzig",
+    "ortsteil": "Schönefeld-Abtnaundorf"
+  },
+  {
+    "name": "Zum Kleingartenpark Kombinierte Tageseinrichtung",
+    "url": "zum-kleingartenpark-kombinierte-tageseinrichtung",
+    "strasse": "Zum Kleingartenpark 15",
+    "plz": "04318",
+    "ort": "Leipzig",
+    "ortsteil": "Sellerhausen-Stünz"
+  }
+]
