@@ -5,7 +5,7 @@
     "strasse": "Stuttgarter Allee 7",
     "plz": "04209",
     "ort": "Leipzig",
-    "ortsteil": "West"
+    "ortsteil": "Gruenau-Mitte"
   },
   {
     "name": "Sachsen-Therme",
@@ -13,7 +13,7 @@
     "strasse": "Schongauerstraße 19",
     "plz": "04329",
     "ort": "Leipzig",
-    "ortsteil": "Ost"
+    "ortsteil": "Paunsdorf"
   },
   {
     "name": "Schwimmhalle Mitte",
@@ -21,7 +21,7 @@
     "strasse": "Kirschbergstraße 84",
     "plz": "04159",
     "ort": "Leipzig",
-    "ortsteil": "Nord"
+    "ortsteil": "Gohlis-Sued"
   },
   {
     "name": "Schwimmhalle Nord",
@@ -37,7 +37,7 @@
     "strasse": "Schönefelder Allee 26",
     "plz": "04347",
     "ort": "Leipzig",
-    "ortsteil": "Nordost"
+    "ortsteil": "Schoenefeld-Abtnaundorf"
   },
   {
     "name": "Schwimmhalle Süd",
@@ -45,7 +45,7 @@
     "strasse": "Tarostraße 10",
     "plz": "04103",
     "ort": "Leipzig",
-    "ortsteil": "Mitte"
+    "ortsteil": "Zentrum-Suedost"
   },
   {
     "name": "Schwimmhalle Südost",
@@ -53,7 +53,7 @@
     "strasse": "Kolmstraße 35",
     "plz": "04299",
     "ort": "Leipzig",
-    "ortsteil": "Stötteritz"
+    "ortsteil": "Stoetteritz"
   },
   {
     "name": "Schwimmhalle West",
@@ -61,7 +61,7 @@
     "strasse": "Hans-Driesch-Straße 52a",
     "plz": "04179",
     "ort": "Leipzig",
-    "ortsteil": "Alt-West"
+    "ortsteil": "Leutzsch"
   },
   {
     "name": "Sportbad an der Elster",
@@ -77,7 +77,7 @@
     "strasse": "Kleiststraße 54 an der Schwimmhalle Nord",
     "plz": "04157",
     "ort": "Leipzig",
-    "ortsteil": "Mitte"
+    "ortsteil": ""
   },
   {
     "name": "Ökobad Lindenthal",
@@ -85,7 +85,7 @@
     "strasse": "Am Freibad 3",
     "plz": "04158",
     "ort": "Leipzig",
-    "ortsteil": "Nordwest"
+    "ortsteil": "Lindenthal"
   },
   {
     "name": "Schreberbad",
@@ -93,7 +93,7 @@
     "strasse": "Schreberstraße 15",
     "plz": "04109",
     "ort": "Leipzig",
-    "ortsteil": "Mitte"
+    "ortsteil": "Zentrum-West"
   },
   {
     "name": "Sommerbad Kleinzschocher",
@@ -101,7 +101,7 @@
     "strasse": "Küchenholzallee 75",
     "plz": "04229",
     "ort": "Leipzig",
-    "ortsteil": "Südwest"
+    "ortsteil": "Kleinzschocher"
   },
   {
     "name": "Sommerbad Schönefeld",
@@ -109,7 +109,7 @@
     "strasse": "Vollbedingstraße 39",
     "plz": "04357",
     "ort": "Leipzig",
-    "ortsteil": "Nordost"
+    "ortsteil": "Schoenefeld-Ost"
   },
   {
     "name": "Sommerbad Südost",
@@ -117,6 +117,6 @@
     "strasse": "Oststraße 173",
     "plz": "04299",
     "ort": "Leipzig",
-    "ortsteil": "Südost"
+    "ortsteil": "Stoetteritz"
   }
 ]

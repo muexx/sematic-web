@@ -5,7 +5,7 @@
     "strasse": "Am Sportpark 2",
     "plz": "04179",
     "ort": "Leipzig",
-    "ortsteil": "Alt-West"
+    "ortsteil": "Boehlitz-Ehrenberg"
   },
   {
     "name": "August-Bebel-Kampfbahn",
@@ -13,7 +13,7 @@
     "strasse": "An der Elster 30 35",
     "plz": "04159",
     "ort": "Leipzig",
-    "ortsteil": "Nordwest"
+    "ortsteil": "Wahren"
   },
   {
     "name": "Bruno-Plache-Stadion",
@@ -21,7 +21,7 @@
     "strasse": "Connewitzer Straße 21",
     "plz": "04289",
     "ort": "Leipzig",
-    "ortsteil": "Südost"
+    "ortsteil": "Probstheida"
   },
   {
     "name": "Erich-Steinfurth-Stadion",
@@ -29,7 +29,7 @@
     "strasse": "Riesaer Straße 101",
     "plz": "04328",
     "ort": "Leipzig",
-    "ortsteil": "Ost"
+    "ortsteil": "Paunsdorf"
   },
   {
     "name": "Friedrich-Ludwig-Jahn-Kampfbahn",
@@ -45,7 +45,7 @@
     "strasse": "Demmeringstraße 104",
     "plz": "04179",
     "ort": "Leipzig",
-    "ortsteil": "Alt-West"
+    "ortsteil": "Lindenau"
   },
   {
     "name": "Kurt-Kresse-Kampfbahn",
@@ -53,7 +53,7 @@
     "strasse": "Diezmannstraße 16",
     "plz": "04207",
     "ort": "Leipzig",
-    "ortsteil": "Südwest"
+    "ortsteil": "Kleinzschocher"
   },
   {
     "name": "Nordanlage Sportforum",
@@ -61,7 +61,7 @@
     "strasse": "Am Sportforum 5",
     "plz": "04105",
     "ort": "Leipzig",
-    "ortsteil": "Mitte"
+    "ortsteil": "Zentrum-Nordwest"
   },
   {
     "name": "Red Bull Arena Leipzig",
@@ -69,7 +69,7 @@
     "strasse": "Am Sportforum 3",
     "plz": "04105",
     "ort": "Leipzig",
-    "ortsteil": "Mitte"
+    "ortsteil": "Zentrum-Nordwest"
   },
   {
     "name": "Sportplatzanlage Albersdorfer Straße",
@@ -77,7 +77,7 @@
     "strasse": "Albersdorfer Straße 17-19",
     "plz": "04249",
     "ort": "Leipzig",
-    "ortsteil": "Südwest"
+    "ortsteil": "Knautkleeberg-Knauthain"
   },
   {
     "name": "Sportplatzanlage Althen",
@@ -85,7 +85,7 @@
     "strasse": "Zum Althener Sportplatz 15",
     "plz": "04319",
     "ort": "Leipzig",
-    "ortsteil": "Ost"
+    "ortsteil": "Althen-Kleinpoesna"
   },
   {
     "name": "Sportplatzanlage An der Parthe",
@@ -93,7 +93,7 @@
     "strasse": "An der Parthe 30",
     "plz": "04357",
     "ort": "Leipzig",
-    "ortsteil": "Nordost"
+    "ortsteil": "Mockau-Sued"
   },
   {
     "name": "Sportplatzanlage Böhlitz Ehrenberg Leipziger Straße",
@@ -101,7 +101,7 @@
     "strasse": "Leipziger Straße 124",
     "plz": "04178",
     "ort": "Leipzig",
-    "ortsteil": "Alt-West"
+    "ortsteil": "Boehlitz-Ehrenberg"
   },
   {
     "name": "Sportplatzanlage Burghausen",
@@ -109,7 +109,7 @@
     "strasse": "Richard-Leisebein-Straße 20",
     "plz": "04178",
     "ort": "Leipzig",
-    "ortsteil": "Alt-West"
+    "ortsteil": "Burghausen-Rueckmarsdorf"
   },
   {
     "name": "Sportplatzanlage Charlottenhof",
@@ -117,7 +117,7 @@
     "strasse": "Erich-Köhn-Straße 24",
     "plz": "04177",
     "ort": "Leipzig",
-    "ortsteil": "Alt-West"
+    "ortsteil": "Lindenau"
   },
   {
     "name": "Sportplatzanlage Cottaweg",
@@ -125,7 +125,7 @@
     "strasse": "Cottaweg 3-5",
     "plz": "04177",
     "ort": "Leipzig",
-    "ortsteil": "Alt-West"
+    "ortsteil": "Lindenau"
   },
   {
     "name": "Sportplatzanlage Diderotstraße",
@@ -133,7 +133,7 @@
     "strasse": "Diderotstraße 34",
     "plz": "04159",
     "ort": "Leipzig",
-    "ortsteil": "Nordwest"
+    "ortsteil": "Moeckern"
   },
   {
     "name": "Sportplatzanlage Dölitz",
@@ -141,7 +141,7 @@
     "strasse": "Bornaische Straße 179 b",
     "plz": "04279",
     "ort": "Leipzig",
-    "ortsteil": "Süd"
+    "ortsteil": "Sued"
   },
   {
     "name": "Sportplatzanlage Döllingstraße",
@@ -149,7 +149,7 @@
     "strasse": "Döllingstraße 31",
     "plz": "04328",
     "ort": "Leipzig",
-    "ortsteil": "Ost"
+    "ortsteil": "Paunsdorf"
   },
   {
     "name": "Sportplatzanlage Dortmunder Straße",
@@ -157,7 +157,7 @@
     "strasse": "Dortmunder Straße 56-58",
     "plz": "04357",
     "ort": "Leipzig",
-    "ortsteil": "Nordost"
+    "ortsteil": "Mockau-Sued"
   },
   {
     "name": "Sportplatzanlage Eigenheimstraße",
@@ -165,7 +165,7 @@
     "strasse": "Winklerstraße 10",
     "plz": "04279",
     "ort": "Leipzig",
-    "ortsteil": "Süd"
+    "ortsteil": "Sued"
   },
   {
     "name": "Sportplatzanlage Engelsdorf",
@@ -173,7 +173,7 @@
     "strasse": "Hans-Weigel-Straße 29",
     "plz": "04317",
     "ort": "Leipzig",
-    "ortsteil": "Ost"
+    "ortsteil": "Engelsdorf"
   },
   {
     "name": "Sportplatzanlage Göbschelwitz",
@@ -181,7 +181,7 @@
     "strasse": "Zur Loberaue 18",
     "plz": "04356",
     "ort": "Leipzig",
-    "ortsteil": "Nord"
+    "ortsteil": "Seehausen"
   },
   {
     "name": "Sportplatzanlage Goethesteig",
@@ -189,7 +189,7 @@
     "strasse": "Goethesteig 4",
     "plz": "04279",
     "ort": "Leipzig",
-    "ortsteil": "Süd"
+    "ortsteil": "Sued"
   },
   {
     "name": "Sportplatzanlage Gontardweg",
@@ -197,7 +197,7 @@
     "strasse": "Gontardweg 2",
     "plz": "04357",
     "ort": "Leipzig",
-    "ortsteil": "Nordost"
+    "ortsteil": "Mockau-Sued"
   },
   {
     "name": "Sportplatzanlage Hartmannsdorf",
@@ -205,7 +205,7 @@
     "strasse": "Erikenstraße 6",
     "plz": "04249",
     "ort": "Leipzig",
-    "ortsteil": "Südwest"
+    "ortsteil": "Hartmannsdorf-Knautnaundorf"
   },
   {
     "name": "Sportplatzanlage Holzhausen Arthur-Polenz-Straße",
@@ -213,7 +213,7 @@
     "strasse": "Arthur-Polenz-Straße 18",
     "plz": "04288",
     "ort": "Leipzig",
-    "ortsteil": "Südost"
+    "ortsteil": "Holzhausen"
   },
   {
     "name": "Sportplatzanlage Holzhausen Emil-Altner-Weg",
@@ -221,7 +221,7 @@
     "strasse": "Emil-Altner-Weg 45",
     "plz": "04288",
     "ort": "Leipzig",
-    "ortsteil": "Südost"
+    "ortsteil": "Holzhausen"
   },
   {
     "name": "Sportplatzanlage Holzhäuser Straße",
@@ -229,7 +229,7 @@
     "strasse": "Holzhäuser Straße 161",
     "plz": "04299",
     "ort": "Leipzig",
-    "ortsteil": "Südost"
+    "ortsteil": "Stoetteritz"
   },
   {
     "name": "Sportplatzanlage Karl Siegmeier",
@@ -237,7 +237,7 @@
     "strasse": "Windorfer Straße 61",
     "plz": "04229",
     "ort": "Leipzig",
-    "ortsteil": "Südwest"
+    "ortsteil": "Kleinzschocher"
   },
   {
     "name": "Sportplatzanlage Katzmannstraße",
@@ -245,7 +245,7 @@
     "strasse": "Katzmannstraße 1 a",
     "plz": "04357",
     "ort": "Leipzig",
-    "ortsteil": "Nordost"
+    "ortsteil": "Mockau-Sued"
   },
   {
     "name": "Sportplatzanlage Klettenstraße",
@@ -253,7 +253,7 @@
     "strasse": "Klettenstraße 43",
     "plz": "04329",
     "ort": "Leipzig",
-    "ortsteil": "Ost"
+    "ortsteil": "Paunsdorf"
   },
   {
     "name": "Sportplatzanlage Knautnaundorf",
@@ -261,7 +261,7 @@
     "strasse": "Eythraer Weg",
     "plz": "04249",
     "ort": "Leipzig",
-    "ortsteil": "Südwest"
+    "ortsteil": "Hartmannsdorf-Knautnaundorf"
   },
   {
     "name": "Sportplatzanlage Lausen",
@@ -269,7 +269,7 @@
     "strasse": "Zschochersche Allee 7",
     "plz": "04207",
     "ort": "Leipzig",
-    "ortsteil": "West"
+    "ortsteil": "Lausen-Gruenau"
   },
   {
     "name": "Sportplatzanlage Liebertwolkwitz",
@@ -277,7 +277,7 @@
     "strasse": "Prager Straße 440",
     "plz": "04288",
     "ort": "Leipzig",
-    "ortsteil": "Südost"
+    "ortsteil": "Liebertwolkwitz"
   },
   {
     "name": "Sportplatzanlage Lindenthal",
@@ -285,7 +285,7 @@
     "strasse": "Gartenwinkel 4",
     "plz": "04158",
     "ort": "Leipzig",
-    "ortsteil": "Nordwest"
+    "ortsteil": "Lindenthal"
   },
   {
     "name": "Sportplatzanlage Lößnig",
@@ -293,7 +293,7 @@
     "strasse": "Bernhard-Kellermann-Straße 3",
     "plz": "04279",
     "ort": "Leipzig",
-    "ortsteil": "Süd"
+    "ortsteil": "Sued"
   },
   {
     "name": "Sportplatzanlage Ludwig-Jahn-Straße",
@@ -301,7 +301,7 @@
     "strasse": "Ludwig-Jahn-Straße 20",
     "plz": "04178",
     "ort": "Leipzig",
-    "ortsteil": "Alt-West"
+    "ortsteil": "Boehlitz-Ehrenberg"
   },
   {
     "name": "Sportplatzanlage Lützschena",
@@ -309,7 +309,7 @@
     "strasse": "Hallesche Straße 117",
     "plz": "04159",
     "ort": "Leipzig",
-    "ortsteil": "Nordwest"
+    "ortsteil": "Luetzschena-Stahmeln"
   },
   {
     "name": "Sportplatzanlage Manfred von Brauchitsch",
@@ -317,7 +317,7 @@
     "strasse": "Friesenstraße 14",
     "plz": "04177",
     "ort": "Leipzig",
-    "ortsteil": "Alt-West"
+    "ortsteil": "Lindenau"
   },
   {
     "name": "Sportplatzanlage Mariannenpark",
@@ -325,7 +325,7 @@
     "strasse": "Rohrteichstraße 9",
     "plz": "04347",
     "ort": "Leipzig",
-    "ortsteil": "Nordost"
+    "ortsteil": "Schoenefeld-Ost"
   },
   {
     "name": "Sportplatzanlage Miltitz",
@@ -333,7 +333,7 @@
     "strasse": "Friedrich-Ludwig-Jahn-Straße 7",
     "plz": "04205",
     "ort": "Leipzig",
-    "ortsteil": "West"
+    "ortsteil": "Miltitz"
   },
   {
     "name": "Sportplatzanlage Miltitzer Weg",
@@ -341,7 +341,7 @@
     "strasse": "Miltitzer Weg 6",
     "plz": "04205",
     "ort": "Leipzig",
-    "ortsteil": "West"
+    "ortsteil": "Gruenau-Nord"
   },
   {
     "name": "Sportplatzanlage Mölkau",
@@ -349,7 +349,7 @@
     "strasse": "Sommerfelder Straße 95",
     "plz": "04316",
     "ort": "Leipzig",
-    "ortsteil": "Ost"
+    "ortsteil": "Moelkau"
   },
   {
     "name": "Sportplatzanlage Mühlwiese",
@@ -357,7 +357,7 @@
     "strasse": "Waldstraße 177",
     "plz": "04105",
     "ort": "Leipzig",
-    "ortsteil": "Nord"
+    "ortsteil": "Gohlis-Sued"
   },
   {
     "name": "Sportplatzanlage Nonnenwiese",
@@ -365,7 +365,7 @@
     "strasse": "Nonnenweg 15",
     "plz": "04229",
     "ort": "Leipzig",
-    "ortsteil": "Südwest"
+    "ortsteil": "Schleussig"
   },
   {
     "name": "Sportplatzanlage Plaußig",
@@ -373,7 +373,7 @@
     "strasse": "Seegeritzer Weg 8",
     "plz": "04349",
     "ort": "Leipzig",
-    "ortsteil": "Nordost"
+    "ortsteil": "Plaussig-Portitz"
   },
   {
     "name": "Sportplatzanlage Prager Straße",
@@ -381,7 +381,7 @@
     "strasse": "Gerhard-Langner-Weg 1",
     "plz": "04299",
     "ort": "Leipzig",
-    "ortsteil": "Südost"
+    "ortsteil": "Probstheida"
   },
   {
     "name": "Sportplatzanlage Ratzelstraße",
@@ -389,7 +389,7 @@
     "strasse": "Ratzelstraße 102",
     "plz": "04207",
     "ort": "Leipzig",
-    "ortsteil": "West"
+    "ortsteil": "Gruenau-Mitte"
   },
   {
     "name": "Sportplatzanlage RB Leipzig",
@@ -397,7 +397,7 @@
     "strasse": "Cottaweg",
     "plz": "04177",
     "ort": "Leipzig",
-    "ortsteil": "Alt-West"
+    "ortsteil": "Leutzsch"
   },
   {
     "name": "Sportplatzanlage Rietschelstraße",
@@ -405,7 +405,7 @@
     "strasse": "Rietschelstraße 58",
     "plz": "04177",
     "ort": "Leipzig",
-    "ortsteil": "Alt-West"
+    "ortsteil": "Leutzsch"
   },
   {
     "name": "Sportplatzanlage Rückmarsdorf",
@@ -413,7 +413,7 @@
     "strasse": "Sportplatzweg 17",
     "plz": "04178",
     "ort": "Leipzig",
-    "ortsteil": "Alt-West"
+    "ortsteil": "Burghausen-Rueckmarsdorf"
   },
   {
     "name": "Sportplatzanlage Sasstraße",
@@ -421,7 +421,7 @@
     "strasse": "Sasstraße 15a",
     "plz": "04155",
     "ort": "Leipzig",
-    "ortsteil": "Nord"
+    "ortsteil": "Gohlis-Nord"
   },
   {
     "name": "Sportplatzanlage Seehausen",
@@ -437,7 +437,7 @@
     "strasse": "Stahmelner Straße 218",
     "plz": "04159",
     "ort": "Leipzig",
-    "ortsteil": "Nordwest"
+    "ortsteil": "Luetzschena-Stahmeln"
   },
   {
     "name": "Sportplatzanlage Straße am Park",
@@ -445,7 +445,7 @@
     "strasse": "Straße am Park 5",
     "plz": "04209",
     "ort": "Leipzig",
-    "ortsteil": "West"
+    "ortsteil": "Gruenau-Ost"
   },
   {
     "name": "Sportplatzanlage Südkampfbahn",
@@ -453,7 +453,7 @@
     "strasse": "Raschwitzer Straße 17",
     "plz": "04279",
     "ort": "Leipzig",
-    "ortsteil": "Süd"
+    "ortsteil": "Sued"
   },
   {
     "name": "Sportplatzanlage Tarostraße",
@@ -461,7 +461,7 @@
     "strasse": "Dösner Weg 39",
     "plz": "04103",
     "ort": "Leipzig",
-    "ortsteil": "Mitte"
+    "ortsteil": "Zentrum-Sued"
   },
   {
     "name": "Sportplatzanlage Teichstraße",
@@ -469,7 +469,7 @@
     "strasse": "Teichstraße 12",
     "plz": "04277",
     "ort": "Leipzig",
-    "ortsteil": "Süd"
+    "ortsteil": "Sued"
   },
   {
     "name": "Sportplatzanlage Thaerstraße",
@@ -477,7 +477,7 @@
     "strasse": "Thaerstraße 5 a",
     "plz": "04129",
     "ort": "Leipzig",
-    "ortsteil": "Nord"
+    "ortsteil": "Eutritzsch"
   },
   {
     "name": "Sportplatzanlage Theklaer Straße",
@@ -485,7 +485,7 @@
     "strasse": "Theklaer Straße 113",
     "plz": "04349",
     "ort": "Leipzig",
-    "ortsteil": "Nordost"
+    "ortsteil": "Thekla"
   },
   {
     "name": "Sportplatzanlage Torgauer Straße",
@@ -493,7 +493,7 @@
     "strasse": "Torgauer Straße 106",
     "plz": "04318",
     "ort": "Leipzig",
-    "ortsteil": "Ost"
+    "ortsteil": "Sellerhausen-Stuenz"
   },
   {
     "name": "Sportplatzanlage Wettinbrücke",
@@ -501,7 +501,7 @@
     "strasse": "Marienweg 2",
     "plz": "04159",
     "ort": "Leipzig",
-    "ortsteil": "Nordwest"
+    "ortsteil": "Moeckern"
   },
   {
     "name": "Sportplatzanlage Wiederitzsch",
@@ -509,7 +509,7 @@
     "strasse": "Zum Feld 12",
     "plz": "0418",
     "ort": "Leipzig",
-    "ortsteil": "Nord"
+    "ortsteil": "Wiederitzsch"
   },
   {
     "name": "Sportplatzanlage Willi Kühn",
@@ -517,7 +517,7 @@
     "strasse": "Merseburger Straße 187",
     "plz": "04179",
     "ort": "Leipzig",
-    "ortsteil": "Alt-West"
+    "ortsteil": "Leutzsch"
   },
   {
     "name": "Sportplatzanlage Wurzner Straße",
@@ -525,7 +525,7 @@
     "strasse": "Wurzner Straße 140 b",
     "plz": "04315",
     "ort": "Leipzig",
-    "ortsteil": "Ost"
+    "ortsteil": "Sellerhausen-Stuenz"
   },
   {
     "name": "Stadion der Bauarbeiter",
@@ -533,7 +533,7 @@
     "strasse": "Pistorisstraße 30",
     "plz": "04229",
     "ort": "Leipzig",
-    "ortsteil": "Südwest"
+    "ortsteil": "Schleussig"
   },
   {
     "name": "Stadion der Freundschaft",
@@ -541,7 +541,7 @@
     "strasse": "Kantatenweg 39",
     "plz": "04229",
     "ort": "Leipzig",
-    "ortsteil": "Südwest"
+    "ortsteil": "Kleinzschocher"
   },
   {
     "name": "Stadion des Friedens",
@@ -549,7 +549,7 @@
     "strasse": "Max-Liebermann-Straße 83",
     "plz": "04157",
     "ort": "Leipzig",
-    "ortsteil": "Nord"
+    "ortsteil": "Gohlis-Nord"
   },
   {
     "name": "Südoststadion",
@@ -557,7 +557,7 @@
     "strasse": "Oststraße 177",
     "plz": "04299",
     "ort": "Leipzig",
-    "ortsteil": "Südost"
+    "ortsteil": "Reudnitz-Thonberg"
   },
   {
     "name": "Testfeld der Universität Leipzig (SpoWiFa)",
@@ -565,6 +565,6 @@
     "strasse": "Jahnallee 59",
     "plz": "04109",
     "ort": "Leipzig",
-    "ortsteil": "Mitte"
+    "ortsteil": "Zentrum-West"
   }
 ]
