@@ -116,7 +116,7 @@ public class WriteRDF {
 			model.add(r, RDFS.label, itemList[i].getName());
 
 			// add Address if available
-			if (addressAvailable) {
+			if (addressAvailable && !itemList[i].getStrasse().isEmpty()) {
 				boolean addAdress = true;
 
 				String plz = itemList[i].getPlz();
@@ -197,11 +197,10 @@ public class WriteRDF {
 
 				} else {
 					adresse = "http://leipzig-data.de/Data/" + plz + "." + ort + "." + str;
-					if (adressen.contains(adresse)) {
-
-					} else {
+					if (!adressen.contains(adresse)) {
 						System.out.print("error: ");
 						System.out.println(adresse);
+						System.out.println(itemList[i].getName());
 						addAdress = false;
 					}
 				}

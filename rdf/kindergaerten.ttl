@@ -96,7 +96,7 @@
         a              am:Kindergarten ;
         rdfs:label     "Ernst-Keil-Straße 17, Integrative Kindertageseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04179.Leipzig.Ernst-Keil-Strasse.17> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neulindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/kleine-fuechse-kombinierte-tageseinrichtung>
         a              am:Kindergarten ;
@@ -213,7 +213,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Integrative Kindertageseinrichtung Unikat Linnéstraße 8" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04103.Leipzig.Linnestrasse.8> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/knirpsenstadt-integrationseinrichtung>
         a              am:Kindergarten ;
@@ -225,7 +225,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Integrative Kindertageseinrichtung Bothestraße 30" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04155.Leipzig.Bothestrasse> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nord> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gohlis-Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hort-an-der-grundschule-holzhausen>
         a              am:Kindergarten ;
@@ -315,7 +315,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Betreuungsangebot Schule zur Lernförderung Grünau" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04205.Leipzig.Andromedaweg.25> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/West> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/kantor-andrae-strasse-integrationseinrichtung>
         a              am:Kindergarten ;
@@ -351,7 +351,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Seumestraße Integrationseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04249.Leipzig.Seumestrasse.99> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Hartmannsdorf-Knautnaundorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hans-beimler-strasse-kombinierte-tageseinrichtung>
         a              am:Kindergarten ;
@@ -453,7 +453,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Spinnereistraße Kombinierte Tageseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04179.Leipzig.Spinnereistrasse.10> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neulindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/friedrichshafner-strasse-integrationseinrichtung>
         a              am:Kindergarten ;
@@ -489,7 +489,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Kindertageseinrichtung Karl-Heine-Straße 95" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04229.Leipzig.Karl-Heine-Strasse> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Plagwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hort-an-der-karl-liebknecht-schule>
         a              am:Kindergarten ;
@@ -627,7 +627,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Hildegardstraße Integrationseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04315.Leipzig.Hildegardstrasse> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Volkmarsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/engelsdorfer-strasse-integrationseinrichtung>
         a              am:Kindergarten ;
@@ -645,7 +645,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Betreuungsangebot Schule zur Lernförderung Adolph Diesterweg" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04318.Leipzig.PortitzerStrasse.1> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sellerhausen-Stuenz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/waldkindergarten-kindergarten>
         a              am:Kindergarten ;
@@ -729,7 +729,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Prisma Integrationseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04179.Leipzig.Demmeringstrasse.125> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neulindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/alte-theklaer-strasse-integrationseinrichtung>
         a              am:Kindergarten ;
@@ -747,7 +747,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Betreuungsangebot Schule zur Lernförderung Fritz Gietzelt" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04229.Leipzig.Kantatenweg.40> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Kleinzschocher> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/entdeckerland-kombinierte-tageseinrichtung-1>
         a              am:Kindergarten ;
@@ -765,7 +765,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Betreuungsangebot Schule zur Lernförderung Johann-Heinrich-Pestalozzi" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04157.Leipzig.HannoverscheStrasse.2> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nord> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gohlis-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/puenktchen-integrationseinrichtung>
         a              am:Kindergarten ;
@@ -801,7 +801,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Panitzstraße Kindergarten" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04229.Leipzig.Panitzstrasse.2> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Kleinzschocher> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/die-kinderwichtel-kombinierte-tageseinrichtung>
         a              am:Kindergarten ;
@@ -915,7 +915,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Richterstraße 14; Integrative Kindertageseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04155.Leipzig.Richterstrasse> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nord> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gohlis-Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hort-an-der-clara-wieck-schule>
         a              am:Kindergarten ;
@@ -993,7 +993,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Am Gutenbergplatz Kombinierte Kindertageseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04103.Leipzig.Gutenbergplatz> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hort-an-der-hans-christian-andersen-schule>
         a              am:Kindergarten ;
@@ -1023,13 +1023,13 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Hort an der 60. Schule" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04249.Leipzig.Schoenbergstrasse.2> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Hartmannsdorf-Knautnaundorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/kindergarten-knautnaundorfer-strasse>
         a              am:Kindergarten ;
         rdfs:label     "Kindergarten Knautnaundorfer Straße" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04249.Leipzig.KnautnaundorferStrasse.4F> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Hartmannsdorf-Knautnaundorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hand-in-hand-integrationseinrichtung>
         a              am:Kindergarten ;
@@ -1047,7 +1047,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Komplexeinrichtung Kregelstraße 41a" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04317.Leipzig.Kregelstrasse> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hort-an-der-schule-am-adler>
         a              am:Kindergarten ;
@@ -1107,7 +1107,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Kombinierte Kindertageseinrichtung Goyastraße" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04105.Leipzig.Goyastrasse> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hort-der-schule-connewitz>
         a              am:Kindergarten ;
@@ -1221,13 +1221,13 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Betreuungsangebot Förderzentrum für Erziehungshilfe, Schulteil A" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04205.Leipzig.Garskestrasse.21> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/West> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/puschstrasse-hort>
         a              am:Kindergarten ;
         rdfs:label     "Puschstraße Hort" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04103.Leipzig.Puschstrasse.9> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/meininger-ring-integrationseinrichtung>
         a              am:Kindergarten ;
@@ -1239,7 +1239,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Spinnereistraße Kombinierte Tageseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04179.Leipzig.Spinnereistrasse.8> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neulindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/miniuniversum-integrationseinrichtung>
         a              am:Kindergarten ;
@@ -1323,7 +1323,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Thietmarstraße Integrationseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04179.Leipzig.Thietmarstrasse> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neulindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/am-schloesschen-kombinierte-tageseinrichtung>
         a              am:Kindergarten ;
@@ -1413,7 +1413,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Bästleinstraße Integrative Kindertageseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04347.Leipzig.Baestleinstrasse.4> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordost> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hort-an-der-schule-portitz>
         a              am:Kindergarten ;
@@ -1449,7 +1449,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Holunderzwerge Kombinierte Tageseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04249.Leipzig.Hubmaierweg> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Knautkleeberg-Knauthain> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/schenkendorfstrasse-integrationseinrichtung>
         a              am:Kindergarten ;
@@ -1593,13 +1593,13 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Integrative Kindertageseinrichtung Marcusgasse" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04315.Leipzig.Marcusgasse.7> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hort-an-der-46-schule>
         a              am:Kindergarten ;
         rdfs:label     "Hort an der 46. Schule" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04179.Leipzig.SaalfelderStrasse.29> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neulindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/inselstrasse-kombinierte-tageseinrichtung>
         a              am:Kindergarten ;
@@ -1629,7 +1629,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Betreuungsangebot Förderzentrum für Erziehungshilfe, Schulteil B" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04205.Leipzig.Garskestrasse.19> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/West> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hort-an-der-theodor-koerner-schule>
         a              am:Kindergarten ;
@@ -1641,7 +1641,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Stahmelner Straße 28; Integrative Kindertageseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04159.Leipzig.StahmelnerStrasse> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordwest> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wahren> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/gruenschnabel-integrationseinrichtung>
         a              am:Kindergarten ;
@@ -1653,7 +1653,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Fleißnerstraße 2; Kombinierte Kindertageseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04157.Leipzig.Fleissnerstrasse.2> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nord> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gohlis-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hort-an-der-grundschule-liebertwolkwitz>
         a              am:Kindergarten ;
@@ -1689,7 +1689,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "UniKids Leipzig Integrative Kindertageseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04103.Leipzig.Paul-List-Strasse.11> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/gohliser-muehle-kombinierte-tageseinrichtung>
         a              am:Kindergarten ;
@@ -1766,7 +1766,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Jadassohnstraße Kombinierte Tageseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04179.Leipzig.Jadassohnstrasse.2> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neulindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hort-an-der-wilhelm-busch-schule>
         a              am:Kindergarten ;
@@ -1868,7 +1868,7 @@ am:Kindergarten  a  owl:Class ;
         a              am:Kindergarten ;
         rdfs:label     "Holunderzwerge Kombinierte Tageseinrichtung" ;
         ld:hasAddress  <http://leipzig-data.de/Data/04249.Leipzig.Holunderweg.36> ;
-        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Knautkleeberg-Knauthain> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/hort-der-karl-schubert-schule-leipzig>
         a              am:Kindergarten ;
