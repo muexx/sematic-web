@@ -11,134 +11,134 @@
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-friesenstrasse>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Friesenstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04177.Leipzig.Friesenstrasse.6" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04177.Leipzig.Friesenstrasse.6> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-torgauer-strasse>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Torgauer Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04315.Leipzig.TorgauerStrasse.15" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Ost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04315.Leipzig.TorgauerStrasse.15> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-heinrichstrasse>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Heinrichstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04317.Leipzig.Heinrichstrasse.33" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04317.Leipzig.Heinrichstrasse.33> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-biedermannstrasse>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Biedermannstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04277.Leipzig.Hammerstrasse.11" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sued" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04277.Leipzig.Hammerstrasse.11> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-raschwitzer-strasse>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Raschwitzer Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04279.Leipzig.RaschwitzerStrasse.16" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sued" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04279.Leipzig.RaschwitzerStrasse.16> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-leplaystrasse-11>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Leplaystraße 11" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04103.Leipzig.Leplaystrasse.11" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mitte" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04103.Leipzig.Leplaystrasse.11> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthallen-der-sportwissenschaftlichen-fakultaet-der-universitaet-leipzig>
         a              am:Sporthalle ;
         rdfs:label     "Sporthallen der Sportwissenschaftlichen Fakultät der Universität Leipzig" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04109.Leipzig.Jahnallee.59" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mitte" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04109.Leipzig.Jahnallee.59> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-mannheimer-strasse>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Mannheimer Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04209.Leipzig.MannheimerStrasse" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04209.Leipzig.MannheimerStrasse> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-holzhausen>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Holzhausen" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04288.Leipzig.Emil-Altner-Weg.50" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04288.Leipzig.Emil-Altner-Weg.50> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-lauchstaedter-strasse>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Lauchstädter Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04229.Leipzig.LauchstaedterStrasse.6" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04229.Leipzig.LauchstaedterStrasse.6> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-lene-voigt>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Lene Voigt" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04289.Leipzig.Hoeltystrasse.51" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04289.Leipzig.Hoeltystrasse.51> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-an-der-radrennbahn>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle An der Radrennbahn" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04229.Leipzig.WindorferStrasse.61" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04229.Leipzig.WindorferStrasse.61> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-an-der-kotsche>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle An der Kotsche" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04207.Leipzig.AnderKotsche.39" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04207.Leipzig.AnderKotsche.39> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-arena-leipzig>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle ARENA Leipzig" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04105.Leipzig.Friedrich-Ebert-Strasse.97" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mitte" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04105.Leipzig.Friedrich-Ebert-Strasse.97> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-dieskaustrasse-355>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Dieskaustraße 355" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04249.Leipzig.Dieskaustrasse.355" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04249.Leipzig.Dieskaustrasse.355> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-breitschuhstrasse>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Breitschuhstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04249.Leipzig.Breitschuhstrasse.17" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04249.Leipzig.Breitschuhstrasse.17> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-gutsmuthsstrasse>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle GutsMuthsstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04177.Leipzig.GutsMuthsstrasse.16" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04177.Leipzig.GutsMuthsstrasse.16> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-riesaer-strasse>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Riesaer Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04328.Leipzig.RiesaerStrasse.48" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Ost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04328.Leipzig.RiesaerStrasse.48> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-bruederstrasse>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Brüderstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04103.Leipzig.Bruederstrasse.15" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mitte" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04103.Leipzig.Bruederstrasse.15> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-lange-reihe>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Lange Reihe" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04299.Leipzig.LangeReihe.54" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04299.Leipzig.LangeReihe.54> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-wittenberger-strasse>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Wittenberger Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04129.Leipzig.WittenbergerStrasse.30" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nord" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04129.Leipzig.WittenbergerStrasse.30> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-thiemstrasse>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Thiemstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04299.Leipzig.Vaclav-Neumann-Strasse.50" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04299.Leipzig.Vaclav-Neumann-Strasse.50> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 am:Sporthalle  a    owl:Class ;
         rdfs:label  "Sporthalle in Leipzig" .
@@ -146,17 +146,17 @@ am:Sporthalle  a    owl:Class ;
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-rabet>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Rabet" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04315.Leipzig.Konradstrasse" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Ost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04315.Leipzig.Konradstrasse> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-moelkau>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Mölkau" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04316.Leipzig.Karl-Friedrich-Strasse.21" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Moelkau" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04316.Leipzig.Karl-Friedrich-Strasse.21> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Moelkau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sporthalle/sporthalle-leplaystrasse-13>
         a              am:Sporthalle ;
         rdfs:label     "Sporthalle Leplaystraße 13" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04103.Leipzig.Leplaystrasse.13" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mitte" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04103.Leipzig.Leplaystrasse.13> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .

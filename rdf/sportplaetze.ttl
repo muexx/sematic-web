@@ -11,384 +11,384 @@
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-holzhaeuser-strasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Holzhäuser Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04299.Leipzig.HolzhaeuserStrasse.161" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04299.Leipzig.HolzhaeuserStrasse.161> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/stadion-des-friedens>
         a              am:Sportplatz ;
         rdfs:label     "Stadion des Friedens" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04157.Leipzig.Max-Liebermann-Strasse.83" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nord" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04157.Leipzig.Max-Liebermann-Strasse.83> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-moelkau>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Mölkau" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04316.Leipzig.SommerfelderStrasse.95" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Ost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04316.Leipzig.SommerfelderStrasse.95> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-manfred-von-brauchitsch>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Manfred von Brauchitsch" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04177.Leipzig.Friesenstrasse.14" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04177.Leipzig.Friesenstrasse.14> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-theklaer-strasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Theklaer Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04349.Leipzig.TheklaerStrasse.113" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04349.Leipzig.TheklaerStrasse.113> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-hartmannsdorf>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Hartmannsdorf" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04249.Leipzig.Erikenstrasse.6" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04249.Leipzig.Erikenstrasse.6> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-seehausen>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Seehausen" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04349.Leipzig.DingolfingerStrasse.139" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Thekla" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04349.Leipzig.DingolfingerStrasse.139> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Thekla> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-suedkampfbahn>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Südkampfbahn" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04279.Leipzig.RaschwitzerStrasse.17" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sued" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04279.Leipzig.RaschwitzerStrasse.17> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-strasse-am-park>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Straße am Park" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04209.Leipzig.StrasseamPark.5" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04209.Leipzig.StrasseamPark.5> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-holzhausen-emil-altner-weg>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Holzhausen Emil-Altner-Weg" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04288.Leipzig.Emil-Altner-Weg.45" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04288.Leipzig.Emil-Altner-Weg.45> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/testfeld-der-universitaet-leipzig-spowifa>
         a              am:Sportplatz ;
         rdfs:label     "Testfeld der Universität Leipzig (SpoWiFa)" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04109.Leipzig.Jahnallee.59" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mitte" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04109.Leipzig.Jahnallee.59> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-burghausen>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Burghausen" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04178.Leipzig.Richard-Leisebein-Strasse.20" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04178.Leipzig.Richard-Leisebein-Strasse.20> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-willi-kuehn>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Willi Kühn" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04179.Leipzig.MerseburgerStrasse.187" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04179.Leipzig.MerseburgerStrasse.187> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-rb-leipzig>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage RB Leipzig" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04177.Leipzig.Cottaweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04177.Leipzig.Cottaweg> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-tarostrasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Tarostraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04103.Leipzig.DoesnerWeg.39" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mitte" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04103.Leipzig.DoesnerWeg.39> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/august-bebel-kampfbahn>
         a              am:Sportplatz ;
         rdfs:label     "August-Bebel-Kampfbahn" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04159.Leipzig.AnderElster" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04159.Leipzig.AnderElster> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-goebschelwitz>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Göbschelwitz" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04356.Leipzig.ZurLoberaue.18" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nord" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04356.Leipzig.ZurLoberaue.18> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-knautnaundorf>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Knautnaundorf" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04249.Leipzig.EythraerWeg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04249.Leipzig.EythraerWeg> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-liebertwolkwitz>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Liebertwolkwitz" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04288.Leipzig.PragerStrasse.440" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04288.Leipzig.PragerStrasse.440> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-loessnig>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Lößnig" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04279.Leipzig.Bernhard-Kellermann-Strasse.3" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sued" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04279.Leipzig.Bernhard-Kellermann-Strasse.3> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-mariannenpark>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Mariannenpark" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04347.Leipzig.Rohrteichstrasse" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04347.Leipzig.Rohrteichstrasse> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-rueckmarsdorf>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Rückmarsdorf" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04178.Leipzig.Sportplatzweg.17" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04178.Leipzig.Sportplatzweg.17> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/red-bull-arena-leipzig>
         a              am:Sportplatz ;
         rdfs:label     "Red Bull Arena Leipzig" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04105.Leipzig.AmSportforum.3" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mitte" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04105.Leipzig.AmSportforum.3> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-prager-strasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Prager Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-an-der-parthe>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage An der Parthe" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04357.Leipzig.AnderParthe.30" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04357.Leipzig.AnderParthe.30> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-luetzschena>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Lützschena" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04159.Leipzig.HallescheStrasse.117" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04159.Leipzig.HallescheStrasse.117> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-goethesteig>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Goethesteig" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04279.Leipzig.Goethesteig.4" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sued" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04279.Leipzig.Goethesteig.4> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-karl-siegmeier>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Karl Siegmeier" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04229.Leipzig.WindorferStrasse.61" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04229.Leipzig.WindorferStrasse.61> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-holzhausen-arthur-polenz-strasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Holzhausen Arthur-Polenz-Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04288.Leipzig.Arthur-Polenz-Strasse.18" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04288.Leipzig.Arthur-Polenz-Strasse.18> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/friedrich-ludwig-jahn-kampfbahn>
         a              am:Sportplatz ;
         rdfs:label     "Friedrich-Ludwig-Jahn-Kampfbahn" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04129.Leipzig.DelitzscherStrasse.131" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Eutritzsch" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04129.Leipzig.DelitzscherStrasse.131> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Eutritzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-miltitzer-weg>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Miltitzer Weg" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04205.Leipzig.MiltitzerWeg.6" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04205.Leipzig.MiltitzerWeg.6> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/bruno-plache-stadion>
         a              am:Sportplatz ;
         rdfs:label     "Bruno-Plache-Stadion" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04289.Leipzig.ConnewitzerStrasse.21" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04289.Leipzig.ConnewitzerStrasse.21> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-albersdorfer-strasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Albersdorfer Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04249.Leipzig.AlbersdorferStrasse.17" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04249.Leipzig.AlbersdorferStrasse.17> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-althen>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Althen" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04319.Leipzig.ZumAlthenerSportplatz.15" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Ost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04319.Leipzig.ZumAlthenerSportplatz.15> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-cottaweg>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Cottaweg" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04177.Leipzig.Cottaweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04177.Leipzig.Cottaweg> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/erich-steinfurth-stadion>
         a              am:Sportplatz ;
         rdfs:label     "Erich-Steinfurth-Stadion" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04328.Leipzig.RiesaerStrasse.101" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Ost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04328.Leipzig.RiesaerStrasse.101> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-dortmunder-strasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Dortmunder Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04357.Leipzig.DortmunderStrasse.56" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04357.Leipzig.DortmunderStrasse.56> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-doelitz>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Dölitz" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04279.Leipzig.BornaischeStrasse.179B" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sued" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04279.Leipzig.BornaischeStrasse.179B> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-rietschelstrasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Rietschelstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04177.Leipzig.Rietschelstrasse.58" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04177.Leipzig.Rietschelstrasse.58> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-boehlitz-ehrenberg-leipziger-strasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Böhlitz Ehrenberg Leipziger Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04178.Leipzig.LeipzigerStrasse.124" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04178.Leipzig.LeipzigerStrasse.124> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-diderotstrasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Diderotstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04159.Leipzig.Diderotstrasse.34" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04159.Leipzig.Diderotstrasse.34> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-lindenthal>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Lindenthal" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04158.Leipzig.Gartenwinkel.4" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04158.Leipzig.Gartenwinkel.4> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-miltitz>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Miltitz" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04205.Leipzig.Friedrich-Ludwig-Jahn-Strasse.7" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04205.Leipzig.Friedrich-Ludwig-Jahn-Strasse.7> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-wurzner-strasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Wurzner Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04315.Leipzig.WurznerStrasse.140B" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Ost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04315.Leipzig.WurznerStrasse.140B> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-plaussig>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Plaußig" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04349.Leipzig.SeegeritzerWeg.8" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04349.Leipzig.SeegeritzerWeg.8> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-klettenstrasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Klettenstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04329.Leipzig.Klettenstrasse" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Ost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04329.Leipzig.Klettenstrasse> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-torgauer-strasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Torgauer Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04318.Leipzig.TorgauerStrasse.106" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Ost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04318.Leipzig.TorgauerStrasse.106> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-gontardweg>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Gontardweg" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04357.Leipzig.Gontardweg.2" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04357.Leipzig.Gontardweg.2> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-katzmannstrasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Katzmannstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04357.Leipzig.Katzmannstrasse.1A" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04357.Leipzig.Katzmannstrasse.1A> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-teichstrasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Teichstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04277.Leipzig.Teichstrasse.12" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sued" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04277.Leipzig.Teichstrasse.12> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-sasstrasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Sasstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04155.Leipzig.Sasstrasse.15A" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nord" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04155.Leipzig.Sasstrasse.15A> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-charlottenhof>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Charlottenhof" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04177.Leipzig.Erich-Koehn-Strasse.24" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04177.Leipzig.Erich-Koehn-Strasse.24> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-wiederitzsch>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Wiederitzsch" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04158.Leipzig.ZumFeld.12" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nord" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04158.Leipzig.ZumFeld.12> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-eigenheimstrasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Eigenheimstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sued" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/kurt-kresse-kampfbahn>
         a              am:Sportplatz ;
         rdfs:label     "Kurt-Kresse-Kampfbahn" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04207.Leipzig.Diezmannstrasse.16" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04207.Leipzig.Diezmannstrasse.16> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/nordanlage-sportforum>
         a              am:Sportplatz ;
         rdfs:label     "Nordanlage Sportforum" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04105.Leipzig.AmSportforum.5" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mitte" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04105.Leipzig.AmSportforum.5> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-nonnenwiese>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Nonnenwiese" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04229.Leipzig.Nonnenweg.15" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04229.Leipzig.Nonnenweg.15> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/suedoststadion>
         a              am:Sportplatz ;
         rdfs:label     "Südoststadion" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04299.Leipzig.Oststrasse.177" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04299.Leipzig.Oststrasse.177> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-engelsdorf>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Engelsdorf" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04319.Leipzig.Hans-Weigel-Strasse.29" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Ost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04319.Leipzig.Hans-Weigel-Strasse.29> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-stahmeln>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Stahmeln" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04159.Leipzig.StahmelnerStrasse.218" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04159.Leipzig.StahmelnerStrasse.218> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-wettinbruecke>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Wettinbrücke" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04159.Leipzig.Marienweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04159.Leipzig.Marienweg> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/stadion-der-freundschaft>
         a              am:Sportplatz ;
         rdfs:label     "Stadion der Freundschaft" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04229.Leipzig.Kantatenweg.39" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04229.Leipzig.Kantatenweg.39> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-doellingstrasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Döllingstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04328.Leipzig.Doellingstrasse.31" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Ost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04328.Leipzig.Doellingstrasse.31> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/karl-enders-sportpark>
         a              am:Sportplatz ;
         rdfs:label     "Karl-Enders-Sportpark" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04179.Leipzig.Demmeringstrasse.104" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04179.Leipzig.Demmeringstrasse.104> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 am:Sportplatz  a    owl:Class ;
         rdfs:label  "Sportplatz in Leipzig" .
@@ -396,41 +396,41 @@ am:Sportplatz  a    owl:Class ;
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-lausen>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Lausen" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04207.Leipzig.ZschocherscheAllee.7" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04207.Leipzig.ZschocherscheAllee.7> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/alfred-kunze-sportpark>
         a              am:Sportplatz ;
         rdfs:label     "Alfred-Kunze-Sportpark" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04179.Leipzig.AmSportpark.2" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04179.Leipzig.AmSportpark.2> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-ludwig-jahn-strasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Ludwig-Jahn-Straße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04178.Leipzig.Ludwig-Jahn-Strasse.20" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04178.Leipzig.Ludwig-Jahn-Strasse.20> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-ratzelstrasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Ratzelstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04207.Leipzig.Ratzelstrasse.102" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04207.Leipzig.Ratzelstrasse.102> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-thaerstrasse>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Thaerstraße" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04129.Leipzig.Thaerstrasse.5A" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nord" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04129.Leipzig.Thaerstrasse.5A> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/stadion-der-bauarbeiter>
         a              am:Sportplatz ;
         rdfs:label     "Stadion der Bauarbeiter" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04229.Leipzig.Pistorisstrasse.30" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04229.Leipzig.Pistorisstrasse.30> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Sportplatz/sportplatzanlage-muehlwiese>
         a              am:Sportplatz ;
         rdfs:label     "Sportplatzanlage Mühlwiese" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04105.Leipzig.Waldstrasse.177" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nord" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04105.Leipzig.Waldstrasse.177> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nord> .

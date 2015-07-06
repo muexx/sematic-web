@@ -36,6 +36,7 @@ public class WriteRDF {
 
 	protected static final String OWL_URL = "http://www.w3.org/2002/07/owl#";
 	protected static final String LD = "http://leipzig-data.de/Data/Model/";
+	protected static final String LDOT = "http://leipzig-data.de/Data/Ortsteil/";
 
 	public static void main(String[] args) throws IOException {
 
@@ -114,7 +115,7 @@ public class WriteRDF {
 			// add Label
 			model.add(r, RDFS.label, itemList[i].getName());
 
-			// add Address
+			// add Address if available
 			if (addressAvailable) {
 				boolean addAdress = true;
 
@@ -207,7 +208,8 @@ public class WriteRDF {
 
 				if (addAdress) {
 					Property hasAddress = model.createProperty(LD + "hasAddress");
-					model.add(r, hasAddress, adresse);
+					Resource addressRes = model.createResource(adresse);
+					model.add(r, hasAddress, addressRes);
 				}
 			}
 
@@ -215,7 +217,8 @@ public class WriteRDF {
 			String ortsteil = itemList[i].getOrtsteil();
 			ortsteil = replaceUmlaute(ortsteil);
 			Property inOrtsteil = model.createProperty(LD + "inOrtsteil");
-			model.add(r, inOrtsteil, "http://leipzig-data.de/Data/Ortsteil/" + ortsteil);
+			Resource ortsteilRes = model.createResource(LDOT + ortsteil);
+			model.add(r, inOrtsteil, ortsteilRes);
 
 		}
 

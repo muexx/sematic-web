@@ -11,62 +11,62 @@
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/schreberbad>
         a              am:Schwimmbad ;
         rdfs:label     "Schreberbad" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04109.Leipzig.Schreberstrasse.15" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mitte" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04109.Leipzig.Schreberstrasse.15> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/oekobad-lindenthal>
         a              am:Schwimmbad ;
         rdfs:label     "Ökobad Lindenthal" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04158.Leipzig.AmFreibad.3" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04158.Leipzig.AmFreibad.3> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/kinderfreibecken-robbe>
         a              am:Schwimmbad ;
         rdfs:label     "Kinderfreibecken Robbe" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04157.Leipzig.Kleiststrasse" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mitte" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04157.Leipzig.Kleiststrasse> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/schwimmhalle-nordost>
         a              am:Schwimmbad ;
         rdfs:label     "Schwimmhalle Nordost" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04347.Leipzig.SchoenefelderAllee.26" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04347.Leipzig.SchoenefelderAllee.26> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/schwimmhalle-mitte>
         a              am:Schwimmbad ;
         rdfs:label     "Schwimmhalle Mitte" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04159.Leipzig.Kirschbergstrasse" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nord" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04159.Leipzig.Kirschbergstrasse> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/sportbad-an-der-elster>
         a              am:Schwimmbad ;
         rdfs:label     "Sportbad an der Elster" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04229.Leipzig.Antonienstrasse.8" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Plagwitz" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04229.Leipzig.Antonienstrasse.8> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Plagwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/schwimmhalle-sued>
         a              am:Schwimmbad ;
         rdfs:label     "Schwimmhalle Süd" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04103.Leipzig.Tarostrasse.10" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mitte" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04103.Leipzig.Tarostrasse.10> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/sommerbad-kleinzschocher>
         a              am:Schwimmbad ;
         rdfs:label     "Sommerbad Kleinzschocher" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04229.Leipzig.Kuechenholzallee.75" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04229.Leipzig.Kuechenholzallee.75> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/sachsen-therme>
         a              am:Schwimmbad ;
         rdfs:label     "Sachsen-Therme" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04328.Leipzig.Schongauerstrasse.19" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Ost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04328.Leipzig.Schongauerstrasse.19> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/gruenauer-welle>
         a              am:Schwimmbad ;
         rdfs:label     "Grünauer Welle" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04209.Leipzig.StuttgarterAllee.7" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04209.Leipzig.StuttgarterAllee.7> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/West> .
 
 am:Schwimmbad  a    owl:Class ;
         rdfs:label  "Schwimmbad in Leipzig" .
@@ -74,29 +74,29 @@ am:Schwimmbad  a    owl:Class ;
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/sommerbad-schoenefeld>
         a              am:Schwimmbad ;
         rdfs:label     "Sommerbad Schönefeld" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04357.Leipzig.Volbedingstrasse.39" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04357.Leipzig.Volbedingstrasse.39> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/schwimmhalle-west>
         a              am:Schwimmbad ;
         rdfs:label     "Schwimmhalle West" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04179.Leipzig.Hans-Driesch-Strasse.52A" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Alt-West" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04179.Leipzig.Hans-Driesch-Strasse.52A> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Alt-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/schwimmhalle-nord>
         a              am:Schwimmbad ;
         rdfs:label     "Schwimmhalle Nord" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04157.Leipzig.Kleiststrasse.54" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Eutritzsch" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04157.Leipzig.Kleiststrasse.54> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Eutritzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/sommerbad-suedost>
         a              am:Schwimmbad ;
         rdfs:label     "Sommerbad Südost" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04299.Leipzig.Oststrasse.173" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04299.Leipzig.Oststrasse.173> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Schwimmbad/schwimmhalle-suedost>
         a              am:Schwimmbad ;
         rdfs:label     "Schwimmhalle Südost" ;
-        ld:hasAddress  "http://leipzig-data.de/Data/04299.Leipzig.Kolmstrasse.35" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:hasAddress  <http://leipzig-data.de/Data/04299.Leipzig.Kolmstrasse.35> ;
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .

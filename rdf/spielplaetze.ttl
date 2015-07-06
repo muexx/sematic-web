@@ -11,202 +11,202 @@
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-karlsruher-strasse-alte-salzstrasse-kleiner-kletterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Karlsruher Straße - Alte Salzstraße – Kleiner Kletterplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-streetballplatz-im-friedenspark>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Streetballplatz im Friedenspark" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-rembrandtplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Rembrandtplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Loessnig" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Loessnig> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-der-froebel-schule>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An der Fröbel-Schule" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-naturbad-suedwest>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Naturbad Südwest" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Grosszschocher" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Grosszschocher> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-martinsplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Martinsplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Kleinzschocher" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Kleinzschocher> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-uebergang>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Übergang" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Ost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-park-miltitz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Park Miltitz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Miltitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Miltitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-akeleiweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Akeleiweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-lene-voigt-park-rutschplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Lene-Voigt-Park - Rutschplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-cospudener-see>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Cospudener See" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Grosszschocher" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Grosszschocher> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-krakauer-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Krakauer Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/West" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-gruenauer-allee>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Grünauer Allee" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Ost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-edengarten>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Edengarten" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-jugendclub-rueckseite>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Jugendclub – Rückseite" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sellerhausen-Stuenz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sellerhausen-Stuenz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-huttenplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Huttenplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Grosszschocher" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Grosszschocher> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-richterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Richterplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Nord" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stadtteilpark-rabet-holzspielplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stadtteilpark Rabet - Holzspielplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-topasstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Topasstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-lessingplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Lessingplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wg-schoenefeld>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz WG Schönefeld" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Ost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-park-breitenfeld>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Park Breitenfeld" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lindenthal" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lindenthal> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-moosbeerweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Moosbeerweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Knautkleeberg-Knauthain" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Knautkleeberg-Knauthain> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-kanonenteich>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Kanonenteich" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-auensee>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Auensee" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Wahren" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wahren> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-poesgraben>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Pösgraben" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Althen-Kleinpoesna" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Althen-Kleinpoesna> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-gutspark-grosszschocher>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Gutspark Großzschocher" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Grosszschocher" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Grosszschocher> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-schoenauer-welle-kletterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Schönauer Welle – Kletterplatz“" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-schoenauer-welle-sandspielplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Schönauer Welle – Sandspielplatz“" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wg-paunsdorf>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz WG Paunsdorf" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Paunsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Paunsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-sonnenpark>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Sonnenpark" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Probstheida" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Probstheida> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-dorfteich>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Dorfteich" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Althen-Kleinpoesna" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Althen-Kleinpoesna> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-heinrich-schuetz-platz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Heinrich-Schütz-Platz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedvorstadt" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedvorstadt> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-drei-baeren-im-arthur-bretschneider-park>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Drei Bären im Arthur-Bretschneider-Park" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Eutritzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Eutritzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-goldene-hufe-kletterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Goldene Hufe - Kletterplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Heiterblick" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Heiterblick> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-volksgarten>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Volksgarten" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Ost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-hotherplatz-erlasiedlung>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Hotherplatz – Erlasiedlung" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Thekla" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Thekla> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wilder-mann>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Wilder Mann" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Leutzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Leutzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-felsental>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Felsental" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Knautkleeberg-Knauthain" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Knautkleeberg-Knauthain> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-kirchplatz-moeckern>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Kirchplatz Möckern" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Moeckern" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Moeckern> .
 
 am:Spielplatz  a    owl:Class ;
         rdfs:label  "Spielplatz in Leipzig" .
@@ -214,1339 +214,1339 @@ am:Spielplatz  a    owl:Class ;
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-lene-voigt-park-maerchenplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Lene-Voigt-Park – Märchenplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-kletterplatz-im-friedenspark>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Kletterplatz im Friedenspark" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-friedrichshafner-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Friedrichshafner Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mockau-Nord" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mockau-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wohnpark-seehausen>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Wohnpark Seehausen" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Seehausen" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Seehausen> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-schoenauer-welle-tischtennisplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Schönauer Welle – Tischtennisplatz“" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-klasingstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Klasingstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wg-mockau>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz WG Mockau" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mockau-Nord" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mockau-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-garagenhof>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Garagenhof" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Ost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-doellingstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Döllingstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Paunsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Paunsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-rotheplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Rotheplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Abtnaundorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Abtnaundorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-salbeiweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Salbeiweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Wiederitzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wiederitzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stephaniplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stephaniplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-willi-bredel-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Willi-Bredel-Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Loessnig" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Loessnig> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-alfred-frank-platz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Alfred-Frank-Platz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wiesengrund>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Wiesengrund" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-alte-theklaer-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Alte Theklaer Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Plaussig-Portitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Plaussig-Portitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-froebelplatz-im-erholungspark-loessnig-doelitz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Fröbelplatz im Erholungspark Lößnig-Dölitz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Loessnig" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Loessnig> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-gaenseanger>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Gänseanger" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-neustaedter-markt>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Neustädter Markt" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-friesenstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Friesenstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Leutzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Leutzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-parkstadt-2000-drachen>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Parkstadt 2000 – Drachen" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Plaussig-Portitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Plaussig-Portitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-ludwig-beck-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Ludwig-Beck-Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gohlis-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gohlis-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-enzianweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Enzianweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Wiederitzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wiederitzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-rennbahnweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Rennbahnweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Sued" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-spielhuegel-am-neptunweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Spielhügel Am Neptunweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-marienweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Marienweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Nordwest" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-zusestrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Zusestraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-schwarzdornweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Schwarzdornweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Knautkleeberg-Knauthain" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Knautkleeberg-Knauthain> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-theobald-beer-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Theobald-Beer-Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Wiederitzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wiederitzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stadtteilpark-plagwitz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stadtteilpark Plagwitz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Plagwitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Plagwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-forstplatz-im-stoetteritzer-waeldchen>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Forstplatz im Stötteritzer Wäldchen" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-althener-anger>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Althener Anger" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Althen-Kleinpoesna" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Althen-Kleinpoesna> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-gutsweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Gutsweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Seehausen" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Seehausen> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-verdistrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Verdistraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-kugelplatz-im-erholungspark-loessnig-doelitz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Kugelplatz im Erholungspark Lößnig-Dölitz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Loessnig" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Loessnig> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-fussballfeld-im-friedenspark>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Fußballfeld im Friedenspark" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-schenkendorfplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Schenkendorfplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedvorstadt" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedvorstadt> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-walter-markov-ring>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Walter-Markov-Ring" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Holzhausen" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Holzhausen> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-die-nonne>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Die Nonne" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schleussig" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schleussig> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-der-helmholtzschule>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An der Helmholtzschule" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-bernhardiplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Bernhardiplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-volleyball-und-fitnessplatz-im-friedenspark>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Volleyball- und Fitnessplatz im Friedenspark" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-kindergarten>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Kindergarten" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-bienitzstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Bienitzstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Burghausen-Rueckmarsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Burghausen-Rueckmarsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-hirtenweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Hirtenweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Marienbrunn" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Marienbrunn> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-alten-forsthaus>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am alten Forsthaus" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Wahren" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wahren> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-jugendclub-vorderseite>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Jugendclub – Vorderseite" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sellerhausen-Stuenz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sellerhausen-Stuenz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-balzacstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Balzacstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Nord" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-zum-rodelhuegel>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Zum Rodelhügel" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-topasstrassehoehe-gaswerksweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Topasstraße/Höhe Gaswerksweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-weisseplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Weißeplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-herrenallee>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Herrenallee" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Nordwest" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wiedebachplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Wiedebachplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Connewitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Connewitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-bismarckstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Bismarckstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Grosszschocher" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Grosszschocher> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-max-reger-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Max-Reger-Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-apostelstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Apostelstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Altlindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Altlindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-plastikgarten>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Plastikgarten" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-West" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-uranuspark>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Uranuspark" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-arnoldplatz-ballplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Arnoldplatz - Ballplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-hildebrandplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Hildebrandplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Connewitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Connewitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-mariannenpark-holzspielplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Mariannenpark - Holzspielplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Abtnaundorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Abtnaundorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-sylter-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Sylter Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gohlis-Nord" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gohlis-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stadtplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stadtplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Volkmarsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Volkmarsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-skaterpark>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Skaterpark" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Ost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-herderplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Herderplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Connewitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Connewitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-siedlung-meusdorf>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Siedlung Meusdorf" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Meusdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Meusdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-koernerplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Körnerplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Sued" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-der-grundschule>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An der Grundschule" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-alte-salzstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Alte Salzstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Ost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-schulze-delitzsch-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Schulze-Delitzsch-Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-thiemstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Thiemstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-ramdohrscher-park>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Ramdohrscher Park" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Anger-Crottendorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Anger-Crottendorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-deiwitzweg-sandplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Deiwitzweg – Sandplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lausen-Gruenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lausen-Gruenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-den-gleisen>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An den Gleisen" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wildpark-maerchenspielplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Wildpark – Märchenspielplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Connewitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Connewitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-azaleenweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Azaleenweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-gustav-schmoller-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Gustav-Schmoller-Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Wahren" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wahren> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stoetteritzer-waeldchen-rodelhuegel>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stötteritzer Wäldchen – Rodelhügel" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-bausestrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Bausestraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Neulindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neulindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-alexis-schumann-platz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Alexis-Schumann-Platz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedvorstadt" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedvorstadt> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-vorderes-rosental>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Vorderes Rosental" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Nordwest" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-elefantenplatz-im-arthur-bretschneider-park>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Elefantenplatz im Arthur-Bretschneider-Park" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Eutritzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Eutritzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-deiwitzweg-kletterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Deiwitzweg – Kletterplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lausen-Gruenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lausen-Gruenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-heinrich-budde-platz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Heinrich-Budde-Platz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gohlis-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gohlis-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-fockeberg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Fockeberg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedvorstadt" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedvorstadt> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-rodelhuegel-im-friedenspark>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Rodelhügel im Friedenspark" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-giesserplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Gießerplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Plagwitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Plagwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-robert-koch-platz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Robert-Koch-Platz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Nordwest" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wg-thekla>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz WG Thekla" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Thekla" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Thekla> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-lene-voigt-park-beachvolleyballplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Lene-Voigt-Park – Beachvolleyballplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-reudnitzer-park-skaterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Reudnitzer Park - Skaterplatz " ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-emmauskirchplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Emmauskirchplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sellerhausen-Stuenz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sellerhausen-Stuenz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-knautnaundorfer-anger>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Knautnaundorfer Anger" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-louise-otto-peters-platz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Louise-Otto-Peters-Platz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Nordwest" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-den-linden>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An den Linden" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Burghausen-Rueckmarsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Burghausen-Rueckmarsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-robert-schumann-gymnasium>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Robert-Schumann-Gymnasium" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Altlindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Altlindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-paunsdorfer-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Paunsdorfer Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Ost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-bielagarten>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Bielagarten" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-don-quichotte>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Don Quichotte" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-schillerhain>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Schillerhain" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gohlis-Sued" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gohlis-Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-goetheplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Goetheplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-bildersaal>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Bildersaal" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Nordwest" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-albrecht-duerer-platz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Albrecht-Dürer-Platz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedvorstadt" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedvorstadt> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-henricistrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Henricistraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Altlindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Altlindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-tischtennisplatz-im-erholungspark-loessnig-doelitz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Tischtennisplatz im Erholungspark Lößnig-Dölitz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Loessnig" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Loessnig> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-buergerpark-sternsiedlung>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Bürgerpark Sternsiedlung" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Moeckern" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Moeckern> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-opalstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Opalstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-der-kirche>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An der Kirche" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Holzhausen" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Holzhausen> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-lene-voigt-park-wasserspiel>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Lene-Voigt-Park - Wasserspiel" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-labyrinth>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Labyrinth" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-balduinplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Balduinplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Baalsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Baalsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-malachitstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Malachitstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-naturbad-nordost-volleyballplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Naturbad Nordost - Volleyballplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Thekla" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Thekla> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wg-sellerhausen>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz WG Sellerhausen" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sellerhausen-Stuenz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sellerhausen-Stuenz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-kletterplatz-im-erholungspark-loessnig-doelitz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Kletterplatz im Erholungspark Lößnig-Dölitz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Loessnig" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Loessnig> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-neue-leipziger-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Neue Leipziger Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stoetteritzer-waeldchen-waldspielplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stötteritzer Wäldchen – Waldspielplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-plagwitzer-bahnhof>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Plagwitzer Bahnhof" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-kletterplatz-im-arthur-bretschneider-park>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Kletterplatz im Arthur-Bretschneider-Park" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Eutritzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Eutritzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stoetteritzer-waeldchen-kleiner-schneck>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stötteritzer Wäldchen – Kleiner Schneck" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-pilzanger>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Pilzanger" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Knautkleeberg-Knauthain" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Knautkleeberg-Knauthain> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-tschechenbogen>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Tschechenbogen" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Probstheida" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Probstheida> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-freundschaftspark>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Freundschaftspark" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Probstheida" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Probstheida> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-selliner-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Selliner Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lausen-Gruenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lausen-Gruenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-titaniaweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Titaniaweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-kleinen-feld>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am kleinen Feld" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-brueckenplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Brückenplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-engelsdorfer-park-tischtennisplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Engelsdorfer Park - Tischtennisplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-polenweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Polenweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Probstheida" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Probstheida> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wildpark-waldsportplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Wildpark – Waldsportplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Connewitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Connewitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-alte-gleistrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Alte Gleistrasse" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Plagwitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Plagwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stahmelner-anger>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stahmelner Anger" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Luetzschena-Stahmeln" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Luetzschena-Stahmeln> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-arthur-polenz-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Arthur-Polenz-Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Holzhausen" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Holzhausen> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-der-schaeferei-im-erholungspark-loessnig-doelitz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An der Schäferei im Erholungspark Lößnig-Dölitz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Loessnig" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Loessnig> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-sommerfelder-weg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Sommerfelder Weg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Paunsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Paunsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-alte-salzstrasse-ballplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Alte Salzstraße – Ballplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-sandgrube-portitz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Sandgrube Portitz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Plaussig-Portitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Plaussig-Portitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-connewitzer-spitze>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Connewitzer Spitze" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Connewitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Connewitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-georg-herwegh-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Georg-Herwegh-Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Wiederitzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wiederitzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-dorfanger-hohenheida>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Dorfanger Hohenheida" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Seehausen" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Seehausen> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-schmuckplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Schmuckplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Wiederitzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wiederitzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-zeisigplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Zeisigplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Wahren" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wahren> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-engelsdorfer-park-am-rodelhuegel>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Engelsdorfer Park - Am Rodelhügel" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wildpark-linienkreuz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Wildpark - Linienkreuz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Connewitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Connewitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-brackestrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Brackestraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lausen-Gruenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lausen-Gruenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-queckstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Queckstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Altlindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Altlindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stadtteilpark-rabet-piratenplatz-bounty>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stadtteilpark Rabet - Piratenplatz Bounty" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-der-maerchenwiese>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An der Märchenwiese " ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Marienbrunn" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Marienbrunn> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-johannes-weyrauch-platz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Johannes-Weyrauch-Platz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-das-kinderreich-agra>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Das KinderReich - Agra" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Doelitz-Doesen" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Doelitz-Doesen> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-brunnen>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Brunnen" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Luetzschena-Stahmeln" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Luetzschena-Stahmeln> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-freiligrathplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Freiligrathplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gohlis-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gohlis-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-quartierspark-gruenauer-welle>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Quartierspark Grünauer Welle" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-lene-voigt-park-tischtennisplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Lene-Voigt-Park - Tischtennisplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-zur-saegemuehle>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Zur Sägemühle" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-dorotheenring>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Dorotheenring" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-heidelberger-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Heidelberger Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-august-scheibe-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz August-Scheibe-Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-der-wendeschleife>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An der Wendeschleife" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Marienbrunn" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Marienbrunn> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-der-moritzbastei>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An der Moritzbastei" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-gregoryplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Gregoryplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wildpark-teehaus>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Wildpark - Teehaus" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Connewitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Connewitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-siedlereck>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Siedlereck" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-elsapark>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Elsapark" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-emil-kluge-park>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Emil-Kluge-Park" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-gersterstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Gersterstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Doelitz-Doesen" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Doelitz-Doesen> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-wasserschloss>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Wasserschloß" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Leutzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Leutzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-volkshain-stuenz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Volkshain Stünz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Anger-Crottendorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Anger-Crottendorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-karl-heine-platz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Karl-Heine-Platz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-haferring>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Haferring" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Wiederitzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wiederitzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-alte-salzstrasse-am-kindergarten>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Alte Salzstraße – Am Kindergarten" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lausen-Gruenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lausen-Gruenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-schoenauer-park>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Schönauer Park" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-mueckenschloesschen>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Mückenschlößchen" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Nordwest" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Nordwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-gustav-schwabe-platz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Gustav-Schwabe-Platz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-reudnitzer-park-kletterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Reudnitzer Park – Kletterplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-lene-voigt-park-kletterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Lene-Voigt-Park – Kletterplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-lewienstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Lewienstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lindenthal" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lindenthal> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-baalsdorfer-anger>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Baalsdorfer Anger" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Baalsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Baalsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-klucksgraben>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Klucksgraben" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Knautkleeberg-Knauthain" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Knautkleeberg-Knauthain> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-henriettenpark>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Henriettenpark" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-erikenstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Erikenstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedwest" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedwest> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-emmausstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Emmausstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sellerhausen-Stuenz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sellerhausen-Stuenz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-flossplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Floßplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Sued" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-gruener-bogen-heiterer-blick>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Grüner Bogen - Heiterer Blick" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Paunsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Paunsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-volkspark-kleinzschocher-ballspielplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Volkspark Kleinzschocher – Ballspielplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Kleinzschocher" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Kleinzschocher> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-arnoldplatz-kletterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Arnoldplatz - Kletterplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-andromedaweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Andromedaweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Nord> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-angerteich>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Angerteich" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-offenburger-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Offenburger Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-obstgarten>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Obstgarten" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Kleinzschocher" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Kleinzschocher> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-rehbacher-anger>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Rehbacher Anger" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Hartmannsdorf-Knautnaundorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Hartmannsdorf-Knautnaundorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-demmeringstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Demmeringstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Neulindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neulindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-eisenschmidtplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Eisenschmidtplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Holzhausen" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Holzhausen> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-ochsenweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Ochsenweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Burghausen-Rueckmarsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Burghausen-Rueckmarsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-gruener-bogen-jugendtreff>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Grüner Bogen – Jugendtreff" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Paunsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Paunsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stadtteilpark-rabet-ball-und-skaterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stadtteilpark Rabet - Ball- und Skaterplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-georgplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Georgplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Altlindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Altlindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-rollerbahn-im-erholungspark-loessnig-doelitz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Rollerbahn im Erholungspark Lößnig-Dölitz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Loessnig" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Loessnig> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-alte-salzstrasse-kletterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Alte Salzstraße – Kletterplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-abtnaundorfer-park>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Abtnaundorfer Park" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Abtnaundorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Abtnaundorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-auerbachplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Auerbachplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gohlis-Sued" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gohlis-Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-landschaftspark-wiederitzsch-kletterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Landschaftspark Wiederitzsch - Kletterplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Wiederitzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wiederitzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-gartengrund>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Gartengrund" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Boehlitz-Ehrenberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-der-parkallee-holzplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An der Parkallee – Holzplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Ost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-der-aok>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An der AOK" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schleussig" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schleussig> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-liselotte-herrmann-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Liselotte-Herrmann-Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Volkmarsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Volkmarsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stadtteilpark-rabet-schaukelplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stadtteilpark Rabet - Schaukelplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-kroenerstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Krönerstraße“" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Anger-Crottendorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Anger-Crottendorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-wg-moeckern>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz WG Möckern" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Moeckern" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Moeckern> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-am-amtsgericht>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Am Amtsgericht" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedvorstadt" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedvorstadt> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-schoenauer-welle-schaukelplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Schönauer Welle – Schaukelplatz“" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-zschochersche-allee>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Zschochersche Allee" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lausen-Gruenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lausen-Gruenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-thonberger-park>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Thonberger Park" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-der-badeanlage>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An der Badeanlage" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Liebertwolkwitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-simonsplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Simonsplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-liselotte-herrmann-park>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Liselotte-Herrmann-Park" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Anger-Crottendorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Anger-Crottendorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-dunkler-wald>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Dunkler Wald" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Volkmarsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Volkmarsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-schoenauer-welle-sportwiese>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Schönauer Welle – Sportwiese" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-jugendkuhle>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Jugendkuhle" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-kleine-promenade>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Kleine Promenade" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stoetteritzer-waeldchen-kletterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stötteritzer Wäldchen – Kletterplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-der-schule>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An der Schule" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lindenthal" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lindenthal> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-oeserstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Oeserstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schleussig" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schleussig> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-waldluft>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Waldluft" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Leutzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Leutzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-johannapark>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Johannapark" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-West" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-neue-ufer>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Neue Ufer" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Sued" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-grossmannplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Großmannplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Altlindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Altlindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-teichstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Teichstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Connewitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Connewitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-marienkirchplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Marienkirchplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-leopoldstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Leopoldstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sued" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-weidmannstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Weidmannstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-naturbad-nordost-holzspielplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Naturbad Nordost - Holzspielplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Thekla" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Thekla> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stahmelner-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stahmelner Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Luetzschena-Stahmeln" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Luetzschena-Stahmeln> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-neustaedter-markt-ostseite>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Neustädter Markt - Ostseite" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Neustadt-Neuschoenefeld> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-mariannenpark-jugendplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Mariannenpark - Jugendplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Abtnaundorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Abtnaundorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-gellertplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Gellertplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Altlindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Altlindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-engelsdorfer-park-ballplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Engelsdorfer Park - Ballplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-max-reger-allee>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Max-Reger-Allee" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Sued" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-karlsruher-strasse-alte-salzstrasse-kletterplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Karlsruher Straße - Alte Salzstraße – Kletterplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-goldene-hufe-seilplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Goldene Hufe - Seilplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Heiterblick" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Heiterblick> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-palmengarten>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Palmengarten" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Lindenau" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Lindenau> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-lene-voigt-park-ballplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Lene-Voigt-Park – Ballplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-august-bebel-platz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz August-Bebel-Platz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Engelsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Engelsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stuttgarter-allee>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stuttgarter Allee" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-parkstadt-2000>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Parkstadt 2000" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Plaussig-Portitz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Plaussig-Portitz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-steinplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Steinplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Suedvorstadt" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Suedvorstadt> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-hanns-eisler-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Hanns-Eisler-Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Anger-Crottendorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Anger-Crottendorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-heimteichstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Heimteichstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Leutzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Leutzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-an-der-parkallee-tischtennisplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz An der Parkallee – Tischtennisplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gruenau-Ost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gruenau-Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-schwartzeplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Schwartzeplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Kleinzschocher" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Kleinzschocher> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-oswaldplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Oswaldplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-grassistrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Grassistraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Sued" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Sued> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-freundschaftspark-rodelhuegel>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Freundschaftspark- Rodelhügel" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Probstheida" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Probstheida> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-volkmarsdorfer-markt>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Volkmarsdorfer Markt" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Volkmarsdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Volkmarsdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-fritz-siemon-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Fritz-Siemon-Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Ost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Schoenefeld-Ost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-arthur-nagel-strasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Arthur-Nagel-Straße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Grosszschocher" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Grosszschocher> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-landschaftspark-wiederitzsch-sandspielplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Landschaftspark Wiederitzsch - Sandspielplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Wiederitzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wiederitzsch> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-garskestrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Garskestraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/West" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/West> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-volkspark-kleinzschocher-holzspielplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Volkspark Kleinzschocher – Holzspielplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Kleinzschocher" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Kleinzschocher> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-weidlichstrasse>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Weidlichstraße" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Sellerhausen-Stuenz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Sellerhausen-Stuenz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-platz-des-20-juli-1944>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Platz des 20. Juli 1944" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Gohlis-Mitte" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Gohlis-Mitte> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-reudnitzer-terrassen>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Reudnitzer Terrassen" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Reudnitz-Thonberg> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-park-doesen>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Park Dösen" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Meusdorf" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Meusdorf> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-schillerplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Schillerplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Wahren" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Wahren> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-stoetteritzer-waeldchen-tischtennisplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Stötteritzer Wäldchen – Tischtennisplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-ampereweg>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Ampéreweg" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Stoetteritz" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Stoetteritz> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-tischtennisplatz-im-friedenspark>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Tischtennisplatz im Friedenspark" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Zentrum-Suedost> .
 
 <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/spielplatz-hohmannplatz>
         a              am:Spielplatz ;
         rdfs:label     "Spielplatz Hohmannplatz" ;
-        ld:inOrtsteil  "http://leipzig-data.de/Data/Ortsteil/Eutritzsch" .
+        ld:inOrtsteil  <http://leipzig-data.de/Data/Ortsteil/Eutritzsch> .
