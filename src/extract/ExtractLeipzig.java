@@ -10,12 +10,23 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+/**
+ * Oberklasse zur Datenextraktion
+ * @author Alex
+ *
+ */
 public class ExtractLeipzig {
 
+	/**
+	 * Liste mit gefundenen Dateneintraegen (Links) extrahieren
+	 * @param itemId
+	 * @return
+	 * @throws IOException
+	 */
 	public ArrayList<LeipzigItem> getItemList(String itemId) throws IOException {
 
 		ArrayList<LeipzigItem> itemList = new ArrayList<LeipzigItem>();
-
+		
 		// http://www.leipzig.de/suchergebnisse-adressdatenbank/?tx_ewerkaddressdatabase_pi[showAll]=1&tx_ewerkaddressdatabase_pi[action]=list&tx_ewerkaddressdatabase_pi[controller]=Address&tx_ewerkaddressdatabase_pi[topics]=111
 
 		Document doc = Jsoup.connect("http://www.leipzig.de/suchergebnisse-adressdatenbank/")
@@ -50,6 +61,12 @@ public class ExtractLeipzig {
 		return itemList;
 	}
 
+	/**
+	 * Ortsteil aus Seite extrahieren
+	 * @param innerdoc
+	 * @return
+	 * @throws IOException
+	 */
 	public String extractOrtsteil(Document innerdoc) throws IOException {
 
 		String result = "";
@@ -102,6 +119,11 @@ public class ExtractLeipzig {
 		return result;
 	}
 
+	/**
+	 * Strasse aus seite extrahieren
+	 * @param innerdoc
+	 * @return
+	 */
 	public String[] extractAddress(Document innerdoc) {
 		String[] result = new String[3];
 
@@ -134,6 +156,11 @@ public class ExtractLeipzig {
 		return result;
 	}
 	
+	/**
+	 * Umlaute aus Zeichenkette entfernen
+	 * @param s
+	 * @return
+	 */
 	public static String replaceUmlaute(String s) {
 		// replace all lower Umlauts
 		s = s.replaceAll("ü", "ue").replaceAll("ö", "oe").replaceAll("ä", "ae").replaceAll("ß", "ss")

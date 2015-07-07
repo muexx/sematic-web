@@ -25,8 +25,14 @@ import com.hp.hpl.jena.vocabulary.RDFS;
 
 import extract.LeipzigItem;
 
+/**
+ * Klasse um RDF-Dateien zu erstellen
+ * @author Alex
+ *
+ */
 public class WriteRDF {
 
+	//URI Konstanten
 	protected static final String AMUE = "http://www.imn.htwk-leipzig.de/~amuelle3/Data/Model/";
 	protected static final String SPIE = "http://www.imn.htwk-leipzig.de/~amuelle3/Data/Spielplatz/";
 	protected static final String KIGA = "http://www.imn.htwk-leipzig.de/~amuelle3/Data/Kindergarten/";
@@ -40,16 +46,26 @@ public class WriteRDF {
 
 	public static void main(String[] args) throws IOException {
 
+		//Spielplatz RDF-Datei schreiben
 		writeRDF(SPIE, "spielplaetze", "Spielplaetze der Stadt Leipzig", "Spielplatz", "Spielplatz in Leipzig", false);
+		//Kindergaerten RDF-Datei schreiben
 		writeRDF(KIGA, "kindergaerten", "Kindergaerten der Stadt Leipzig", "Kindergarten", "Kindergarten in Leipzig",
 				true);
+		//Schwimmbaeder RDF-Datei schreiben
 		writeRDF(SWBA, "schwimmbaeder", "Schwimmbaeder der Stadt Leipzig", "Schwimmbad", "Schwimmbad in Leipzig", true);
+		//Sporthallen RDF-Datei schreiben
 		writeRDF(SPHA, "sporthallen", "Sporthallen der Stadt Leipzig", "Sporthalle", "Sporthalle in Leipzig", true);
+		//Sportplaetze RDF-Datei schreiben
 		writeRDF(SPPL, "sportplaetze", "Sportplaetze der Stadt Leipzig", "Sportplatz", "Sportplatz in Leipzig", true);
 
 		System.out.println("exit");
 	}
 
+	/**
+	 * Umlaute aus Zeichenkette entfernen
+	 * @param s
+	 * @return
+	 */
 	public static String replaceUmlaute(String s) {
 		// replace all lower Umlauts
 		s = s.replaceAll("ü", "ue").replaceAll("ö", "oe").replaceAll("ä", "ae").replaceAll("ß", "ss")
@@ -66,16 +82,35 @@ public class WriteRDF {
 		return s;
 	}
 
+	/**
+	 * RDF (Jena Model) in Datei schreiben
+	 * @param model
+	 * @param filename
+	 * @throws FileNotFoundException
+	 */
 	private static void writeModel(Model model, String filename) throws FileNotFoundException {
 
 		FileOutputStream fos = new FileOutputStream("rdf/" + filename + ".ttl");
+		//RDF-Model in Datei schreiben
 		RDFDataMgr.write(fos, model, Lang.TURTLE);
 
 	}
 
+	/**
+	 * Erstellen und schreiben der RDF-Dateien
+	 * 
+	 * @param url
+	 * @param filename
+	 * @param ontLable
+	 * @param className
+	 * @param classLable
+	 * @param addressAvailable
+	 * @throws IOException
+	 */
 	public static void writeRDF(String url, String filename, String ontLable, String className, String classLable,
 			boolean addressAvailable) throws IOException {
-
+		
+		//Adress-RDf zum pruefen ob Adresse existiert einlesen
 		BufferedReader br = new BufferedReader(new FileReader("rdf/Adressen.ttl"));
 
 		StringBuilder sb = new StringBuilder();
@@ -88,11 +123,15 @@ public class WriteRDF {
 		}
 		String adressen = sb.toString();
 
+		//JSON-Datei einlesen 
 		BufferedReader jsonFile = new BufferedReader(new FileReader("json/" + filename + ".json"));
 		Gson gson = new Gson();
+		//JSON in Objekte umwandeln
 		LeipzigItem[] itemList = gson.fromJson(jsonFile, LeipzigItem[].class);
-
+		
+		//Model für Ontologie erstellen
 		Model model = ModelFactory.createOntologyModel(OntModelSpec.OWL_MEM);
+		//Prefixe festlegen
 		model.setNsPrefix("ld", LD);
 		model.setNsPrefix("am", AMUE);
 
@@ -101,7 +140,7 @@ public class WriteRDF {
 		model.add(ont, RDF.type, OWL.Ontology);
 		model.add(ont, RDFS.label, ontLable);
 
-		// Create Class
+		// Create Class fuer Item-Typ
 		Resource classRes = model.createResource(AMUE + className);
 		model.add(classRes, RDF.type, OWL.Class);
 		model.add(classRes, RDFS.label, classLable);
@@ -124,6 +163,7 @@ public class WriteRDF {
 				String strasseNr = itemList[i].getStrasse();
 				strasseNr = replaceUmlaute(strasseNr);
 
+				//Straße-, Hausnummer-Teil auslesen 
 				String[] teile = strasseNr.split(" ");
 				String str = "";
 				String nr = "";
@@ -138,7 +178,8 @@ public class WriteRDF {
 						str += teile[j];
 					}
 				}
-
+				
+				//nach konkreten Hausnumern suchen
 				List<String> results = new ArrayList<String>();
 				Pattern pattern = Pattern.compile("\\d+[A-Z]?", Pattern.UNICODE_CASE);
 				Matcher matcher = pattern.matcher(nr);
@@ -152,10 +193,11 @@ public class WriteRDF {
 				}
 
 				if (results.size() != 0) {
+					//erste gefundene Hausnummer verwenden
 					nr = results.get(0);
 				}
 
-				// Ausnahmen:
+				// Adressdaten normalisieren, Fehler beheben
 				if (str.equals("Schoenbachstrasse")) {
 					plz = "04299";
 				}
@@ -193,9 +235,10 @@ public class WriteRDF {
 
 				String adresse = "http://leipzig-data.de/Data/" + plz + "." + ort + "." + strasse;
 
-				if (adressen.contains(adresse)) {
+				//pruefen ob Adresse in Adressen-RDF vorhanden
+				if (!adressen.contains(adresse)) {
 
-				} else {
+				
 					adresse = "http://leipzig-data.de/Data/" + plz + "." + ort + "." + str;
 					if (!adressen.contains(adresse)) {
 						System.out.print("error: ");
@@ -206,6 +249,7 @@ public class WriteRDF {
 				}
 
 				if (addAdress) {
+					//Adresse hinzufügen
 					Property hasAddress = model.createProperty(LD + "hasAddress");
 					Resource addressRes = model.createResource(adresse);
 					model.add(r, hasAddress, addressRes);
@@ -220,9 +264,10 @@ public class WriteRDF {
 			model.add(r, inOrtsteil, ortsteilRes);
 
 		}
-
+		//RDF-Datei schreiben
 		writeModel(model, filename);
 
+		//offene Dateien schließen
 		jsonFile.close();
 		br.close();
 	}

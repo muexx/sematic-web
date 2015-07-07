@@ -1,5 +1,10 @@
 package extract;
 
+/**
+ * Klasse für Datenobjekt von www.leipzig.de
+ * @author Alex
+ *
+ */
 public class LeipzigItem {
 
 	private String name = "";
