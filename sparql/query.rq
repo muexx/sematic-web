@@ -1,19 +1,16 @@
-PREFIX cc: <http://creativecommons.org/ns#>
 PREFIX am: <http://www.imn.htwk-leipzig.de/~amuelle3/Data/Model/>
 PREFIX ld: <http://leipzig-data.de/Data/Model/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
 SELECT ?Ort ?grund ?gym ?ober ?kiga ?spielplatz ?schwimmbad ?sportplatz ?sporthalle
-where
+WHERE
 {
   ?ort a ld:Ortsteil .
   ?ort rdfs:label ?Ort .
   OPTIONAL {
-    select ?ort (count(?g) as ?grund )
-    where {
+    SELECT ?ort (count(?g) as ?grund )
+    WHERE {
         ?g rdf:type ld:Grundschule.
         ?g ld:hasAddress ?a.
         ?a ld:inOrtsteil ?ort.
@@ -21,8 +18,8 @@ where
     GROUP BY ?ort  
   }
   OPTIONAL {
-    select ?ort (count(?g) as ?gym )
-    where {
+    SELECT ?ort (count(?g) as ?gym )
+    WHERE {
         ?g rdf:type ld:Gymnasium.
         ?g ld:hasAddress ?a.
         ?a ld:inOrtsteil ?ort.
@@ -30,8 +27,8 @@ where
     GROUP BY ?ort
   }
   OPTIONAL {
-    select ?ort (count(?g) as ?ober )
-    where {
+    SELECT ?ort (count(?g) as ?ober )
+    WHERE {
         ?g rdf:type ld:Oberschule.
         ?g ld:hasAddress ?a.
         ?a ld:inOrtsteil ?ort.
